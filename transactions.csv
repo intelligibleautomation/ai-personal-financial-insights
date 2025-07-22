@@ -1,0 +1,2001 @@
+user_id,date,amount,category,type,merchant,location,payment_method
+1001,5/8/2025,507.43,salary,Credit,Barnes-Martinez,Hillburgh,Credit Card
+1001,5/17/2025,1528.47,salary,Credit,"Austin, Lopez and Thomas",West Cheryl,ACH
+1001,5/9/2025,1007.24,entertainment,Debit,Mckee Ltd,Simmonsbury,ACH
+1001,5/24/2025,1270.16,travel,Debit,Cross-Rodriguez,North Erintown,Credit Card
+1001,4/9/2025,432.81,rent,Debit,Greer Group,East Maria,ACH
+1001,6/1/2025,2817.21,groceries,Debit,Hayes LLC,New Johnfurt,ACH
+1001,6/13/2025,2864.67,groceries,Debit,Stokes and Sons,East Michaelview,Credit Card
+1001,5/10/2025,1625.93,salary,Credit,"Yang, Kemp and Richmond",West Jayville,ACH
+1001,4/28/2025,697.05,rent,Debit,Jones Ltd,Donnaview,Debit Card
+1001,5/26/2025,-427.76,travel,Debit,"Johnson, Wise and Wilson",Ronaldberg,Debit Card
+1001,5/30/2025,-16.28,salary,Credit,"Mcdonald, Braun and Gonzalez",Pearsonhaven,Credit Card
+1001,3/28/2025,2459.59,travel,Debit,"Davis, Daniels and Banks",Lake Karaberg,ACH
+1001,4/1/2025,1200,salary,Credit,Johnson-Sanders,Goodwinstad,Credit Card
+1001,5/17/2025,869.66,travel,Debit,Davis-Wells,West Kevinhaven,ACH
+1001,4/25/2025,-16.02,salary,Credit,"Hernandez, White and Barrett",Lake Kevinborough,Credit Card
+1001,4/23/2025,574.58,salary,Credit,Cain Inc,Cooleyshire,Debit Card
+1001,6/8/2025,298.17,utilities,Debit,"Deleon, Fox and Hobbs",South Kylefort,ACH
+1001,4/25/2025,682.06,utilities,Debit,Davidson-Sweeney,Nolanfurt,Credit Card
+1001,5/15/2025,2567.62,rent,Debit,"Warner, Harris and Gilbert",West Margaretshire,Debit Card
+1001,5/30/2025,2825.38,utilities,Debit,Green-Thomas,New Joseph,Debit Card
+1002,5/22/2025,-189.68,rent,Debit,"Cohen, Smith and Larsen",North Glennside,Credit Card
+1002,6/15/2025,-46.44,groceries,Debit,Hoffman-Harris,North Tyler,ACH
+1002,6/10/2025,2560.75,salary,Credit,Bender-Gray,Brownmouth,Credit Card
+1002,3/29/2025,2901.67,entertainment,Debit,Williams-Reed,Rogersport,Credit Card
+1002,4/13/2025,2631.77,travel,Debit,Green-Estes,Adamsbury,ACH
+1002,5/15/2025,1641.98,salary,Credit,Randall-Lucas,Derrickside,Credit Card
+1002,6/18/2025,-100.27,travel,Debit,"Marshall, Bolton and Johnson",Maynardport,Debit Card
+1002,3/26/2025,1447.65,entertainment,Debit,"Larsen, Daniel and Davis",Lake Theresachester,ACH
+1002,5/2/2025,2765.91,travel,Debit,"Banks, James and Randolph",Lake Janiceville,Credit Card
+1002,6/8/2025,2166.11,salary,Credit,"Lewis, Romero and Carter",North Kristinburgh,ACH
+1002,6/12/2025,2651.59,salary,Credit,"Wilson, Alvarado and Gilbert",West Darlenebury,Debit Card
+1002,6/9/2025,2841.95,travel,Debit,Barber Group,South Johnport,Credit Card
+1002,4/29/2025,2094.31,entertainment,Debit,Cruz-Wolf,Gilbertland,Credit Card
+1002,3/29/2025,2237.57,rent,Debit,Dunn and Sons,South Amandatown,Credit Card
+1002,4/22/2025,331.33,groceries,Debit,Brown LLC,Andersonville,ACH
+1002,5/27/2025,1914.57,utilities,Debit,Crosby Inc,North Dennis,ACH
+1002,6/10/2025,255.43,salary,Credit,"Baker, Obrien and Castro",New Jasmine,Credit Card
+1002,6/12/2025,2536.86,salary,Credit,Clark-Avery,South Stephanie,ACH
+1002,5/10/2025,2053.65,rent,Debit,Brown-Smith,Butlerborough,ACH
+1002,4/27/2025,2306.08,utilities,Debit,Graves Group,West Lisahaven,ACH
+1003,5/18/2025,43.84,entertainment,Debit,Jacobs Inc,Alvarezchester,Debit Card
+1003,5/15/2025,1556.41,travel,Debit,Swanson and Sons,Destinyfurt,ACH
+1003,6/4/2025,54.39,utilities,Debit,Jones-Salazar,Kathyburgh,ACH
+1003,3/23/2025,2456.23,rent,Debit,Dickson PLC,Josephbury,Credit Card
+1003,3/28/2025,1893.74,entertainment,Debit,Levine-Kennedy,West Emily,ACH
+1003,4/14/2025,254.75,utilities,Debit,"Herrera, Alexander and Castillo",South Brittneyberg,Debit Card
+1003,4/5/2025,-111.97,utilities,Debit,Cook-Murphy,New Edwinmouth,ACH
+1003,6/3/2025,-286.38,travel,Debit,Wells LLC,Williamport,Debit Card
+1003,4/15/2025,790.27,utilities,Debit,Zimmerman-Riley,East Walterberg,ACH
+1003,4/24/2025,666.22,groceries,Debit,Contreras-Obrien,Port Jordantown,Debit Card
+1003,6/18/2025,1631.04,groceries,Debit,Larsen PLC,West Haileystad,Credit Card
+1003,5/1/2025,-79.77,utilities,Debit,Mitchell-Pollard,Nancyside,Credit Card
+1003,5/15/2025,-328.66,travel,Debit,"Reid, Bennett and Briggs",West Margaret,Credit Card
+1003,6/13/2025,378.72,utilities,Debit,Owens Group,Boothstad,ACH
+1003,4/7/2025,385.28,salary,Credit,Murillo-Thomas,New Mirandaburgh,Credit Card
+1003,5/20/2025,577.7,entertainment,Debit,Robinson Ltd,East Amber,Credit Card
+1003,5/4/2025,757.98,travel,Debit,Wheeler and Sons,Port Veronica,Debit Card
+1003,5/8/2025,936.56,travel,Debit,Francis Group,West Susanchester,ACH
+1003,4/8/2025,2165.4,groceries,Debit,"Ramos, Cook and Delgado",Michaelport,Debit Card
+1003,3/29/2025,2073.56,travel,Debit,Rosario and Sons,Dustinfurt,ACH
+1004,5/31/2025,319.58,utilities,Debit,Warren-Davis,Port Billyshire,ACH
+1004,5/11/2025,1992.54,travel,Debit,Cohen Ltd,Torresstad,Credit Card
+1004,5/10/2025,2580.06,salary,Credit,"Carr, Logan and Anderson",West Christophermouth,ACH
+1004,4/8/2025,1779.59,entertainment,Debit,Myers-Lewis,West Richardview,Credit Card
+1004,5/31/2025,652.12,groceries,Debit,"Atkins, Wade and Avila",Port Tylerland,Debit Card
+1004,5/6/2025,1615.81,utilities,Debit,Moore PLC,Samanthafort,ACH
+1004,5/3/2025,-39.72,rent,Debit,"Perry, Faulkner and King",North Susanville,Debit Card
+1004,4/2/2025,2322.46,groceries,Debit,"Knapp, Turner and Collins",Desireeburgh,Credit Card
+1004,3/24/2025,2160.66,salary,Credit,Woodard-Jones,Johnburgh,Credit Card
+1004,5/26/2025,2555.24,travel,Debit,Jarvis PLC,Kristieport,ACH
+1004,5/16/2025,1605.97,groceries,Debit,Dawson and Sons,South Nancyside,Credit Card
+1004,4/18/2025,2976.03,utilities,Debit,Gonzalez LLC,North Gregoryshire,Credit Card
+1004,4/14/2025,1715.11,travel,Debit,Martinez and Sons,West Josephstad,ACH
+1004,5/24/2025,-366.95,utilities,Debit,Johnson Ltd,Gloriaville,Debit Card
+1004,6/3/2025,119.68,rent,Debit,Haas and Sons,Johnberg,Credit Card
+1004,5/4/2025,2964.05,entertainment,Debit,Gross-Valdez,Lake Mary,Credit Card
+1004,3/31/2025,-121.9,entertainment,Debit,"Evans, Norton and Bradshaw",Tiffanyhaven,Credit Card
+1004,5/2/2025,1821.73,groceries,Debit,James and Sons,New Francishaven,Credit Card
+1004,5/6/2025,955.75,groceries,Debit,Hall Inc,Mclaughlinchester,Debit Card
+1004,4/30/2025,1702.06,entertainment,Debit,York-Shannon,Michelleside,Credit Card
+1005,3/26/2025,2545.1,groceries,Debit,Tucker and Sons,South Steven,ACH
+1005,4/20/2025,2356.38,salary,Credit,"Anderson, Curry and Smith",Michaelland,Credit Card
+1005,4/30/2025,1704.71,salary,Credit,Clark and Sons,Lake Matthewville,ACH
+1005,3/31/2025,1656.08,utilities,Debit,Holt-Lopez,East Paul,ACH
+1005,3/22/2025,373.77,rent,Debit,"Strickland, Castillo and Gonzalez",Lake Jasonburgh,ACH
+1005,6/13/2025,480.82,groceries,Debit,Avila Ltd,West Tammy,Debit Card
+1005,4/8/2025,-104.61,rent,Debit,Roberts-Duncan,East Emmaville,Credit Card
+1005,4/13/2025,2142.18,utilities,Debit,Wong PLC,Ashleychester,Debit Card
+1005,5/27/2025,840.05,utilities,Debit,Lewis-Fuller,Jessicachester,Credit Card
+1005,4/20/2025,1698,travel,Debit,Brooks and Sons,Lake Dylanchester,ACH
+1005,3/25/2025,2409.73,rent,Debit,"Cox, Hopkins and Bennett",North Jessica,Credit Card
+1005,5/21/2025,628.48,utilities,Debit,"Rhodes, Benson and Stewart",Henryfurt,Debit Card
+1005,4/10/2025,642.06,groceries,Debit,"Martin, Warner and Davis",New Kimberly,ACH
+1005,4/28/2025,951.03,travel,Debit,Austin-Mcdonald,New Chelseamouth,ACH
+1005,5/5/2025,1054.01,rent,Debit,Marquez Inc,New Huntermouth,ACH
+1005,4/28/2025,2044.52,groceries,Debit,Wagner Inc,Jacksonland,Credit Card
+1005,4/4/2025,2249.08,utilities,Debit,Owens Inc,Nicholasfurt,ACH
+1005,5/24/2025,2305.25,salary,Credit,Anderson Ltd,Mariachester,Debit Card
+1005,3/23/2025,2469.61,entertainment,Debit,French and Sons,Shannonberg,ACH
+1005,5/29/2025,505.92,groceries,Debit,Spence Group,South Janetfort,Credit Card
+1006,6/11/2025,1055.1,travel,Debit,"Miller, Juarez and Jackson",Cherylbury,Debit Card
+1006,3/21/2025,2045.14,groceries,Debit,Moore-Wright,Williamsborough,Credit Card
+1006,4/10/2025,-469.11,groceries,Debit,"Garcia, Terry and Hayes",North Charles,Debit Card
+1006,4/28/2025,364.27,entertainment,Debit,Rangel-Mccoy,Wilkinsonberg,ACH
+1006,5/25/2025,317.07,entertainment,Debit,Jones-Terrell,Loristad,Credit Card
+1006,6/16/2025,784.9,rent,Debit,"Shelton, Hunter and Burns",Lake Juliamouth,Debit Card
+1006,5/20/2025,2541.23,utilities,Debit,"Green, Lane and Dunn",Vegafurt,Debit Card
+1006,5/12/2025,-189.51,rent,Debit,Green and Sons,North Jay,Debit Card
+1006,5/1/2025,-18.25,rent,Debit,"Reed, Miller and Rojas",New Thomasville,Credit Card
+1006,4/14/2025,1576.18,utilities,Debit,Robinson-Pittman,Millerhaven,Credit Card
+1006,5/5/2025,895.35,utilities,Debit,Jones-Parker,East Zachary,Debit Card
+1006,5/14/2025,116.68,utilities,Debit,Austin LLC,Russellport,Credit Card
+1006,5/6/2025,723.43,salary,Credit,Alvarado LLC,Samuelberg,ACH
+1006,4/22/2025,623.6,utilities,Debit,Gordon and Sons,West Natasha,ACH
+1006,3/26/2025,578.89,salary,Credit,"Hall, Bradley and Stone",Ortizberg,Debit Card
+1006,3/28/2025,1322.89,travel,Debit,Anderson Group,Cummingsfurt,Credit Card
+1006,3/21/2025,392.83,rent,Debit,York LLC,Stefaniemouth,Debit Card
+1006,5/4/2025,1518.66,utilities,Debit,Ortega Inc,Port Leonardland,ACH
+1006,5/7/2025,2339.69,utilities,Debit,Brandt LLC,Andersonmouth,Credit Card
+1006,4/5/2025,1297.12,groceries,Debit,Keller and Sons,Barnesview,Debit Card
+1007,3/24/2025,2219.05,groceries,Debit,Graham Ltd,Frazierland,Credit Card
+1007,6/16/2025,2067.9,entertainment,Debit,Johnson-Fisher,Debramouth,ACH
+1007,4/2/2025,-494.27,groceries,Debit,"Benson, Turner and Tate",Lake Shelby,ACH
+1007,6/11/2025,-115.71,salary,Credit,Brown-Pena,Crosbyborough,ACH
+1007,4/2/2025,97.21,groceries,Debit,Hurley Ltd,North Kathyshire,ACH
+1007,6/15/2025,1494.32,travel,Debit,"Freeman, King and Sanders",Andrewshire,Credit Card
+1007,6/17/2025,1508.77,salary,Credit,Campbell-Smith,Coreyland,Debit Card
+1007,5/30/2025,525.93,travel,Debit,Hanson-Gonzalez,Lake Michael,ACH
+1007,5/31/2025,-235.21,utilities,Debit,Rangel Inc,Amandachester,Debit Card
+1007,5/15/2025,804.46,rent,Debit,Booth and Sons,Lake Michaelstad,Credit Card
+1007,4/13/2025,1954.41,groceries,Debit,Vazquez-Coleman,North Elizabeth,Debit Card
+1007,5/23/2025,686.03,travel,Debit,Boyer-Juarez,Robinsontown,ACH
+1007,3/30/2025,2549.41,rent,Debit,"Obrien, Pineda and Bowman",South Ashley,Debit Card
+1007,4/24/2025,625.09,travel,Debit,Weaver Inc,East David,Credit Card
+1007,5/16/2025,1334.5,utilities,Debit,Green-Curtis,West Michael,ACH
+1007,3/28/2025,618.13,rent,Debit,"Smith, Garner and Santos",West Carol,Debit Card
+1007,3/27/2025,2992.15,entertainment,Debit,Mccormick-Watson,Bauerside,Debit Card
+1007,4/4/2025,-431.3,groceries,Debit,Clark PLC,East Julieville,Credit Card
+1007,4/16/2025,1612.35,rent,Debit,Floyd LLC,Bryantport,Debit Card
+1007,5/13/2025,2560.64,utilities,Debit,"Bell, Hutchinson and Richards",Kevintown,Credit Card
+1008,6/15/2025,2073.34,entertainment,Debit,Leon Inc,Cherylport,Debit Card
+1008,6/18/2025,2342.68,groceries,Debit,Rowe-Olson,Michaelfort,ACH
+1008,4/16/2025,2357.92,rent,Debit,Sawyer LLC,East Davidland,Debit Card
+1008,6/3/2025,-28.44,travel,Debit,Campbell-Garrett,East Alan,Debit Card
+1008,5/14/2025,1249,groceries,Debit,Rodriguez-Gibson,Tanyahaven,ACH
+1008,5/22/2025,2041.19,utilities,Debit,"Galvan, Moran and Herrera",East Michelle,ACH
+1008,6/12/2025,706.17,salary,Credit,Brown Inc,Greenfort,Credit Card
+1008,4/28/2025,-54.55,groceries,Debit,Mccoy LLC,Michaelshire,Debit Card
+1008,6/5/2025,1724.99,travel,Debit,Jones-Taylor,West Christyburgh,Credit Card
+1008,4/9/2025,276.28,groceries,Debit,Weaver LLC,Whitneybury,Debit Card
+1008,6/3/2025,-11.24,entertainment,Debit,Castro Group,Richardstad,Credit Card
+1008,3/27/2025,557.92,salary,Credit,Brooks and Sons,Johnbury,ACH
+1008,4/2/2025,2928.17,salary,Credit,"Wilson, Small and Garcia",Meadowsberg,ACH
+1008,5/7/2025,1260.73,rent,Debit,Brown PLC,Kelleyburgh,Debit Card
+1008,4/12/2025,14.84,entertainment,Debit,Boyd Ltd,West Chadfort,ACH
+1008,3/23/2025,473.47,utilities,Debit,Mack-Brown,Sarachester,Debit Card
+1008,6/9/2025,2434.96,groceries,Debit,"Neal, Turner and Gardner",South Patricia,Credit Card
+1008,3/28/2025,1845.15,entertainment,Debit,"Mitchell, Luna and Coffey",New Hayden,Debit Card
+1008,4/25/2025,1770.84,travel,Debit,"Daniel, Pratt and Bowman",Angelaton,ACH
+1008,5/21/2025,1057.04,utilities,Debit,Smith Inc,Nguyenport,Credit Card
+1009,6/17/2025,2688.58,utilities,Debit,Castro-Reyes,West Stephanieberg,Debit Card
+1009,4/2/2025,2870.13,groceries,Debit,Espinoza-Gamble,Benjaminhaven,Debit Card
+1009,6/5/2025,622.09,entertainment,Debit,Smith and Sons,Port Rogerchester,Debit Card
+1009,6/12/2025,2397.77,groceries,Debit,Decker-Mendoza,Justinshire,ACH
+1009,5/1/2025,691.65,rent,Debit,"Maynard, Davis and Richards",Gonzalesshire,Credit Card
+1009,4/4/2025,2320.49,salary,Credit,"Allen, Cohen and Torres",Cookview,Credit Card
+1009,3/24/2025,-86.02,travel,Debit,"Allen, Medina and Stewart",Lake Zacharyfort,ACH
+1009,5/7/2025,758.26,utilities,Debit,Vargas-Mckinney,Lake Jenniferville,Credit Card
+1009,6/1/2025,1881.29,entertainment,Debit,Elliott Inc,North Jennifermouth,Debit Card
+1009,5/4/2025,882.53,rent,Debit,"Flores, Fuller and Hamilton",New Nancy,ACH
+1009,3/24/2025,1500.7,salary,Credit,Fitzpatrick Group,Lake Matthew,ACH
+1009,4/29/2025,918.05,travel,Debit,Taylor-Sanders,New Sarahton,ACH
+1009,3/25/2025,1761.27,travel,Debit,"Reid, Lee and Bryant",Hughesberg,Debit Card
+1009,4/10/2025,2506.06,entertainment,Debit,Jackson-Palmer,Barrside,Debit Card
+1009,5/4/2025,2984.96,travel,Debit,Evans PLC,Millerbury,Debit Card
+1009,5/20/2025,2569.23,salary,Credit,Allison Ltd,Chaneyhaven,ACH
+1009,5/28/2025,620.95,travel,Debit,"Villanueva, Lee and Pollard",East Cameronmouth,ACH
+1009,5/2/2025,2793.43,salary,Credit,"Jones, Fischer and Park",Jasonshire,Debit Card
+1009,4/16/2025,713.2,utilities,Debit,Clark-Horn,Smithside,Credit Card
+1009,5/11/2025,386.62,salary,Credit,"Hawkins, Houston and Gross",Wilsonberg,Credit Card
+1010,5/23/2025,1694,travel,Debit,"York, Orozco and Gross",Lake Mario,Debit Card
+1010,6/7/2025,1241.22,groceries,Debit,Kelly and Sons,Port Aaron,Debit Card
+1010,4/18/2025,34.14,utilities,Debit,Clay-Brock,Lake Stacey,ACH
+1010,5/9/2025,1456.85,rent,Debit,Weaver and Sons,East John,ACH
+1010,6/6/2025,924.49,rent,Debit,Vance Inc,New Nicholas,Credit Card
+1010,5/29/2025,256.77,entertainment,Debit,Jackson Ltd,East Chadton,Credit Card
+1010,6/3/2025,495.98,groceries,Debit,"Gomez, Garcia and Diaz",Lake Susanmouth,Debit Card
+1010,5/25/2025,1655.7,rent,Debit,"Webb, Walsh and Davis",Port Taylorside,Debit Card
+1010,3/24/2025,263.61,rent,Debit,"Cunningham, Swanson and Price",Vazquezmouth,ACH
+1010,5/29/2025,1679.26,groceries,Debit,Oconnell and Sons,Jordanborough,Credit Card
+1010,4/9/2025,-239.02,salary,Credit,Watson LLC,West Elizabeth,Debit Card
+1010,4/20/2025,-417.82,travel,Debit,"Walker, Cordova and Weeks",East Cody,ACH
+1010,4/8/2025,2345.87,groceries,Debit,Wilson Ltd,North Stephaniebury,ACH
+1010,4/19/2025,1477.39,entertainment,Debit,Macias and Sons,Lake Judystad,Debit Card
+1010,5/20/2025,735.05,travel,Debit,"Stewart, Peters and Benson",Nealport,ACH
+1010,5/13/2025,2725.85,entertainment,Debit,"Reyes, Williams and Christensen",Calderonhaven,ACH
+1010,5/23/2025,189.14,travel,Debit,Todd-Fisher,North Susan,ACH
+1010,6/3/2025,2006.62,entertainment,Debit,Smith Group,Alexisland,ACH
+1010,6/10/2025,650.78,entertainment,Debit,"Bennett, Rhodes and Velasquez",West Laura,Debit Card
+1010,5/22/2025,2151.58,rent,Debit,"George, Adkins and Flores",Heatherton,Credit Card
+1011,5/27/2025,884.69,rent,Debit,"Pratt, Tyler and Lee",Adamston,Debit Card
+1011,6/5/2025,51.53,travel,Debit,Holmes-Hanson,Lake Cynthiaberg,Debit Card
+1011,4/11/2025,2342.52,groceries,Debit,Stewart LLC,Shawnmouth,Credit Card
+1011,5/27/2025,1010.04,rent,Debit,Frazier-Smith,North Melissa,Debit Card
+1011,5/14/2025,366.5,salary,Credit,Miranda-Allen,Danachester,ACH
+1011,5/4/2025,1935.95,salary,Credit,Perez-Hill,Michaelfurt,Debit Card
+1011,6/10/2025,637.71,salary,Credit,Brown Ltd,South Sarah,ACH
+1011,3/22/2025,2269.07,utilities,Debit,Rodriguez PLC,West Russell,Debit Card
+1011,6/15/2025,714.98,entertainment,Debit,Montgomery LLC,West Andrea,ACH
+1011,4/3/2025,-200.48,salary,Credit,Ford PLC,Port Jeffreyberg,ACH
+1011,4/2/2025,2295.9,travel,Debit,"Gomez, Gilmore and Cohen",Jamesside,Credit Card
+1011,4/4/2025,2326.04,entertainment,Debit,White-Crawford,New Samantha,ACH
+1011,5/22/2025,1912.57,travel,Debit,House-Bishop,Fosterton,Credit Card
+1011,3/31/2025,1352.67,groceries,Debit,Parker-Carter,North Kristinville,ACH
+1011,5/16/2025,609.1,groceries,Debit,"Banks, Mills and Roberts",Donnastad,Credit Card
+1011,5/29/2025,879.61,rent,Debit,"Perez, Smith and Flores",West Tara,Debit Card
+1011,6/5/2025,-231.93,travel,Debit,Brooks Group,West Joshuabury,Debit Card
+1011,6/11/2025,1015.97,travel,Debit,"Walker, Chavez and Stewart",East Brianberg,ACH
+1011,4/5/2025,206.27,entertainment,Debit,Davidson-Elliott,Donnastad,ACH
+1011,4/15/2025,144.68,utilities,Debit,"Jimenez, Garcia and Murray",Port Larry,Debit Card
+1012,5/30/2025,1677.55,travel,Debit,Decker Group,Port Adam,Credit Card
+1012,4/12/2025,1173.11,travel,Debit,Higgins-Jones,Moyerburgh,Credit Card
+1012,6/13/2025,108.61,travel,Debit,Romero-Smith,Hallburgh,Debit Card
+1012,6/17/2025,-300.6,travel,Debit,Salazar-Wilson,Laurenmouth,Credit Card
+1012,3/25/2025,-204.59,utilities,Debit,Patton LLC,South Lori,Credit Card
+1012,5/6/2025,2484.39,entertainment,Debit,Deleon Inc,New Jennifer,Credit Card
+1012,5/13/2025,1966.02,rent,Debit,Christensen-Moran,West Thomas,Credit Card
+1012,6/2/2025,1011.82,travel,Debit,"Novak, Hill and Miller",Wilcoxchester,Debit Card
+1012,6/1/2025,1778.46,rent,Debit,Hernandez Group,Fernandezborough,Credit Card
+1012,6/14/2025,2104.85,rent,Debit,Williams and Sons,East Jennifer,Debit Card
+1012,6/9/2025,718.08,travel,Debit,Fischer-Salinas,Paulamouth,ACH
+1012,3/26/2025,2418.83,rent,Debit,Rios LLC,Taylorshire,Debit Card
+1012,4/28/2025,1069.61,groceries,Debit,Hines Ltd,Hufffort,Debit Card
+1012,4/2/2025,-36.68,utilities,Debit,Hall-Cooper,Port Scott,Debit Card
+1012,5/25/2025,972.74,rent,Debit,Jones PLC,New Thomas,Debit Card
+1012,4/6/2025,2000.08,utilities,Debit,Lee-Gonzalez,South Lindaport,Debit Card
+1012,4/17/2025,654.72,rent,Debit,Jones-Gamble,New Williamberg,Debit Card
+1012,5/18/2025,932.42,entertainment,Debit,"Hunt, Cruz and Wilson",Karentown,ACH
+1012,5/27/2025,-77.73,salary,Credit,Conley Group,Chambersview,ACH
+1012,6/16/2025,2764.78,travel,Debit,Ingram LLC,West Robertberg,Credit Card
+1013,4/27/2025,62.09,groceries,Debit,Hernandez and Sons,West Stephanieport,Debit Card
+1013,4/25/2025,1489.26,rent,Debit,Smith-Terrell,Port Seth,Credit Card
+1013,4/17/2025,94.91,entertainment,Debit,Wilson-Patel,Johnsonton,ACH
+1013,5/8/2025,-397.1,rent,Debit,Baker-Nunez,Danielside,ACH
+1013,4/12/2025,-144.31,salary,Credit,"Combs, Daniel and Thompson",Lake Lisa,Debit Card
+1013,5/9/2025,1402.98,salary,Credit,"Drake, Camacho and Jackson",South Kellyville,Credit Card
+1013,5/20/2025,-147.56,entertainment,Debit,Moore LLC,Thompsonland,Credit Card
+1013,6/16/2025,1643.5,groceries,Debit,"Mcintyre, Sanford and Hernandez",West Ashleyberg,Debit Card
+1013,5/2/2025,1682.34,entertainment,Debit,Osborne-Nelson,New Jeffery,Credit Card
+1013,3/29/2025,151.86,utilities,Debit,Weber Inc,North Catherine,Debit Card
+1013,5/22/2025,429.93,utilities,Debit,Thornton LLC,South Jacobland,Debit Card
+1013,3/26/2025,63.54,groceries,Debit,"Hardy, Brown and Gonzalez",Port Paulberg,Debit Card
+1013,6/1/2025,688.25,travel,Debit,Morgan-King,Popeton,Debit Card
+1013,3/25/2025,-240.25,rent,Debit,"Costa, Greer and Bates",North Troystad,Debit Card
+1013,4/27/2025,696.22,travel,Debit,Simmons-Anderson,Rachaelbury,Debit Card
+1013,4/7/2025,-138.95,travel,Debit,Norris-Chapman,South Kristymouth,ACH
+1013,5/6/2025,-98.65,travel,Debit,"Lynn, Gray and Conrad",Jaystad,ACH
+1013,6/7/2025,1741.36,rent,Debit,Thompson-Brooks,Zamorabury,Debit Card
+1013,6/15/2025,1442.07,travel,Debit,Gordon-King,Elizabethland,Debit Card
+1013,3/26/2025,2656.15,groceries,Debit,Rodriguez Ltd,Colemanview,Debit Card
+1014,6/18/2025,2498.22,salary,Credit,Munoz-Rodriguez,Johnsonhaven,ACH
+1014,6/17/2025,2736.58,groceries,Debit,Norman-Garcia,Cameronhaven,Debit Card
+1014,6/13/2025,578.28,utilities,Debit,Gallegos Ltd,North Jacobmouth,Debit Card
+1014,5/1/2025,2243.88,entertainment,Debit,Green PLC,Jonathanview,Debit Card
+1014,6/16/2025,2423.02,rent,Debit,Butler Ltd,Lindamouth,Credit Card
+1014,4/29/2025,1122.25,rent,Debit,Pierce-Hobbs,Raymouth,ACH
+1014,6/16/2025,582.1,utilities,Debit,"Carter, Castro and Roberts",Gordonmouth,ACH
+1014,4/13/2025,-40.16,salary,Credit,Vargas Inc,Kathleenshire,Debit Card
+1014,5/3/2025,1193.39,entertainment,Debit,Martin LLC,Warrenview,Credit Card
+1014,5/26/2025,328.16,salary,Credit,Roth-Jacobson,West Jennifer,Debit Card
+1014,6/2/2025,2613.83,groceries,Debit,Leon and Sons,Simonfort,Credit Card
+1014,4/2/2025,-401.27,entertainment,Debit,"Dixon, Miller and Waters",Russellfurt,Debit Card
+1014,4/10/2025,2988.63,travel,Debit,"Keller, Bailey and Hatfield",Lake Veronicatown,Credit Card
+1014,5/20/2025,1780.77,travel,Debit,Sanders-Pugh,Donnaland,ACH
+1014,4/24/2025,-33.76,groceries,Debit,Phelps-Potter,North Kimberly,Debit Card
+1014,5/12/2025,2089.23,groceries,Debit,Graham-Fernandez,Waltontown,ACH
+1014,5/20/2025,1394.25,travel,Debit,Lopez-Coleman,North Emily,ACH
+1014,4/13/2025,2610.76,entertainment,Debit,Young-Pacheco,Torresville,Credit Card
+1014,3/25/2025,1099.09,utilities,Debit,Ayers-Key,Lake Tannerview,ACH
+1014,3/21/2025,1022.08,travel,Debit,Cherry Group,Villegasbury,Debit Card
+1015,5/3/2025,2714.03,rent,Debit,Johnson-Perkins,Lake Davidhaven,Debit Card
+1015,5/13/2025,338.41,entertainment,Debit,Oneal-Miller,Mikeside,ACH
+1015,4/13/2025,-380.93,entertainment,Debit,Mann-Tapia,Port Michelleland,ACH
+1015,5/11/2025,874.65,rent,Debit,"Gomez, Hayes and Smith",Martinchester,Credit Card
+1015,5/8/2025,-490.14,salary,Credit,"Duarte, Dorsey and Serrano",Rachelville,Credit Card
+1015,3/23/2025,1202.21,salary,Credit,"Fowler, Gomez and Burton",Mendezburgh,ACH
+1015,3/24/2025,2021.96,entertainment,Debit,"Sanchez, Davis and Smith",West Eric,Debit Card
+1015,4/20/2025,1584.95,rent,Debit,Smith Ltd,New Williammouth,Credit Card
+1015,6/14/2025,1350.12,travel,Debit,"Morgan, Figueroa and Hernandez",Lake Douglas,Credit Card
+1015,6/8/2025,453.28,travel,Debit,"Lewis, Hendricks and Reynolds",East Kathryn,Debit Card
+1015,5/24/2025,-464.53,entertainment,Debit,Nichols Group,Glennshire,Debit Card
+1015,6/1/2025,552.7,entertainment,Debit,"Evans, Brown and Shea",Torresfurt,Credit Card
+1015,3/29/2025,2790.37,utilities,Debit,Pierce and Sons,East Karenmouth,Credit Card
+1015,5/22/2025,-211.89,utilities,Debit,Hanson PLC,North Karen,Debit Card
+1015,4/2/2025,1151.72,travel,Debit,Stewart Inc,Port Scottburgh,ACH
+1015,6/6/2025,-205.14,rent,Debit,Jones LLC,Huanghaven,Credit Card
+1015,4/15/2025,1783.34,groceries,Debit,"Doyle, Clark and Bridges",East Lori,ACH
+1015,5/28/2025,2595.6,rent,Debit,Ware-Mcgee,Smithfurt,Debit Card
+1015,4/14/2025,79.47,rent,Debit,Allen-Hartman,Joneshaven,ACH
+1015,6/14/2025,90.74,travel,Debit,Heath-Coleman,New Erica,ACH
+1016,6/3/2025,1712.22,groceries,Debit,Robertson-Johnson,Lake Danielletown,Credit Card
+1016,5/10/2025,2240.48,salary,Credit,Patrick PLC,West Justinport,Debit Card
+1016,5/16/2025,1650.96,utilities,Debit,Rodriguez-Rodriguez,East Jessicabury,Debit Card
+1016,5/28/2025,1684.7,rent,Debit,"Bernard, Raymond and Long",Dawnhaven,Credit Card
+1016,6/17/2025,349.21,groceries,Debit,Byrd-Turner,Michaelbury,Debit Card
+1016,5/20/2025,202.15,rent,Debit,Bates LLC,West Michael,Debit Card
+1016,4/20/2025,-338.62,entertainment,Debit,Schmidt-Bryan,Loriborough,ACH
+1016,3/22/2025,1043.72,salary,Credit,Burns Ltd,North Mark,ACH
+1016,6/8/2025,64.8,rent,Debit,Gillespie Group,Lake Andrea,Credit Card
+1016,6/17/2025,2301.42,salary,Credit,"Peterson, Tran and Thompson",Davidside,ACH
+1016,5/3/2025,2496.68,utilities,Debit,Aguilar Group,Carolynstad,Credit Card
+1016,3/29/2025,-149.14,utilities,Debit,Martin-Cannon,South Elizabeth,Debit Card
+1016,5/19/2025,2560.62,travel,Debit,Moon Inc,North Stevenview,Debit Card
+1016,4/2/2025,-43.94,groceries,Debit,"Hayes, Gonzalez and Garcia",Sarahview,ACH
+1016,5/2/2025,-184.84,entertainment,Debit,"Combs, Myers and Thompson",Port Robertmouth,ACH
+1016,3/24/2025,-327.45,travel,Debit,"French, Rodriguez and Robbins",Martinezview,Credit Card
+1016,4/28/2025,1376.25,utilities,Debit,Parks Group,South Michaelhaven,Debit Card
+1016,6/9/2025,2884.26,rent,Debit,Craig-Nolan,Hartmanstad,ACH
+1016,5/16/2025,919.91,entertainment,Debit,Roberts and Sons,Lake Elizabethbury,Debit Card
+1016,4/28/2025,830.59,entertainment,Debit,"Gallagher, Wright and Perry",Nicholschester,ACH
+1017,5/6/2025,2842.66,salary,Credit,Henry-Martin,Port Benjaminport,Credit Card
+1017,3/25/2025,1133,utilities,Debit,Harrison-Downs,West Teresa,Credit Card
+1017,6/2/2025,-36.03,salary,Credit,Collins-Brown,East Randy,Debit Card
+1017,4/10/2025,-158.76,groceries,Debit,Hicks-Cain,Browntown,ACH
+1017,3/25/2025,1472.63,salary,Credit,"Castillo, Garcia and Brown",Port Bonnie,Credit Card
+1017,3/29/2025,-190.62,rent,Debit,Henderson Ltd,West Barbaraport,Credit Card
+1017,5/21/2025,1896.51,entertainment,Debit,Perez Group,Allisonburgh,ACH
+1017,5/14/2025,2026.7,entertainment,Debit,Allen Group,North Bailey,Debit Card
+1017,4/17/2025,-295.95,groceries,Debit,Kent-Carroll,West Evelyn,ACH
+1017,4/15/2025,569.54,groceries,Debit,Pugh LLC,West Cindyfort,ACH
+1017,6/4/2025,-418.41,rent,Debit,Hanson Inc,North Amandaport,ACH
+1017,4/7/2025,2998.24,entertainment,Debit,"Pittman, Martinez and Jacobson",Erinland,Debit Card
+1017,5/30/2025,750.24,utilities,Debit,Harris-Williams,Barberbury,Debit Card
+1017,6/13/2025,1718.36,rent,Debit,Clay LLC,West Michael,ACH
+1017,6/5/2025,688.9,utilities,Debit,Stephens-Hernandez,Mccarthyfort,Credit Card
+1017,4/28/2025,2230.04,entertainment,Debit,Baldwin-Montgomery,Port Sabrina,Debit Card
+1017,4/6/2025,1543.05,rent,Debit,"Bailey, Rollins and Carrillo",Lake Gina,Credit Card
+1017,4/25/2025,227.01,utilities,Debit,Jones PLC,New Christina,ACH
+1017,4/13/2025,974.07,travel,Debit,Thompson-James,Williamview,Credit Card
+1017,5/21/2025,1486.87,travel,Debit,Clark Ltd,Jennifermouth,ACH
+1018,6/8/2025,-83.07,entertainment,Debit,"Riley, Flores and Porter",East Johnland,Debit Card
+1018,4/29/2025,2262.7,groceries,Debit,Wilson PLC,East Christine,ACH
+1018,5/30/2025,2654.64,groceries,Debit,Rogers Group,West Shaneborough,Debit Card
+1018,6/9/2025,266.7,salary,Credit,Johnson and Sons,Christianfort,ACH
+1018,5/10/2025,1006.43,groceries,Debit,Shields-Gonzalez,South Samuelmouth,ACH
+1018,5/18/2025,415.23,groceries,Debit,Thomas Group,South Jonathan,Credit Card
+1018,4/20/2025,1036.29,entertainment,Debit,"Holt, Jennings and Scott",Edwardsstad,Debit Card
+1018,4/4/2025,1789.8,travel,Debit,Alexander-Acosta,Port Peter,ACH
+1018,5/24/2025,1886.01,groceries,Debit,Schneider and Sons,New Jeffrey,Credit Card
+1018,3/31/2025,1983.36,utilities,Debit,"Pierce, Smith and Brown",South Crystal,ACH
+1018,4/29/2025,1477.8,entertainment,Debit,Marquez LLC,Rodgershaven,Credit Card
+1018,5/5/2025,2876.46,entertainment,Debit,"Garrison, Reed and Kirby",Michaelland,Debit Card
+1018,5/15/2025,2942.08,utilities,Debit,"Yang, Robles and Glover",Lake Gloriafurt,Debit Card
+1018,5/24/2025,-12.82,utilities,Debit,"King, Turner and Garrett",New Timothytown,ACH
+1018,4/8/2025,2553.64,travel,Debit,Rodriguez Group,North Marc,ACH
+1018,4/26/2025,930.18,salary,Credit,Bowen-Scott,Brycechester,Debit Card
+1018,4/21/2025,1144.77,entertainment,Debit,Griffin and Sons,Brucestad,Debit Card
+1018,5/26/2025,2184.51,salary,Credit,Jones-Yang,Port Brandonburgh,Debit Card
+1018,4/19/2025,663.79,rent,Debit,Jones-Salazar,Schultzville,ACH
+1018,4/27/2025,2232.09,entertainment,Debit,Garcia-Hunt,Port Hollyfort,Debit Card
+1019,5/19/2025,1136.54,groceries,Debit,"Park, Welch and Archer",Thompsonburgh,ACH
+1019,4/14/2025,1315.71,groceries,Debit,Russell-Lopez,Lake Kathryn,ACH
+1019,4/20/2025,1124.32,rent,Debit,Miranda Group,Port Christopher,Debit Card
+1019,5/28/2025,611.5,rent,Debit,Reeves-Johnson,West Steven,Debit Card
+1019,5/25/2025,1736.77,utilities,Debit,Davis Ltd,East Saraville,ACH
+1019,5/27/2025,1583.45,entertainment,Debit,"Lewis, Reynolds and Silva",North Spencer,Debit Card
+1019,5/7/2025,2919.38,utilities,Debit,"Washington, Coleman and Ellis",New Jillstad,Debit Card
+1019,6/1/2025,2698.69,travel,Debit,Klein Group,Smithport,ACH
+1019,6/11/2025,2388.95,utilities,Debit,"Allen, Johnson and Wise",Port Austinshire,Debit Card
+1019,3/27/2025,1059.9,salary,Credit,"Mathews, Nelson and Brown",Bryanfurt,Credit Card
+1019,4/30/2025,493.2,travel,Debit,Miller PLC,East Christopherton,Credit Card
+1019,6/13/2025,1558.96,salary,Credit,Hinton-Wang,Lake Allen,Credit Card
+1019,5/29/2025,1049.72,salary,Credit,Walls and Sons,Thomasport,ACH
+1019,3/29/2025,2541.62,travel,Debit,"Best, Smith and Erickson",East Adrienneborough,ACH
+1019,6/15/2025,1065.77,salary,Credit,"Keller, Wilson and Bauer",Barrettburgh,ACH
+1019,4/10/2025,2309.27,utilities,Debit,Robinson-Steele,Rileytown,Credit Card
+1019,4/3/2025,2463.38,utilities,Debit,Washington-Thompson,Lake Jacobmouth,Credit Card
+1019,4/15/2025,2235.99,salary,Credit,Stephenson and Sons,New Samanthatown,ACH
+1019,5/12/2025,1458.55,entertainment,Debit,Green PLC,Beltranborough,ACH
+1019,3/23/2025,1076.05,groceries,Debit,Newton-Anderson,North Charlesview,Credit Card
+1020,6/6/2025,2162.1,entertainment,Debit,Guzman-Miller,New Wendyburgh,Credit Card
+1020,4/25/2025,2264.55,groceries,Debit,"Durham, Green and Martinez",Franklinmouth,Credit Card
+1020,3/24/2025,1857.73,utilities,Debit,"Smith, Holmes and Howe",North Daniel,ACH
+1020,3/25/2025,2875.19,entertainment,Debit,Matthews and Sons,Port Karenville,Debit Card
+1020,5/31/2025,2098.62,groceries,Debit,Wells-Sandoval,New Jesusview,ACH
+1020,4/23/2025,995.89,travel,Debit,Johnson Group,West Richard,ACH
+1020,5/14/2025,1981.13,entertainment,Debit,"Smith, Kemp and Byrd",West Jacquelineshire,ACH
+1020,4/29/2025,1863.35,travel,Debit,Herring PLC,Port Joshua,ACH
+1020,4/12/2025,588.93,salary,Credit,"Phelps, Meadows and Spears",Jasonmouth,Debit Card
+1020,3/26/2025,-190.71,rent,Debit,Hester Group,Donaldtown,Debit Card
+1020,6/1/2025,86.15,utilities,Debit,"Thomas, Santana and Williams",Darrylberg,Debit Card
+1020,5/9/2025,2975.78,groceries,Debit,"Brown, Montgomery and Hughes",Douglashaven,Credit Card
+1020,4/1/2025,894.23,entertainment,Debit,Dodson LLC,East Anthonyton,ACH
+1020,4/20/2025,1084.63,groceries,Debit,"Livingston, Johnson and Garcia",Lake Donald,ACH
+1020,4/21/2025,1675.1,entertainment,Debit,"Armstrong, Kaufman and Lee",Wilsonshire,ACH
+1020,5/9/2025,2414.47,utilities,Debit,Jacobson-Livingston,East Jonathan,Credit Card
+1020,6/6/2025,-490.46,entertainment,Debit,Rodriguez LLC,Lake Patriciamouth,Credit Card
+1020,4/13/2025,2901.99,travel,Debit,Howell Group,Lake Jessica,Debit Card
+1020,5/18/2025,2713.06,travel,Debit,Case Inc,Haleyton,ACH
+1020,4/12/2025,810.46,groceries,Debit,Lee-Hess,Michaelstad,Credit Card
+1021,5/31/2025,-379.18,utilities,Debit,Salas PLC,Valerieborough,ACH
+1021,4/13/2025,1885.31,utilities,Debit,Porter Ltd,Kennethmouth,Debit Card
+1021,5/1/2025,2408.76,rent,Debit,Lopez-Klein,Goodwinview,ACH
+1021,4/19/2025,806.05,salary,Credit,Morton-Nguyen,East Mark,Credit Card
+1021,5/23/2025,-389.09,travel,Debit,Clark Group,Matthewsmouth,Credit Card
+1021,5/16/2025,14.2,entertainment,Debit,Webb-Smith,Port Robinborough,Credit Card
+1021,3/30/2025,630.4,groceries,Debit,"Roman, Park and Ramsey",Emilyborough,ACH
+1021,4/12/2025,2696.73,groceries,Debit,"Ingram, Dyer and Gomez",West Ryan,ACH
+1021,3/23/2025,2491.98,entertainment,Debit,"Harrison, Sanchez and Santos",Grayside,ACH
+1021,6/7/2025,2265.33,rent,Debit,"Wagner, Thomas and Williams",South Kelly,Debit Card
+1021,6/18/2025,764.9,travel,Debit,Harris and Sons,Davidview,Debit Card
+1021,5/28/2025,1811.43,travel,Debit,"Blair, Smith and Hamilton",Port Robert,ACH
+1021,6/2/2025,-482.69,entertainment,Debit,"Horne, Robinson and Brown",North Ernest,Debit Card
+1021,4/8/2025,2989.76,rent,Debit,"Hayes, Thomas and Singh",Port Theresaside,Credit Card
+1021,4/18/2025,2381.94,travel,Debit,"Stuart, Parker and Liu",New Kathryn,ACH
+1021,5/26/2025,213.83,rent,Debit,Ellison-Hale,South Elizabethborough,ACH
+1021,4/12/2025,2108.64,rent,Debit,"Lynch, Stewart and Young",East Richardmouth,ACH
+1021,5/2/2025,811.89,salary,Credit,Clarke-Johnson,Desireeville,Debit Card
+1021,6/16/2025,283.24,salary,Credit,Taylor-Aguirre,Lake Johnberg,ACH
+1021,5/18/2025,2400.31,entertainment,Debit,Carr and Sons,Port Marcus,Credit Card
+1022,4/12/2025,2803.71,utilities,Debit,Smith-Martinez,Garciafort,Debit Card
+1022,5/28/2025,1012.49,rent,Debit,Scott-Gonzales,East Ryan,Debit Card
+1022,6/16/2025,-48.69,rent,Debit,Brady-Deleon,West Annaberg,ACH
+1022,5/7/2025,2495.85,rent,Debit,Brown-Hull,South James,Debit Card
+1022,4/16/2025,2011.85,travel,Debit,Knight Group,Danielton,ACH
+1022,5/26/2025,2576.7,travel,Debit,Mcdonald-Mcclain,Lake Ronnieberg,Credit Card
+1022,3/24/2025,1536.63,salary,Credit,"Mccann, Steele and Curtis",New Breanna,Debit Card
+1022,6/17/2025,829.22,groceries,Debit,Cortez PLC,New Jeffrey,Credit Card
+1022,6/17/2025,1814.41,groceries,Debit,Anderson-Guzman,Joanneborough,ACH
+1022,4/26/2025,-154.6,travel,Debit,Salazar-Bentley,Mariatown,Debit Card
+1022,6/10/2025,2111.58,travel,Debit,Lynch and Sons,West Kyle,ACH
+1022,6/3/2025,2278.04,utilities,Debit,"Williams, Morgan and Adams",Jamestown,ACH
+1022,3/25/2025,2616.96,travel,Debit,"Berry, Harvey and Schultz",Bowersview,ACH
+1022,6/14/2025,153.74,salary,Credit,Keith-Morris,Gonzalezchester,ACH
+1022,4/19/2025,2911.69,entertainment,Debit,Brown LLC,Karentown,ACH
+1022,4/2/2025,2851.96,utilities,Debit,Smith LLC,New Michellechester,Credit Card
+1022,4/29/2025,523.27,rent,Debit,Humphrey PLC,New Matthew,Debit Card
+1022,5/23/2025,16.97,groceries,Debit,Meyers Ltd,South Ronaldshire,Debit Card
+1022,5/16/2025,2051.22,rent,Debit,Gonzales and Sons,North Christopherland,ACH
+1022,5/6/2025,510.71,groceries,Debit,Smith and Sons,Leehaven,ACH
+1023,4/21/2025,794.65,salary,Credit,Clark and Sons,Lake Sherryberg,Debit Card
+1023,4/27/2025,-212.15,travel,Debit,Sullivan-Cooper,Lake Maryberg,Debit Card
+1023,5/30/2025,1811.28,travel,Debit,Walters-Santiago,Timothybury,Debit Card
+1023,3/27/2025,-155.42,utilities,Debit,Cordova-Solomon,Perryville,Credit Card
+1023,4/11/2025,1100.94,groceries,Debit,"Lee, Hill and Hickman",Krystalburgh,Credit Card
+1023,6/6/2025,1465.51,travel,Debit,Mueller PLC,Tiffanyfurt,ACH
+1023,6/4/2025,1595.22,entertainment,Debit,"Duran, Brown and Martinez",Markland,Debit Card
+1023,5/24/2025,2055.04,entertainment,Debit,Lopez-Pham,West Edwardton,ACH
+1023,5/2/2025,189.48,entertainment,Debit,"Wright, Pennington and Blair",Lake Anthony,Credit Card
+1023,5/8/2025,1507.33,entertainment,Debit,Rogers-Harvey,South Lisaburgh,ACH
+1023,5/1/2025,1882.31,rent,Debit,West-Schwartz,Ruizborough,Credit Card
+1023,4/12/2025,2850.55,rent,Debit,Walker-Walter,Port Thomas,Credit Card
+1023,5/28/2025,203.44,utilities,Debit,Chaney Ltd,East Craigbury,Credit Card
+1023,4/29/2025,2389.27,salary,Credit,"Perez, Mitchell and Andrews",New Deborahstad,Debit Card
+1023,4/27/2025,2270.9,utilities,Debit,Anderson-Galloway,West Kelli,ACH
+1023,5/15/2025,2602.9,groceries,Debit,Norman-Cardenas,Lake Daniel,ACH
+1023,3/23/2025,2521.28,travel,Debit,"Turner, Reyes and Campbell",Lake Chadfort,Credit Card
+1023,5/7/2025,-99.21,rent,Debit,Santiago LLC,East William,ACH
+1023,6/5/2025,2433.96,travel,Debit,Coleman-Arnold,North Jon,Debit Card
+1023,4/24/2025,1106.17,rent,Debit,Smith PLC,West Williestad,Debit Card
+1024,3/27/2025,-239.25,utilities,Debit,Martin Ltd,Lake Bethland,ACH
+1024,4/12/2025,1585.82,entertainment,Debit,"Hobbs, Young and Lopez",Stevensontown,ACH
+1024,6/5/2025,904.28,utilities,Debit,Shah and Sons,South Colin,Credit Card
+1024,6/10/2025,1191.33,groceries,Debit,Allen-Anderson,Mcknightborough,Debit Card
+1024,5/17/2025,662.65,salary,Credit,Green LLC,West Jesseland,Debit Card
+1024,3/26/2025,2860.6,travel,Debit,"Wu, Garcia and Fisher",East Sarah,Credit Card
+1024,5/17/2025,297.84,rent,Debit,Richardson-Cooper,Port Troyfurt,Credit Card
+1024,4/10/2025,188.28,travel,Debit,"Branch, Gibbs and Wilson",East Chris,Debit Card
+1024,3/27/2025,665.42,groceries,Debit,Wood-Smith,Reedmouth,ACH
+1024,6/9/2025,2122.01,utilities,Debit,"Adkins, Thompson and Bennett",Chanmouth,Credit Card
+1024,4/6/2025,-155.84,rent,Debit,Ross-Young,Anthonybury,ACH
+1024,5/26/2025,1656.27,rent,Debit,Maxwell PLC,New Adammouth,Credit Card
+1024,3/26/2025,2387.84,groceries,Debit,"Walker, Morrison and Flores",Lake Sethside,Debit Card
+1024,4/24/2025,2832.08,entertainment,Debit,Gilbert-Coleman,Edwardsborough,Debit Card
+1024,4/14/2025,1865.47,rent,Debit,"Garcia, Mahoney and Yang",Orozcoton,Credit Card
+1024,5/24/2025,2288.3,entertainment,Debit,"Gordon, Herrera and Ballard",Cabrerastad,Credit Card
+1024,3/27/2025,890.73,salary,Credit,Brown-Cordova,Jessicabury,Debit Card
+1024,4/2/2025,-5.84,utilities,Debit,Gilbert-Hensley,South Pamela,ACH
+1024,4/27/2025,1037.84,utilities,Debit,"Brown, House and Ochoa",Lindsaymouth,Debit Card
+1024,4/15/2025,-330.21,salary,Credit,Garcia PLC,Port Hunter,Debit Card
+1025,5/25/2025,581.33,entertainment,Debit,Knight PLC,Port Savannahhaven,Debit Card
+1025,6/14/2025,2312.94,rent,Debit,Johnson-Rivera,Lake Justinland,ACH
+1025,3/28/2025,1289.9,rent,Debit,Singh PLC,Hicksburgh,Debit Card
+1025,5/28/2025,-198.2,salary,Credit,Strong-Turner,Nicholasville,ACH
+1025,5/29/2025,1740.28,rent,Debit,Johnson-Lucas,South Davidborough,Debit Card
+1025,5/30/2025,987.55,entertainment,Debit,Solomon and Sons,Port Dwayne,Credit Card
+1025,6/11/2025,1458.75,groceries,Debit,"Webb, Becker and Martinez",Matthewmouth,Debit Card
+1025,4/20/2025,-142.21,entertainment,Debit,Nelson Group,Mccoyshire,Debit Card
+1025,6/4/2025,2381.46,entertainment,Debit,Garcia-Williams,Katherinestad,ACH
+1025,4/15/2025,933.9,travel,Debit,Duncan-Moran,Brandonview,Credit Card
+1025,4/5/2025,720.65,salary,Credit,Green Group,Erinshire,Credit Card
+1025,5/14/2025,209.88,rent,Debit,"Morrison, Robbins and Fleming",Lake Jessicastad,ACH
+1025,5/9/2025,1375.28,groceries,Debit,Obrien-Greene,Johnsonmouth,ACH
+1025,4/4/2025,510.68,groceries,Debit,Hutchinson-James,Randyborough,Credit Card
+1025,3/31/2025,2816.98,rent,Debit,"Black, Hall and Mathews",Adamston,Credit Card
+1025,3/27/2025,1176.86,travel,Debit,Patterson Inc,Millerside,Debit Card
+1025,6/12/2025,2216.05,groceries,Debit,Armstrong-Gonzalez,Juliastad,Credit Card
+1025,5/9/2025,1560.91,rent,Debit,Mcgee-Schmitt,West Elizabethview,Credit Card
+1025,5/4/2025,1135.78,utilities,Debit,"Lambert, Robinson and Phillips",East Danielle,Credit Card
+1025,4/4/2025,1141.94,utilities,Debit,Cole LLC,Johnsonborough,ACH
+1026,5/8/2025,1082.6,utilities,Debit,"Mathis, Turner and Davis",Christophershire,Debit Card
+1026,4/25/2025,24.31,entertainment,Debit,Michael-Hayes,Flynnton,Debit Card
+1026,5/4/2025,1904.05,utilities,Debit,Bray PLC,Cardenasborough,Debit Card
+1026,5/1/2025,735.38,rent,Debit,Henderson PLC,East Carlos,Credit Card
+1026,4/15/2025,1491.07,travel,Debit,"Osborne, Bauer and Snyder",Laurahaven,ACH
+1026,5/18/2025,-114.82,travel,Debit,"Johnson, Hall and Ford",West Rachelmouth,Credit Card
+1026,6/12/2025,2657.24,utilities,Debit,Williams Group,North Jessicaport,ACH
+1026,6/11/2025,302.37,utilities,Debit,"Orozco, Ross and Lopez",Michaelshire,Credit Card
+1026,4/17/2025,-12.91,utilities,Debit,"Dillon, Lewis and Patel",Christinaberg,ACH
+1026,4/20/2025,1087.28,salary,Credit,Suarez Inc,South Stacy,Credit Card
+1026,5/30/2025,2411.54,salary,Credit,"Faulkner, Kirby and Wilson",Lake Douglasport,Debit Card
+1026,5/25/2025,1348.8,entertainment,Debit,"Pham, Stewart and Ramsey",Suzanneton,Credit Card
+1026,6/8/2025,230.74,entertainment,Debit,"Welch, Herman and Macias",East Hunter,Debit Card
+1026,5/12/2025,-394.75,groceries,Debit,Dixon PLC,Durhamshire,ACH
+1026,4/2/2025,-451.74,salary,Credit,Jones Inc,West Jaredtown,Credit Card
+1026,6/17/2025,-209.38,travel,Debit,Williams-Bentley,South Noahview,Credit Card
+1026,4/6/2025,411.23,travel,Debit,George LLC,South Ebonyberg,ACH
+1026,4/12/2025,1604.94,utilities,Debit,"Petersen, Edwards and Herman",Kellyport,Credit Card
+1026,4/17/2025,2964.43,utilities,Debit,Madden-Fuentes,Hensonview,ACH
+1026,3/29/2025,1279.63,rent,Debit,Guzman-Morris,Lake Mark,Debit Card
+1027,3/29/2025,2581.92,travel,Debit,Pollard-Cohen,Lake Danielletown,Debit Card
+1027,4/13/2025,1701.26,rent,Debit,"Hess, Jackson and Ward",Baldwinburgh,Credit Card
+1027,5/4/2025,2567.34,entertainment,Debit,Warren Inc,South Michellefort,Debit Card
+1027,5/20/2025,221.72,rent,Debit,"Newman, Mcdaniel and Martinez",Martinborough,Debit Card
+1027,3/29/2025,42.91,utilities,Debit,Brown-Russell,Lake Russell,Credit Card
+1027,6/6/2025,1597.38,travel,Debit,"Cordova, Smith and Gardner",Garciashire,Credit Card
+1027,4/16/2025,34.62,groceries,Debit,Deleon Ltd,Ochoafort,Credit Card
+1027,6/15/2025,550.15,entertainment,Debit,Lee Group,South Lucasburgh,Credit Card
+1027,5/7/2025,2717.91,entertainment,Debit,Bennett Ltd,Christopherland,Credit Card
+1027,5/11/2025,493.45,salary,Credit,Lopez-Hunter,Reginaview,Debit Card
+1027,6/6/2025,2588.14,groceries,Debit,Baker-Park,Jenniferside,Credit Card
+1027,6/12/2025,2709.39,entertainment,Debit,Day-Garcia,South Angelaland,Credit Card
+1027,5/12/2025,99.49,entertainment,Debit,"Ward, Mclaughlin and Walker",Sullivanhaven,Credit Card
+1027,5/5/2025,975.11,rent,Debit,"Romero, Poole and Parsons",Wilsonmouth,ACH
+1027,5/21/2025,2385.04,rent,Debit,"Henderson, Green and Chavez",East Rebeccamouth,Debit Card
+1027,4/25/2025,526.74,travel,Debit,Wall-Hobbs,Lake Dennis,Debit Card
+1027,6/6/2025,2350.66,groceries,Debit,Martinez-Ortiz,Port Amyborough,Credit Card
+1027,4/22/2025,1830.31,travel,Debit,"Sullivan, Mueller and Payne",North Heathertown,Debit Card
+1027,5/1/2025,-338.92,utilities,Debit,"Adams, Ellis and Martin",Sandraton,Credit Card
+1027,4/27/2025,2162.69,utilities,Debit,Jackson and Sons,East Douglas,Debit Card
+1028,5/28/2025,2945.38,rent,Debit,"Anthony, Garner and Ross",West Anne,ACH
+1028,5/13/2025,2873.12,travel,Debit,Nunez-Christian,Chaneybury,Debit Card
+1028,3/22/2025,-98.65,rent,Debit,Ramos PLC,Kentside,ACH
+1028,6/1/2025,165.78,utilities,Debit,"Cooley, Johnson and Gonzalez",Daltonfort,Debit Card
+1028,4/27/2025,214.37,rent,Debit,"Schneider, Joseph and Lee",Chenberg,Credit Card
+1028,6/12/2025,1513.73,entertainment,Debit,Williams-Moore,South Donald,Debit Card
+1028,3/29/2025,2330.63,groceries,Debit,Giles-Jackson,West Laurenside,Credit Card
+1028,3/30/2025,1125.38,rent,Debit,"Simpson, Sims and Humphrey",Calebtown,ACH
+1028,4/4/2025,1053.32,utilities,Debit,Griffin-Waters,Lake Jessicaberg,Debit Card
+1028,4/3/2025,1580.74,travel,Debit,"Snyder, Fitzgerald and Edwards",Charlesview,Credit Card
+1028,4/23/2025,570.03,salary,Credit,Christensen-Peterson,West Melinda,Debit Card
+1028,3/31/2025,2375.42,utilities,Debit,White Ltd,Moraton,ACH
+1028,6/3/2025,957.19,utilities,Debit,Winters-Garcia,Rodriguezshire,Credit Card
+1028,3/27/2025,896.76,entertainment,Debit,Palmer and Sons,Port Josephton,Credit Card
+1028,4/22/2025,804.52,entertainment,Debit,"Jones, Schneider and Erickson",North Erica,Debit Card
+1028,5/11/2025,2282.03,groceries,Debit,"Rojas, Stokes and Coleman",Juliafurt,Debit Card
+1028,6/3/2025,2257.24,salary,Credit,Ali-Santana,Rodriguezshire,ACH
+1028,5/27/2025,-259.94,salary,Credit,"Stephens, Ramirez and Murphy",Carlosport,Debit Card
+1028,5/2/2025,311.92,entertainment,Debit,"Short, Sampson and Smith",Cynthiaside,Debit Card
+1028,4/10/2025,2072.63,entertainment,Debit,Rocha-Ford,Patriciaport,ACH
+1029,5/11/2025,131.71,travel,Debit,Mitchell Ltd,Brooksshire,ACH
+1029,5/14/2025,1149.57,groceries,Debit,"Andersen, Flores and Cox",Alexandraburgh,ACH
+1029,6/17/2025,2019.82,entertainment,Debit,Schwartz-Clark,West Jonathanville,ACH
+1029,6/6/2025,2572.94,travel,Debit,Richardson-Tran,Port Jamesstad,Credit Card
+1029,5/7/2025,961.85,rent,Debit,"Miller, Greer and Delacruz",West Malikfurt,Credit Card
+1029,5/9/2025,2811.06,salary,Credit,Russell-Rivera,West Joshuaview,ACH
+1029,5/17/2025,-497.56,salary,Credit,Andrews and Sons,Lake Sarahhaven,Debit Card
+1029,3/26/2025,-67.42,salary,Credit,Martinez-Gordon,Leblancside,Credit Card
+1029,6/12/2025,604.68,rent,Debit,"Lin, Galvan and Williams",South Brenda,Debit Card
+1029,5/3/2025,105.4,rent,Debit,Garcia-Soto,North Tommymouth,Credit Card
+1029,4/28/2025,759.08,entertainment,Debit,"Santiago, Simpson and Smith",East Steven,Credit Card
+1029,5/4/2025,-185.83,groceries,Debit,"Snyder, Ferguson and Quinn",Barryborough,Credit Card
+1029,5/29/2025,808.41,entertainment,Debit,"Hernandez, Gross and Curtis",South Mark,ACH
+1029,3/28/2025,2603.3,travel,Debit,Osborne-Palmer,Peterville,ACH
+1029,3/23/2025,573.68,entertainment,Debit,Thompson Ltd,Lake Daleside,Credit Card
+1029,4/5/2025,-451.21,utilities,Debit,Byrd-Villanueva,South Glenstad,ACH
+1029,5/4/2025,1100.24,entertainment,Debit,"Heath, Duke and Coleman",Port Monique,ACH
+1029,4/12/2025,2093.77,utilities,Debit,"Garcia, Small and Craig",Port Ericburgh,Debit Card
+1029,6/10/2025,2743.75,entertainment,Debit,Molina and Sons,Millerport,Credit Card
+1029,3/23/2025,1418.85,rent,Debit,Nguyen and Sons,Ashleychester,Debit Card
+1030,5/15/2025,-316.17,rent,Debit,"Ruiz, Lewis and Cruz",North Michaelashire,Debit Card
+1030,5/6/2025,2378.41,groceries,Debit,"Carrillo, Ayala and Winters",Julieport,Debit Card
+1030,6/2/2025,705,groceries,Debit,"Lee, Williams and Benitez",South Terri,Debit Card
+1030,3/28/2025,387.53,salary,Credit,Hopkins-Romero,Jayhaven,ACH
+1030,6/5/2025,327.11,entertainment,Debit,Baker-Miller,East Janetport,Credit Card
+1030,6/6/2025,2953.92,groceries,Debit,"Barker, Olsen and Sims",South Alyssafurt,Credit Card
+1030,5/30/2025,2887.68,groceries,Debit,Stone Ltd,South Robert,ACH
+1030,4/3/2025,-377.72,utilities,Debit,Gilmore-Cooper,Alanton,Debit Card
+1030,6/10/2025,1143.52,entertainment,Debit,"Smith, Garner and Chandler",Dayburgh,Debit Card
+1030,5/29/2025,-469.71,utilities,Debit,Santos-Parrish,Gloriafort,Credit Card
+1030,5/29/2025,747.5,salary,Credit,Higgins Inc,Hatfieldfort,ACH
+1030,5/9/2025,1443.67,travel,Debit,Mcmillan-Owens,West Ricardoberg,Debit Card
+1030,4/21/2025,2695.73,groceries,Debit,"Jenkins, Waller and Harper",Catherinetown,Credit Card
+1030,6/2/2025,1572.81,groceries,Debit,"Mathews, Myers and Moran",North Katherine,ACH
+1030,4/24/2025,1943.33,groceries,Debit,Smith LLC,North David,Debit Card
+1030,5/27/2025,1849.05,rent,Debit,Lewis Ltd,East Julie,ACH
+1030,6/16/2025,2047.36,entertainment,Debit,"Hicks, Hernandez and Newman",North Scottborough,Debit Card
+1030,4/18/2025,1625.72,travel,Debit,"Davis, Williams and Reed",Millerside,Credit Card
+1030,6/10/2025,1322.41,groceries,Debit,"Campbell, Cunningham and Garcia",Port Heather,Credit Card
+1030,4/18/2025,-47.76,utilities,Debit,"Morgan, Wagner and Smith",New Chrisberg,Credit Card
+1031,4/13/2025,-464.48,rent,Debit,Suarez-Garcia,Leslieview,Credit Card
+1031,5/7/2025,694.07,rent,Debit,Bradley-Fowler,Jessicaview,ACH
+1031,3/21/2025,-170.55,entertainment,Debit,"Thomas, Garrison and Singleton",Erinhaven,Credit Card
+1031,3/22/2025,2106.34,utilities,Debit,Patel-Washington,North Adamtown,ACH
+1031,6/6/2025,1214.79,groceries,Debit,Short Ltd,East Elaineburgh,Debit Card
+1031,5/24/2025,1750.2,travel,Debit,Chambers-Jimenez,East Jennifer,Credit Card
+1031,5/18/2025,1437.7,entertainment,Debit,"Bradley, Roberts and Le",Timothyborough,Debit Card
+1031,4/15/2025,1668.42,utilities,Debit,Baldwin LLC,North Kevin,Credit Card
+1031,5/5/2025,547.43,groceries,Debit,"Rodriguez, Butler and Noble",West Theresaberg,Credit Card
+1031,4/7/2025,334.49,groceries,Debit,Reed PLC,South Julie,Credit Card
+1031,5/12/2025,1070.19,entertainment,Debit,"Reid, Haley and Barrett",Lake Amyborough,Debit Card
+1031,4/19/2025,437.45,utilities,Debit,Lowe Inc,Johnburgh,Credit Card
+1031,6/12/2025,2887.25,rent,Debit,"Avery, Fernandez and Smith",Goodmanmouth,Credit Card
+1031,4/13/2025,1014.41,rent,Debit,Graves LLC,East James,Debit Card
+1031,3/25/2025,1578.54,travel,Debit,Heath-Butler,West Sandra,Credit Card
+1031,3/24/2025,2078.83,entertainment,Debit,Craig-Bowen,Robinsonfurt,Debit Card
+1031,6/9/2025,574.13,salary,Credit,Garcia-Wilson,West Paula,Credit Card
+1031,4/24/2025,494.31,groceries,Debit,"Freeman, Floyd and Pena",Jamesbury,ACH
+1031,6/8/2025,1878.39,groceries,Debit,"Gibson, Davis and Jenkins",Campbellville,ACH
+1031,5/8/2025,266.25,groceries,Debit,"Cruz, Meza and Johnson",West Shari,ACH
+1032,4/21/2025,1717.78,groceries,Debit,Brown-Anderson,New Matthewville,ACH
+1032,6/2/2025,1508.15,entertainment,Debit,Coleman and Sons,Lake Lisa,Credit Card
+1032,4/5/2025,2561.83,groceries,Debit,Wolf Inc,New Jessicaberg,Debit Card
+1032,4/23/2025,1464.06,utilities,Debit,Harris Inc,Lake Joseph,Credit Card
+1032,4/9/2025,2021.26,groceries,Debit,Fuller PLC,Rachelfort,Debit Card
+1032,4/12/2025,237.41,groceries,Debit,Torres and Sons,South Lauramouth,Credit Card
+1032,5/15/2025,677.57,travel,Debit,Lee Inc,North Joannside,Credit Card
+1032,4/9/2025,2929.29,salary,Credit,Perez-Watson,South Barbaraville,Debit Card
+1032,4/6/2025,-54.61,groceries,Debit,Cole-Buck,Lake Ryanport,Credit Card
+1032,3/30/2025,1591.25,groceries,Debit,Jones-Brock,Gallegosburgh,ACH
+1032,6/15/2025,2225.71,travel,Debit,"Choi, Lewis and Pace",Glennland,ACH
+1032,5/28/2025,1532.53,salary,Credit,Taylor-Stokes,Burnsport,Debit Card
+1032,4/7/2025,997.46,entertainment,Debit,Green LLC,East Garybury,ACH
+1032,5/21/2025,2030.69,entertainment,Debit,Romero-Stevens,East Christinefort,ACH
+1032,3/28/2025,-426.52,entertainment,Debit,Diaz PLC,New Michael,Debit Card
+1032,3/24/2025,1026.56,travel,Debit,Thompson-Smith,North Joshua,Debit Card
+1032,3/21/2025,1421.47,entertainment,Debit,Salazar-Butler,Swansonhaven,Credit Card
+1032,5/16/2025,2381.57,rent,Debit,Owens Inc,East Sarahborough,ACH
+1032,5/2/2025,2896.56,groceries,Debit,Smith-Hall,East Sarah,Credit Card
+1032,4/9/2025,2123.8,utilities,Debit,Martinez Inc,Deannaland,ACH
+1033,4/11/2025,2612.57,travel,Debit,Green Inc,Huntland,Debit Card
+1033,3/31/2025,-245.78,travel,Debit,"Edwards, Taylor and Mcguire",Walkertown,Debit Card
+1033,4/28/2025,1646.38,groceries,Debit,Williams-Nguyen,South Kimport,Credit Card
+1033,4/11/2025,2327.27,utilities,Debit,"Butler, Henderson and Curtis",Lake Vanessa,ACH
+1033,6/12/2025,2092.49,rent,Debit,"Lee, Bauer and Leonard",Villegasburgh,Credit Card
+1033,4/5/2025,1460.48,travel,Debit,Morales-Graham,Bennettshire,ACH
+1033,6/10/2025,956.54,entertainment,Debit,Blackburn-Morgan,Matthewfurt,Debit Card
+1033,5/28/2025,1085.81,utilities,Debit,Vega-Gilmore,New Charlesport,ACH
+1033,5/7/2025,271.89,utilities,Debit,"Day, Jackson and Young",South Davidmouth,ACH
+1033,4/11/2025,1702.89,travel,Debit,"Mcgee, Bennett and Brooks",Erinton,ACH
+1033,5/22/2025,2406.15,rent,Debit,Bell PLC,Lake Eric,Debit Card
+1033,5/28/2025,1090.11,rent,Debit,Miller-Martinez,Amyberg,ACH
+1033,3/23/2025,-468.44,utilities,Debit,"Cooper, Burke and Lucero",North Beckyfort,ACH
+1033,4/9/2025,736.97,entertainment,Debit,Sanders Group,New Justinside,Credit Card
+1033,5/4/2025,2210.52,utilities,Debit,Howell Group,Longfort,ACH
+1033,3/26/2025,2844.12,travel,Debit,Luna and Sons,Toddbury,Credit Card
+1033,5/30/2025,76.52,groceries,Debit,"Cruz, Allen and Downs",Sheilachester,ACH
+1033,4/27/2025,186.76,utilities,Debit,Ray-Nelson,North Ricky,Debit Card
+1033,6/11/2025,-190.63,entertainment,Debit,Knight Inc,West Michael,Credit Card
+1033,3/29/2025,2238.93,rent,Debit,Marshall Group,Chrismouth,Debit Card
+1034,6/7/2025,2485.93,utilities,Debit,Hahn PLC,South Raymond,ACH
+1034,5/12/2025,12,travel,Debit,"Owens, Hayes and Warner",South Tiffany,Credit Card
+1034,5/18/2025,2192.64,entertainment,Debit,Reed-Carroll,Davidtown,Credit Card
+1034,5/30/2025,850.33,groceries,Debit,Murray Group,East Sean,ACH
+1034,4/26/2025,1876.39,salary,Credit,Franklin Ltd,South Savannahview,Credit Card
+1034,4/22/2025,2763.98,rent,Debit,"Dawson, Snyder and Cowan",Brandonchester,Debit Card
+1034,6/11/2025,50.61,salary,Credit,Estrada Ltd,South Zachary,Credit Card
+1034,6/18/2025,-498.73,rent,Debit,Williams Inc,Vargasland,Debit Card
+1034,5/19/2025,551.07,salary,Credit,"Reed, Rogers and Evans",East Elizabeth,ACH
+1034,5/20/2025,2088.07,utilities,Debit,"Hansen, Jackson and Gillespie",Port Thomas,ACH
+1034,4/15/2025,-362.82,utilities,Debit,"Barr, Porter and Hurst",Lake Tracey,Debit Card
+1034,5/12/2025,928.5,entertainment,Debit,"Fleming, Gross and Nelson",New Elizabeth,Debit Card
+1034,4/30/2025,753.64,rent,Debit,Smith PLC,Margaretchester,Debit Card
+1034,5/21/2025,2917.92,groceries,Debit,Norman-Clark,Beckyfurt,Debit Card
+1034,4/5/2025,740.19,rent,Debit,"Thompson, Ochoa and Oconnor",Palmermouth,ACH
+1034,3/29/2025,-410.25,entertainment,Debit,"Barker, Thomas and Stewart",Gabrielborough,Credit Card
+1034,5/3/2025,1195.4,entertainment,Debit,Rodriguez-Carr,Lynnchester,ACH
+1034,4/23/2025,562.53,salary,Credit,"Smith, Rodriguez and Hopkins",Michaelfort,Credit Card
+1034,5/31/2025,479.61,salary,Credit,Smith-Melendez,West Lynnside,Debit Card
+1034,4/7/2025,814.53,entertainment,Debit,"Gilbert, Black and Kennedy",Reidhaven,ACH
+1035,3/26/2025,800.17,travel,Debit,"Moore, Watts and Murray",Port Barrystad,ACH
+1035,5/29/2025,2073.02,rent,Debit,Martinez LLC,Lake Samantha,ACH
+1035,6/3/2025,1092.31,utilities,Debit,Browning-Pena,Williamsport,Debit Card
+1035,6/9/2025,2460.23,utilities,Debit,Kelley LLC,New John,Credit Card
+1035,4/29/2025,1687.57,travel,Debit,"Macias, Davis and Park",Williamschester,ACH
+1035,5/10/2025,-261.4,salary,Credit,Richardson Ltd,East Bretttown,Credit Card
+1035,3/29/2025,1427.29,groceries,Debit,Smith and Sons,Michaelside,Debit Card
+1035,4/24/2025,2326.5,groceries,Debit,Jones PLC,New William,Debit Card
+1035,4/7/2025,-287.02,salary,Credit,"Weber, Warner and Dodson",West Jeanette,ACH
+1035,3/31/2025,2849.66,entertainment,Debit,"Nichols, Jackson and Ellis",Kyleville,Debit Card
+1035,5/14/2025,2524.89,entertainment,Debit,"Hammond, Gibson and Carr",Stevenmouth,Debit Card
+1035,4/30/2025,542.48,salary,Credit,Morse LLC,West Thomasville,ACH
+1035,5/25/2025,464.14,salary,Credit,Brown-Martin,Lake Chelsea,ACH
+1035,4/7/2025,2461.55,salary,Credit,"Orozco, Williams and Rogers",New Victoriaport,Credit Card
+1035,4/25/2025,-463.8,groceries,Debit,Foster and Sons,Beverlyfurt,ACH
+1035,5/27/2025,-446.13,salary,Credit,Browning-Wilson,Maldonadoville,Credit Card
+1035,6/12/2025,137.44,entertainment,Debit,"Robertson, Jones and Wall",New Charles,ACH
+1035,5/25/2025,2066.43,entertainment,Debit,Burke and Sons,Lake Jose,ACH
+1035,4/12/2025,625.31,salary,Credit,Lee Inc,West Jessica,Debit Card
+1035,6/10/2025,2652.03,entertainment,Debit,Lee-Gonzalez,New Natalie,Debit Card
+1036,5/17/2025,240.6,rent,Debit,Stone-Mosley,Hartport,ACH
+1036,4/29/2025,1498.96,utilities,Debit,Terry-Jones,Frybury,Debit Card
+1036,5/1/2025,1057.04,groceries,Debit,Jordan LLC,North Danielshire,Debit Card
+1036,6/17/2025,1328,groceries,Debit,Nielsen-Morris,Fowlerside,Debit Card
+1036,5/3/2025,2929.77,groceries,Debit,Bates-Barnes,South Amyview,Credit Card
+1036,5/31/2025,2624.48,groceries,Debit,White PLC,West Kevinstad,ACH
+1036,6/12/2025,1993.45,utilities,Debit,French-Lowe,East Aprilport,Debit Card
+1036,6/11/2025,62.71,salary,Credit,"Miller, Hunter and Silva",Benjaminburgh,Debit Card
+1036,6/9/2025,143.89,salary,Credit,Wood-Smith,Deborahchester,ACH
+1036,3/21/2025,-446.39,salary,Credit,Hunter-Barnes,Lake Leahburgh,Debit Card
+1036,5/10/2025,2608.1,utilities,Debit,Montgomery-Jones,East Dianeburgh,ACH
+1036,3/31/2025,1633.57,groceries,Debit,James-Rodriguez,Port Amber,Debit Card
+1036,4/19/2025,491.02,rent,Debit,"Davis, Luna and Clark",South Shawnfort,ACH
+1036,5/14/2025,-394.19,utilities,Debit,Ross-Thomas,Jonesview,Credit Card
+1036,5/22/2025,-432.23,utilities,Debit,Sullivan-Nguyen,Aguilarville,ACH
+1036,4/20/2025,1808.19,rent,Debit,Turner Group,Lauraside,ACH
+1036,4/19/2025,2219.56,utilities,Debit,Moss-Henderson,East Michelle,Credit Card
+1036,5/5/2025,2847.47,salary,Credit,Gates Group,West Kennethmouth,ACH
+1036,4/1/2025,2271.73,travel,Debit,"Williams, Collins and Bray",West Christopherland,Credit Card
+1036,5/12/2025,623.88,entertainment,Debit,Gordon-Rogers,South Connieburgh,Debit Card
+1037,5/30/2025,-222.72,entertainment,Debit,Moss-Merritt,North Amystad,ACH
+1037,6/1/2025,2318.93,entertainment,Debit,Garcia-Wright,West Mark,ACH
+1037,5/27/2025,2893.97,salary,Credit,Walton-Zuniga,New Lauraland,Debit Card
+1037,4/10/2025,90.29,salary,Credit,Bishop Ltd,South Sylvia,ACH
+1037,4/21/2025,-5.81,rent,Debit,Green Inc,Sarahbury,ACH
+1037,4/5/2025,1447.71,rent,Debit,Bird Group,Floydshire,Debit Card
+1037,4/18/2025,999.1,rent,Debit,"Holland, Keith and Braun",Anitafurt,Debit Card
+1037,5/21/2025,2214.61,travel,Debit,Vang PLC,Elizabethmouth,Debit Card
+1037,5/22/2025,755.62,utilities,Debit,Taylor and Sons,South Kenneth,ACH
+1037,4/13/2025,2858.32,entertainment,Debit,Hall-Williams,North Cassandraport,Debit Card
+1037,6/12/2025,2943.89,utilities,Debit,Ramirez-Santiago,Ramosstad,ACH
+1037,5/2/2025,1239.73,travel,Debit,Gordon PLC,East Grantbury,Credit Card
+1037,6/18/2025,39.58,groceries,Debit,"Fuller, Jones and Phillips",Smithland,Debit Card
+1037,5/11/2025,207.02,groceries,Debit,"Allen, Pena and Foster",West Nicoleborough,Debit Card
+1037,5/6/2025,2653.77,rent,Debit,Clark Ltd,Angelaville,Credit Card
+1037,5/28/2025,-23.57,entertainment,Debit,Torres-Jones,Toddville,ACH
+1037,6/1/2025,2596.69,utilities,Debit,Jackson-Tran,Lake Jennifer,Credit Card
+1037,4/1/2025,839.25,utilities,Debit,"Cox, Zhang and Briggs",New Thomastown,Credit Card
+1037,6/9/2025,891.42,groceries,Debit,Anderson LLC,North Markchester,ACH
+1037,4/25/2025,1142.2,salary,Credit,Pearson PLC,West Kevin,Debit Card
+1038,5/16/2025,2629.22,groceries,Debit,Nunez-Friedman,Bryantchester,Debit Card
+1038,4/25/2025,114.99,groceries,Debit,Whitaker Inc,Andrewton,Debit Card
+1038,4/8/2025,1040.34,groceries,Debit,"Miller, Soto and Webb",Port Brendashire,Credit Card
+1038,6/17/2025,1469.29,groceries,Debit,Sanders Group,East Kennethchester,Credit Card
+1038,6/18/2025,-181.28,groceries,Debit,Donovan Group,West Samantha,Debit Card
+1038,5/9/2025,1062.6,utilities,Debit,"Humphrey, Brown and Hernandez",Port Rachel,Credit Card
+1038,4/1/2025,638.17,entertainment,Debit,"Wolfe, Durham and Jones",New Melinda,Credit Card
+1038,6/8/2025,1766.8,utilities,Debit,Flores-Andersen,Suttonchester,ACH
+1038,4/13/2025,2545.67,rent,Debit,West LLC,Danielsmouth,Debit Card
+1038,4/24/2025,1608.71,travel,Debit,Glenn Inc,Walkerstad,Debit Card
+1038,4/15/2025,2191.48,utilities,Debit,"Ruiz, Parker and Crane",Mcgrathland,Debit Card
+1038,4/24/2025,357.63,groceries,Debit,Blair-Brown,South Brucestad,ACH
+1038,3/27/2025,1980.43,groceries,Debit,Miller-Smith,Port Michael,Credit Card
+1038,6/5/2025,1613.3,groceries,Debit,Chavez-Patton,South Cameronton,ACH
+1038,4/26/2025,2659.29,utilities,Debit,Jones-Ford,West Aaronhaven,Debit Card
+1038,4/22/2025,2162.3,travel,Debit,Butler and Sons,Olsonberg,ACH
+1038,6/14/2025,2663.8,groceries,Debit,Holt and Sons,Holmesberg,ACH
+1038,6/10/2025,-59.8,utilities,Debit,"Cline, Harris and Doyle",East Cory,Credit Card
+1038,6/6/2025,2912.14,travel,Debit,Fleming-Barajas,Coxstad,Credit Card
+1038,4/25/2025,-84.82,entertainment,Debit,Ellis-Singleton,East Robertshire,Debit Card
+1039,5/5/2025,-473.01,rent,Debit,"Miller, Crawford and Hooper",Port Erin,Credit Card
+1039,5/29/2025,-444.78,entertainment,Debit,Schmidt LLC,New Christinaville,ACH
+1039,4/29/2025,835.56,utilities,Debit,Bullock Inc,East Hannah,ACH
+1039,6/17/2025,723.21,rent,Debit,Roberts LLC,Lake Ryan,ACH
+1039,5/29/2025,2976.37,entertainment,Debit,Gill LLC,South Kevinland,Credit Card
+1039,4/17/2025,2679.58,rent,Debit,Maxwell Ltd,Jennifermouth,Debit Card
+1039,4/29/2025,43.64,travel,Debit,Wright-Anderson,West James,ACH
+1039,4/9/2025,605.88,rent,Debit,Brown Ltd,South Shaneton,Credit Card
+1039,4/8/2025,2032.17,groceries,Debit,"Velasquez, Rodriguez and Hill",Laurietown,Debit Card
+1039,3/22/2025,2069.27,entertainment,Debit,"Levy, Ramirez and Gentry",Nathanielhaven,Credit Card
+1039,5/15/2025,2164.76,travel,Debit,Ellis Ltd,Barrettshire,Debit Card
+1039,6/11/2025,1476.93,groceries,Debit,"Barnes, Delgado and Rich",New Phillipview,Credit Card
+1039,6/14/2025,262.97,travel,Debit,Archer-Ferguson,West Olivia,ACH
+1039,5/30/2025,2721.61,rent,Debit,"Chapman, Baird and Clark",North Kathleenborough,Debit Card
+1039,4/21/2025,2629.93,groceries,Debit,Davis-Martinez,North Justinhaven,Credit Card
+1039,4/17/2025,1524.85,travel,Debit,Miller-Robertson,South Nicolemouth,Debit Card
+1039,5/25/2025,748.34,travel,Debit,Stewart PLC,Port Thomaston,ACH
+1039,3/22/2025,2328.23,entertainment,Debit,"Fowler, Anderson and Simpson",New Stephanie,ACH
+1039,4/23/2025,2370.09,entertainment,Debit,Taylor PLC,South Erika,Debit Card
+1039,4/1/2025,2649.85,utilities,Debit,"Ashley, Brewer and Schneider",South Heidi,Credit Card
+1040,5/26/2025,334.84,groceries,Debit,"Ross, King and Smith",West Sean,Credit Card
+1040,4/19/2025,1568.68,salary,Credit,"Rodriguez, Nicholson and Mitchell",New Robertberg,Credit Card
+1040,4/24/2025,386.34,travel,Debit,Washington-Turner,Timothyburgh,ACH
+1040,5/13/2025,2333.44,salary,Credit,Maxwell-Torres,Nathanstad,Credit Card
+1040,4/13/2025,1426.47,salary,Credit,Franklin-Riley,New Cindyview,ACH
+1040,6/14/2025,954.3,entertainment,Debit,Hernandez-Robinson,Wendyton,Credit Card
+1040,5/4/2025,1574.38,travel,Debit,Murray LLC,Zimmermanton,Debit Card
+1040,4/12/2025,1897.03,travel,Debit,"Peterson, Burgess and Olsen",North Andrew,Credit Card
+1040,4/26/2025,664.88,salary,Credit,Wong-Hanson,Lake Matthewstad,Credit Card
+1040,5/13/2025,1720.18,groceries,Debit,"Webster, Gonzales and Morton",New Amberchester,Debit Card
+1040,4/15/2025,564.61,travel,Debit,Everett Inc,New Ashleymouth,ACH
+1040,3/27/2025,1471.69,groceries,Debit,"Williams, Davidson and Hubbard",Lake Tyronefort,Debit Card
+1040,6/7/2025,2920.6,salary,Credit,"Lane, Hopkins and Golden",Lake Margaret,ACH
+1040,5/4/2025,2357.61,groceries,Debit,"Alexander, Cardenas and Patton",New Timothyberg,Debit Card
+1040,3/22/2025,2399.97,travel,Debit,Marshall Ltd,Wayneborough,Credit Card
+1040,6/18/2025,2884.71,rent,Debit,"Lara, Holmes and Ellis",New Matthew,ACH
+1040,5/10/2025,1777.4,rent,Debit,"Walsh, Garcia and Cervantes",New Patrickberg,Credit Card
+1040,5/3/2025,1477.89,entertainment,Debit,Day Inc,Wilkinsville,ACH
+1040,3/25/2025,306.38,utilities,Debit,"Griffith, Kidd and Robbins",South Matthew,ACH
+1040,5/1/2025,-110.16,rent,Debit,Norton Group,South Amandaport,Debit Card
+1041,5/13/2025,1633.07,utilities,Debit,"Graham, Richardson and Payne",South Regina,ACH
+1041,4/7/2025,1650.07,groceries,Debit,"Buckley, Wade and Nelson",South Brandon,ACH
+1041,4/8/2025,2287.22,groceries,Debit,"Davis, Watson and Austin",New Michaelside,Credit Card
+1041,5/24/2025,-490.63,salary,Credit,"Reynolds, Garcia and Martin",North Erin,Credit Card
+1041,4/7/2025,546.74,travel,Debit,Fox-Jacobs,Kathrynstad,Credit Card
+1041,5/20/2025,284.47,entertainment,Debit,Sullivan PLC,Greerfort,Credit Card
+1041,3/26/2025,460.67,groceries,Debit,"Luna, Baxter and Perez",Port Jacobbury,ACH
+1041,5/16/2025,148.17,utilities,Debit,Patton-Coffey,Lake Eric,ACH
+1041,6/5/2025,2318.75,salary,Credit,Vaughn Ltd,West Jesse,Credit Card
+1041,5/18/2025,1082.99,travel,Debit,"Wells, Torres and Navarro",Sanchezbury,ACH
+1041,5/11/2025,2004.79,entertainment,Debit,Rojas Inc,East Monica,Credit Card
+1041,4/13/2025,4.96,entertainment,Debit,"Orozco, Jones and Anderson",Tylerton,Credit Card
+1041,6/8/2025,2497.35,utilities,Debit,Mann-York,West Susan,ACH
+1041,5/9/2025,1617.87,groceries,Debit,Booth-Cook,Port Johnport,ACH
+1041,5/8/2025,-131.97,salary,Credit,Green-Matthews,North Sarah,ACH
+1041,6/11/2025,2222.24,groceries,Debit,Vega-Sims,East Kyleside,Credit Card
+1041,5/28/2025,1472.77,entertainment,Debit,Schroeder and Sons,North Jordanmouth,ACH
+1041,5/15/2025,1873.59,groceries,Debit,"Ryan, Frost and Ritter",Lake Kyliemouth,ACH
+1041,6/7/2025,-433.4,rent,Debit,Coffey LLC,West Loriside,Credit Card
+1041,5/20/2025,2099.87,salary,Credit,Livingston Inc,Shawnburgh,Debit Card
+1042,6/10/2025,1259.95,utilities,Debit,"Robertson, Cook and Bailey",Thompsonmouth,Credit Card
+1042,6/10/2025,1472.05,groceries,Debit,"Johnson, Anderson and Johnson",New Jacquelineton,ACH
+1042,4/27/2025,1063.28,rent,Debit,"Reid, Bond and Martin",Justinview,Debit Card
+1042,5/21/2025,-21.57,rent,Debit,"Roberts, Rodriguez and Williams",Lake Matthew,Credit Card
+1042,6/4/2025,221.27,utilities,Debit,"Haynes, Hughes and Black",South Ashleyside,ACH
+1042,6/7/2025,-417.99,groceries,Debit,"Jones, Williams and Morgan",Port Aprilside,Credit Card
+1042,5/13/2025,1123.83,travel,Debit,Fischer PLC,Toddtown,ACH
+1042,3/26/2025,1382.8,rent,Debit,Carter LLC,Waltershaven,ACH
+1042,4/23/2025,1448.25,entertainment,Debit,Robinson Inc,Fergusonview,ACH
+1042,5/21/2025,1439.79,entertainment,Debit,Murphy-Brown,Port Pamelabury,ACH
+1042,5/17/2025,502.53,entertainment,Debit,Butler Ltd,Montoyaborough,ACH
+1042,6/5/2025,1275.15,rent,Debit,"Mccullough, Gonzales and James",Lorrainebury,Credit Card
+1042,4/10/2025,-287.66,groceries,Debit,Lawrence-Thompson,Garciaborough,Credit Card
+1042,5/2/2025,2991.26,groceries,Debit,Black and Sons,New Megan,Debit Card
+1042,4/10/2025,1771.57,rent,Debit,Hammond Ltd,Carrollfort,Credit Card
+1042,6/7/2025,959.45,groceries,Debit,"Solis, Solomon and Schneider",Cooperside,Debit Card
+1042,5/28/2025,295.21,rent,Debit,Brown-Osborne,Port John,Debit Card
+1042,6/6/2025,2272.85,salary,Credit,Lee PLC,Taraborough,Credit Card
+1042,4/27/2025,320.64,rent,Debit,"Miller, Butler and Reynolds",Harrisport,ACH
+1042,6/5/2025,75.91,salary,Credit,"Jones, Williams and Jones",New Rickyberg,Credit Card
+1043,4/30/2025,2520.37,salary,Credit,Davis-Lee,Bobbytown,ACH
+1043,6/7/2025,1094.92,rent,Debit,"Smith, Jones and Carr",Andreaport,ACH
+1043,5/20/2025,2917.6,entertainment,Debit,Gilbert Inc,Brianberg,Debit Card
+1043,5/10/2025,1320.28,entertainment,Debit,"Frederick, Moore and Nunez",Port Catherine,ACH
+1043,6/15/2025,623.18,entertainment,Debit,"Baldwin, White and Mason",Taylorfurt,Credit Card
+1043,5/14/2025,1416.98,rent,Debit,Thompson-Mckinney,Hendersonburgh,Credit Card
+1043,5/1/2025,1400.96,entertainment,Debit,Miller LLC,East Antonio,ACH
+1043,5/11/2025,2792.52,entertainment,Debit,"Best, Hunt and Mcdonald",East Sean,ACH
+1043,6/11/2025,361.48,utilities,Debit,"Jordan, Patel and Ross",Stephanieville,Debit Card
+1043,5/6/2025,1703.16,salary,Credit,Tate and Sons,Adkinsmouth,Debit Card
+1043,6/12/2025,2784.82,entertainment,Debit,Gonzalez and Sons,Lake Erinmouth,ACH
+1043,4/18/2025,1347.08,groceries,Debit,Johnson-Cook,New Jeffrey,Debit Card
+1043,4/1/2025,2110.44,entertainment,Debit,Harrison Ltd,Brookeberg,Credit Card
+1043,3/25/2025,1411.78,entertainment,Debit,"Ward, Mathis and Bray",North Allison,ACH
+1043,5/5/2025,2108.05,entertainment,Debit,Massey-Shaw,Guzmanmouth,ACH
+1043,4/18/2025,-334.13,rent,Debit,Cooper PLC,South Melissaland,Credit Card
+1043,6/7/2025,1575.44,travel,Debit,"Wright, Vargas and George",Port Emilyside,Debit Card
+1043,6/15/2025,433.74,salary,Credit,Ward Ltd,Danielhaven,Credit Card
+1043,4/13/2025,2533.04,utilities,Debit,Smith Inc,South Maurice,Credit Card
+1043,4/15/2025,2652.74,travel,Debit,Jones-Fitzgerald,Brownside,Credit Card
+1044,4/18/2025,321.88,rent,Debit,Davis Group,New Johnnyburgh,Debit Card
+1044,6/16/2025,1689.04,travel,Debit,Williamson Group,Coltonbury,Credit Card
+1044,5/1/2025,486.12,utilities,Debit,"Howard, Moreno and Perry",North Rodney,Debit Card
+1044,5/25/2025,681.21,entertainment,Debit,Hayes Group,Heidiport,ACH
+1044,5/22/2025,1598.95,groceries,Debit,"Bailey, Brown and Fuller",Port Ericamouth,Credit Card
+1044,5/25/2025,2670.35,entertainment,Debit,"Drake, Kelly and Williams",Port Danaview,Debit Card
+1044,3/28/2025,2356,groceries,Debit,Guzman-Brennan,East Anthonytown,ACH
+1044,4/8/2025,2230.75,rent,Debit,Cuevas-Harper,New Juliaborough,ACH
+1044,6/18/2025,876.48,salary,Credit,Malone Group,West Davidchester,ACH
+1044,5/30/2025,1998.3,salary,Credit,White-Ward,Smithton,Debit Card
+1044,6/7/2025,1395.46,groceries,Debit,Boyd-Cooper,Davidchester,Debit Card
+1044,5/22/2025,1015.64,travel,Debit,Williams LLC,New Amy,ACH
+1044,5/24/2025,1121.51,rent,Debit,Cole-Gilmore,Mcclainberg,ACH
+1044,5/23/2025,-23.27,utilities,Debit,"Foster, Mcdonald and Clark",Kimberg,Debit Card
+1044,4/18/2025,-398.07,groceries,Debit,"Carrillo, Johnson and Freeman",West Sarahton,Debit Card
+1044,4/2/2025,1029.3,entertainment,Debit,Parrish PLC,Andreachester,Credit Card
+1044,5/7/2025,-385.96,rent,Debit,Wright-Schultz,Rosestad,Debit Card
+1044,5/23/2025,224.12,travel,Debit,Thomas and Sons,New Terriport,Debit Card
+1044,4/8/2025,-116.02,travel,Debit,"Hodge, Horton and Eaton",Sarahmouth,Debit Card
+1044,4/10/2025,107.93,travel,Debit,Roberson-Carpenter,Frankborough,Debit Card
+1045,3/24/2025,1042.68,salary,Credit,Hart Ltd,Lake Theresaberg,Credit Card
+1045,5/1/2025,-14.31,entertainment,Debit,"Chavez, Lane and Wiley",Annefort,Credit Card
+1045,4/9/2025,1472.62,salary,Credit,Dunn-Smith,Figueroabury,Debit Card
+1045,4/18/2025,281.93,rent,Debit,"Brown, Miller and Eaton",East Charlesshire,Debit Card
+1045,6/2/2025,-90.52,travel,Debit,"Reese, Farrell and Mcgrath",New Kennethville,ACH
+1045,4/3/2025,2610.56,entertainment,Debit,Tucker Inc,Walkerhaven,Debit Card
+1045,4/19/2025,1007.31,travel,Debit,Clark LLC,Port Christina,Debit Card
+1045,3/22/2025,949.33,travel,Debit,Martinez-Martin,Lisamouth,Debit Card
+1045,6/14/2025,-478.25,groceries,Debit,Thomas-Sanchez,North James,Debit Card
+1045,3/24/2025,60.86,entertainment,Debit,Hale Inc,Wilsonshire,Debit Card
+1045,6/17/2025,2593.3,utilities,Debit,Hardy and Sons,North Edwardstad,Credit Card
+1045,5/23/2025,982.1,entertainment,Debit,"Herrera, Leonard and Rice",Lake Meganborough,Credit Card
+1045,6/9/2025,2535.02,rent,Debit,Stanton-Moore,Port Chad,ACH
+1045,4/14/2025,1738.18,rent,Debit,Gomez-Vincent,Lake Luke,ACH
+1045,4/26/2025,1856.46,utilities,Debit,Tucker-Johnson,New Peter,ACH
+1045,6/7/2025,1548.65,salary,Credit,Mcguire LLC,Lake Anna,Debit Card
+1045,5/5/2025,-224.97,entertainment,Debit,Arroyo LLC,Lake Courtneychester,Debit Card
+1045,5/31/2025,1804.22,salary,Credit,Richardson-Day,Jessicaberg,Debit Card
+1045,6/13/2025,2000.24,salary,Credit,Henson-Zimmerman,West Thomasport,ACH
+1045,4/10/2025,491.1,utilities,Debit,Woods Inc,East Danielle,Debit Card
+1046,5/20/2025,924.57,travel,Debit,Hayes PLC,Jefferymouth,ACH
+1046,6/7/2025,2399.88,travel,Debit,Johnson-Simmons,New Eric,Debit Card
+1046,4/12/2025,1261.49,salary,Credit,"Martin, Pineda and Caldwell",North Rubenland,Credit Card
+1046,5/4/2025,2103.45,rent,Debit,Rush LLC,Lake Angela,ACH
+1046,4/22/2025,-229.4,groceries,Debit,Robinson Ltd,Morseshire,ACH
+1046,5/16/2025,1094.95,rent,Debit,Baker-Skinner,South Ryanborough,ACH
+1046,6/15/2025,2489.01,entertainment,Debit,Becker Ltd,Weavertown,ACH
+1046,4/25/2025,1811.74,entertainment,Debit,White-Anderson,Hollyfurt,Debit Card
+1046,6/3/2025,1968.1,travel,Debit,Perry Group,Jessicachester,Debit Card
+1046,3/26/2025,27.89,groceries,Debit,Woods PLC,West Ericburgh,ACH
+1046,4/27/2025,44.11,salary,Credit,Bishop-Davis,Washingtontown,Credit Card
+1046,5/3/2025,1297.83,utilities,Debit,"Williamson, Reynolds and Miller",Stoutville,Credit Card
+1046,5/14/2025,3.27,salary,Credit,Robles-Gutierrez,New Carriefort,Credit Card
+1046,5/10/2025,92.13,utilities,Debit,Johnson-Love,Edwardsbury,Credit Card
+1046,5/24/2025,433.26,salary,Credit,Mayer-Suarez,Port Kristen,Credit Card
+1046,6/18/2025,-444.23,salary,Credit,Cline and Sons,Lake Donnafurt,ACH
+1046,3/31/2025,2316.48,groceries,Debit,Lee Group,Paulburgh,Credit Card
+1046,5/15/2025,2824.7,salary,Credit,"Obrien, Lynch and Solomon",Lake Jefferyview,Credit Card
+1046,4/24/2025,452.89,rent,Debit,"Carrillo, Hall and Avery",Cooperburgh,Credit Card
+1046,4/18/2025,1393.28,utilities,Debit,Evans-Blair,Shortfort,Debit Card
+1047,4/13/2025,1025.68,entertainment,Debit,Cameron-Clay,Jasmineberg,Debit Card
+1047,5/4/2025,560.07,utilities,Debit,Miller-Hernandez,Port Rose,Debit Card
+1047,5/30/2025,1899.46,entertainment,Debit,Price Ltd,East Jorgeview,Debit Card
+1047,5/1/2025,1885.26,travel,Debit,"Hess, Lucero and Kelly",Tiffanyside,ACH
+1047,4/7/2025,385.99,salary,Credit,"Ward, Moore and Romero",Brianmouth,Credit Card
+1047,5/14/2025,2219.24,entertainment,Debit,Torres PLC,Brandimouth,Credit Card
+1047,6/16/2025,766.42,groceries,Debit,Gonzalez-Williams,Juliamouth,ACH
+1047,4/5/2025,2261.25,groceries,Debit,"Higgins, Ingram and Larsen",Greeneborough,Credit Card
+1047,5/24/2025,2373.96,utilities,Debit,Henry PLC,Andrewsmouth,ACH
+1047,4/11/2025,-193.24,groceries,Debit,Davis LLC,New Dustinton,Debit Card
+1047,4/18/2025,1248.92,travel,Debit,"Clark, Walters and Short",Angelamouth,Credit Card
+1047,4/8/2025,-450.59,rent,Debit,Matthews Inc,New James,Debit Card
+1047,3/31/2025,-365.75,utilities,Debit,"Brown, Porter and Chandler",Gomezland,ACH
+1047,6/10/2025,976.15,entertainment,Debit,Hernandez-Bowman,Heatherview,ACH
+1047,6/3/2025,2991.44,salary,Credit,"Woodward, Williams and Martin",Masonville,ACH
+1047,6/12/2025,1688.8,salary,Credit,"Dennis, Scott and Lambert",New Kevinfort,ACH
+1047,5/13/2025,1450.43,entertainment,Debit,Richardson LLC,Clarkbury,Debit Card
+1047,5/27/2025,1267.98,entertainment,Debit,Kelly and Sons,West Danielfort,ACH
+1047,4/20/2025,2614.92,groceries,Debit,Scott-Holden,Susanside,Debit Card
+1047,4/26/2025,1917.14,groceries,Debit,Johnson-Johnson,Robinsonmouth,Credit Card
+1048,5/3/2025,-158.52,groceries,Debit,"Rodriguez, Robertson and Martinez",Ellistown,ACH
+1048,3/27/2025,950.4,travel,Debit,"Baker, Decker and Juarez",New Robertville,Debit Card
+1048,6/14/2025,78.27,rent,Debit,"Gonzalez, Ortiz and Romero",Christinestad,ACH
+1048,6/15/2025,1694.3,rent,Debit,Harrison Ltd,Michaelhaven,ACH
+1048,5/26/2025,365.21,travel,Debit,Walker-Smith,Maryside,ACH
+1048,5/14/2025,1580.39,salary,Credit,"Tyler, Santos and Morris",Jillport,ACH
+1048,6/2/2025,-311.79,salary,Credit,Schneider-Olsen,Lake Joel,Debit Card
+1048,5/25/2025,1690.06,travel,Debit,"Woods, Walsh and Ward",Lisaland,Debit Card
+1048,4/20/2025,2562.92,groceries,Debit,Turner Ltd,New Craigmouth,ACH
+1048,6/7/2025,872.44,rent,Debit,Patterson Ltd,East Jeremy,ACH
+1048,5/28/2025,2580.07,entertainment,Debit,"Gonzales, Andrews and Lyons",Schwartzside,Debit Card
+1048,5/13/2025,-98.79,travel,Debit,Bates-Boyer,Coopershire,Credit Card
+1048,5/23/2025,2699.6,travel,Debit,Deleon and Sons,North John,Credit Card
+1048,5/21/2025,2686.7,salary,Credit,"Rodriguez, Jacobson and Norton",Port Julie,Debit Card
+1048,6/11/2025,1255.91,salary,Credit,Grant-White,North Susanmouth,Credit Card
+1048,3/30/2025,2219.95,salary,Credit,"Kelly, King and Ruiz",New Brandon,ACH
+1048,4/21/2025,1089.4,travel,Debit,Hamilton-Ballard,Lake Jasmineview,Debit Card
+1048,3/23/2025,1946.05,utilities,Debit,"Hunter, Holloway and Flores",Christopherstad,Credit Card
+1048,4/24/2025,-197.7,entertainment,Debit,Garcia PLC,Stevenfort,ACH
+1048,6/1/2025,1698.27,utilities,Debit,"Gonzalez, Thomas and Farmer",South Zoeborough,Debit Card
+1049,4/22/2025,179.13,groceries,Debit,"Simmons, Ford and Martinez",Lake Anthony,Credit Card
+1049,6/9/2025,2837.68,rent,Debit,"Garcia, Roberts and Moore",Grossmouth,Credit Card
+1049,6/15/2025,337.53,entertainment,Debit,Jones PLC,Peckchester,ACH
+1049,5/12/2025,2915.93,entertainment,Debit,Jackson PLC,Kelleychester,Debit Card
+1049,4/13/2025,-210.73,travel,Debit,"Bell, Gray and Pham",East Lydiachester,Debit Card
+1049,4/8/2025,2960.37,salary,Credit,"Tapia, Decker and Olsen",South Amandaville,ACH
+1049,5/10/2025,1610.15,rent,Debit,Woodard and Sons,Ruizchester,Credit Card
+1049,5/3/2025,914.12,salary,Credit,"Ward, Saunders and Burton",North Samantha,Credit Card
+1049,4/5/2025,429.71,rent,Debit,Allen-Gonzalez,Burnsport,ACH
+1049,6/2/2025,-419.89,rent,Debit,Nguyen-Bell,Smithchester,Credit Card
+1049,6/17/2025,293.4,utilities,Debit,Williams-Vargas,Hayesland,ACH
+1049,4/7/2025,970.89,salary,Credit,"Ryan, Holt and Mathis",West Christopher,ACH
+1049,4/20/2025,771.88,travel,Debit,Lewis LLC,Deannaview,Credit Card
+1049,5/7/2025,2236.84,travel,Debit,Valencia Inc,East Alexandra,Credit Card
+1049,4/16/2025,522.14,travel,Debit,"Acevedo, Lopez and Peterson",Kimberlyfort,ACH
+1049,6/13/2025,2328.43,entertainment,Debit,"Bennett, Bender and Garcia",Phelpsstad,Debit Card
+1049,5/17/2025,1877.17,travel,Debit,Ingram Group,Port Hunter,ACH
+1049,6/3/2025,1713.89,groceries,Debit,White-Snyder,New Michaelstad,Debit Card
+1049,4/20/2025,356.22,travel,Debit,"Martinez, Williams and Bryant",Clementsberg,Debit Card
+1049,5/18/2025,862.9,groceries,Debit,Marshall-Bruce,Coxchester,ACH
+1050,5/21/2025,1694.71,rent,Debit,Carter-Foster,East Lisaview,Credit Card
+1050,6/17/2025,1384.22,groceries,Debit,"Powers, Estrada and Ruiz",East Maryhaven,ACH
+1050,6/13/2025,1459.29,salary,Credit,Wolfe and Sons,Port Nancy,Debit Card
+1050,5/23/2025,522.07,groceries,Debit,Brown Group,Lake Jennifermouth,ACH
+1050,6/6/2025,1407.1,travel,Debit,"Mcdowell, Good and Jones",Dannyton,Credit Card
+1050,6/2/2025,1061.29,entertainment,Debit,"Baker, Fry and Vazquez",North Heather,Debit Card
+1050,3/31/2025,2848.91,travel,Debit,"Reyes, Baird and Carter",Port Catherine,ACH
+1050,5/17/2025,2053.61,rent,Debit,Wiley Inc,Parkerbury,Debit Card
+1050,4/30/2025,2126.47,entertainment,Debit,Larson Inc,South Lindaport,Credit Card
+1050,5/16/2025,-198.03,groceries,Debit,Kelley-Leach,West Robertberg,ACH
+1050,3/22/2025,2075.7,rent,Debit,"Carpenter, Chambers and Gallegos",New Lisa,ACH
+1050,4/15/2025,2754.71,travel,Debit,"Stone, Roberts and Jordan",Mcgeebury,Debit Card
+1050,6/9/2025,1095.54,rent,Debit,Page LLC,Christophershire,Credit Card
+1050,4/23/2025,945.61,utilities,Debit,Davis-Jackson,Joelland,Debit Card
+1050,4/2/2025,543.14,salary,Credit,Schaefer LLC,East Angelaview,Debit Card
+1050,6/1/2025,557.44,travel,Debit,Harrell-Barton,Michaelmouth,Debit Card
+1050,5/30/2025,761.58,salary,Credit,Stevens and Sons,Karenside,Debit Card
+1050,4/7/2025,-299.41,entertainment,Debit,Farmer Inc,Josephbury,Credit Card
+1050,4/22/2025,1810.87,rent,Debit,Scott-Salazar,West Mikehaven,Credit Card
+1050,5/13/2025,2405.07,salary,Credit,Simpson-Walker,South Seanport,Debit Card
+1051,4/5/2025,1084.57,entertainment,Debit,Allen Group,Johnathanchester,Credit Card
+1051,5/22/2025,2204.26,utilities,Debit,"Mcgrath, Scott and Rowland",West Pamelaport,Debit Card
+1051,4/20/2025,533.75,rent,Debit,Allen-Bennett,Port Anna,Credit Card
+1051,4/8/2025,904.68,utilities,Debit,Burnett Inc,Schmittmouth,ACH
+1051,6/12/2025,-302.08,rent,Debit,Wright-Lopez,South Emilyport,ACH
+1051,5/3/2025,2318.06,rent,Debit,Martinez-Hamilton,Carrollport,Debit Card
+1051,3/30/2025,1115.3,utilities,Debit,Johnson-Knox,Lake William,Debit Card
+1051,5/3/2025,74.57,groceries,Debit,"Evans, Thomas and Smith",Smithview,Debit Card
+1051,4/21/2025,459.96,rent,Debit,Jones-Chavez,Tuckerchester,ACH
+1051,6/7/2025,507.63,salary,Credit,Stephens-Barber,Hallland,Credit Card
+1051,5/20/2025,2953.25,travel,Debit,Copeland-Washington,Tonytown,Debit Card
+1051,5/21/2025,1491.25,groceries,Debit,Luna-Black,Port Scottshire,Credit Card
+1051,3/27/2025,1194.63,travel,Debit,"Christensen, Walker and Bonilla",Katherineshire,ACH
+1051,6/13/2025,-236.01,rent,Debit,Russo-Murphy,Davidmouth,Debit Card
+1051,4/4/2025,2930.94,travel,Debit,"Gentry, Ray and Campbell",Port Susanshire,Debit Card
+1051,3/27/2025,-30.08,travel,Debit,Everett Ltd,Nicholasfurt,Debit Card
+1051,3/31/2025,-269.97,groceries,Debit,"Henderson, Jones and Howard",Cartertown,Credit Card
+1051,4/14/2025,1917.63,groceries,Debit,Rowe PLC,Lake Robertside,ACH
+1051,5/19/2025,2460.46,entertainment,Debit,Vaughn-Davis,Joshuaview,ACH
+1051,4/24/2025,2596.71,salary,Credit,Fisher Group,Patricialand,Debit Card
+1052,5/6/2025,2403.91,travel,Debit,"Velazquez, Townsend and Hancock",Jonesfurt,Credit Card
+1052,5/25/2025,1742.5,entertainment,Debit,Roman-Scott,Lake Charleschester,Debit Card
+1052,5/12/2025,437.83,salary,Credit,"Palmer, Mason and Higgins",Arellanoburgh,Credit Card
+1052,5/27/2025,97.55,groceries,Debit,"Allen, Rios and Rivera",Brandonbury,Credit Card
+1052,4/21/2025,911.53,entertainment,Debit,Martinez-Warner,Lake Carolinechester,Credit Card
+1052,6/14/2025,2095.69,groceries,Debit,"Glass, Scott and Lewis",North Frank,ACH
+1052,4/23/2025,1678.66,travel,Debit,Patterson LLC,Brianton,Credit Card
+1052,5/12/2025,-458.11,travel,Debit,Rowe Inc,Jamesberg,Debit Card
+1052,5/17/2025,871.71,utilities,Debit,Freeman-Perez,Deniseview,ACH
+1052,3/25/2025,-308.8,entertainment,Debit,Rogers-Huff,South Miranda,ACH
+1052,6/15/2025,2315.61,rent,Debit,"Fitzpatrick, Flores and Mendoza",Port Jessica,Debit Card
+1052,5/14/2025,2131.24,salary,Credit,"Houston, Mcdonald and Dunlap",Port Desiree,Credit Card
+1052,3/23/2025,-57.46,rent,Debit,"Young, Koch and Everett",North Jerryville,Debit Card
+1052,3/30/2025,662.51,travel,Debit,Snyder and Sons,West Tonya,Credit Card
+1052,5/3/2025,-208.04,groceries,Debit,Vance Group,Hugheschester,ACH
+1052,4/30/2025,-46.4,salary,Credit,Newman Ltd,South Kimberlystad,Credit Card
+1052,4/28/2025,2139.92,rent,Debit,Williams-Brooks,Connerstad,ACH
+1052,3/31/2025,684.38,entertainment,Debit,Harris-Allen,Maureenville,Credit Card
+1052,5/24/2025,-2.47,rent,Debit,Brooks-Larson,New Matthewfurt,ACH
+1052,5/22/2025,2750.02,utilities,Debit,Adams and Sons,North Andrew,Debit Card
+1053,5/2/2025,341.11,rent,Debit,"Elliott, Burns and Espinoza",Medinabury,Debit Card
+1053,4/22/2025,2299.41,entertainment,Debit,Weaver Inc,New Scott,Credit Card
+1053,5/13/2025,1452.3,salary,Credit,"Quinn, Valencia and Clark",Chadland,Credit Card
+1053,4/20/2025,2494.46,travel,Debit,"Orozco, Arnold and Roberts",Greentown,ACH
+1053,4/25/2025,134.42,travel,Debit,Shah-Jackson,East Rebecca,Debit Card
+1053,5/31/2025,2272.43,groceries,Debit,"Peterson, Pena and Lucas",East Karenberg,ACH
+1053,4/4/2025,1078.35,utilities,Debit,"Ali, Graves and Lopez",Lake Cassandra,Debit Card
+1053,5/19/2025,2200.77,utilities,Debit,Anderson Inc,West Rachel,Debit Card
+1053,4/24/2025,2422.32,salary,Credit,Gonzalez-Olson,North Paul,ACH
+1053,4/8/2025,1135.3,travel,Debit,Delacruz-Barnett,West Kimberly,Debit Card
+1053,6/18/2025,844.55,utilities,Debit,Montoya-Underwood,East Donald,Credit Card
+1053,4/27/2025,1869.97,groceries,Debit,Johnson PLC,East Connie,Debit Card
+1053,6/15/2025,750.56,travel,Debit,Dennis Inc,Jasonburgh,Credit Card
+1053,5/3/2025,2203.58,groceries,Debit,Cline-Parker,Curtisview,Credit Card
+1053,4/19/2025,2195,utilities,Debit,"Walsh, Stewart and Jimenez",Lisashire,Credit Card
+1053,4/4/2025,1328.25,entertainment,Debit,Dean-Burton,Simpsonmouth,Credit Card
+1053,5/24/2025,2529.09,utilities,Debit,"Banks, Rice and Erickson",Cruzville,ACH
+1053,6/7/2025,1478.78,salary,Credit,Johnson Ltd,North Carlytown,Debit Card
+1053,5/28/2025,1780.79,salary,Credit,Watson Ltd,Lake Stacy,Debit Card
+1053,5/7/2025,987.28,salary,Credit,"Hall, Sanchez and Harvey",South Paul,ACH
+1054,3/21/2025,1740.77,travel,Debit,"Schultz, Everett and Scott",Williamsburgh,ACH
+1054,4/6/2025,1525.64,utilities,Debit,Tran-Ellison,Suzanneberg,Debit Card
+1054,4/25/2025,1113.7,groceries,Debit,"Haas, Griffith and Watkins",South Curtis,Debit Card
+1054,4/30/2025,92,entertainment,Debit,"Valdez, Ellison and Alexander",North Brettville,Credit Card
+1054,3/26/2025,570.73,groceries,Debit,Scott PLC,West Sarah,Credit Card
+1054,4/3/2025,532.44,groceries,Debit,Bennett-Jones,New Paulfort,Credit Card
+1054,3/24/2025,900.09,rent,Debit,Diaz-Morrison,Lake Beverly,ACH
+1054,4/30/2025,294.18,travel,Debit,"Garcia, Chavez and Clark",North Amandafurt,Debit Card
+1054,6/12/2025,2742.6,travel,Debit,Evans LLC,Lake Allenburgh,ACH
+1054,5/25/2025,-321.83,salary,Credit,"Meyer, Snow and Flores",Hannahview,Credit Card
+1054,4/12/2025,2655.13,salary,Credit,Owen Ltd,Craigshire,Debit Card
+1054,6/9/2025,459.18,travel,Debit,Adams PLC,Jillmouth,ACH
+1054,5/15/2025,2508.93,entertainment,Debit,Moody-Cross,Aaronfurt,Credit Card
+1054,4/21/2025,995.91,salary,Credit,Henry Ltd,West Brittanyhaven,Credit Card
+1054,6/17/2025,1271.58,entertainment,Debit,Smith-Watts,Ronniehaven,ACH
+1054,5/18/2025,1920.8,utilities,Debit,Lowe Ltd,Lake Rebecca,Credit Card
+1054,4/12/2025,401.55,salary,Credit,Campbell and Sons,Carlatown,Credit Card
+1054,4/3/2025,14.05,salary,Credit,Wright Ltd,Port Rachel,ACH
+1054,4/3/2025,2363.95,groceries,Debit,Jackson-Lang,Ianside,ACH
+1054,4/30/2025,1464.27,salary,Credit,Romero PLC,East Peter,Credit Card
+1055,5/8/2025,1828.06,rent,Debit,Joseph-Miller,Beckerside,Debit Card
+1055,5/1/2025,1982.28,rent,Debit,"Owens, Dodson and Perez",Port Matthew,Credit Card
+1055,6/6/2025,438.91,travel,Debit,Thompson PLC,Franciscotown,Debit Card
+1055,5/18/2025,2455.64,salary,Credit,Maldonado Group,South David,ACH
+1055,5/13/2025,2887.49,groceries,Debit,"Lewis, King and Clark",Port Christopher,ACH
+1055,5/13/2025,2589.96,salary,Credit,"Tucker, Dennis and Morgan",Taraland,ACH
+1055,4/5/2025,1229.24,travel,Debit,Castro-Fox,Ramosport,Credit Card
+1055,4/9/2025,1603.16,travel,Debit,Tucker Group,East John,ACH
+1055,5/20/2025,835.59,groceries,Debit,Armstrong-Kennedy,Lake Brianhaven,Debit Card
+1055,4/21/2025,907.53,salary,Credit,"Clark, Williamson and Harris",South Robert,ACH
+1055,3/29/2025,885.29,rent,Debit,"Woodard, Smith and Larsen",Elizabethton,ACH
+1055,3/29/2025,2166.21,rent,Debit,Hardy-Clark,Alexandershire,Debit Card
+1055,4/15/2025,-152.85,entertainment,Debit,"Morales, Hawkins and Ross",Burkeland,Credit Card
+1055,5/25/2025,-25.32,entertainment,Debit,Brennan PLC,New Courtney,Debit Card
+1055,5/2/2025,182.73,entertainment,Debit,Taylor-Dawson,New Williamville,Debit Card
+1055,6/12/2025,1955.11,utilities,Debit,"Parker, Jones and Craig",Michaelbury,Debit Card
+1055,6/5/2025,80.21,rent,Debit,Lowe LLC,Leonardhaven,Credit Card
+1055,6/3/2025,284.12,travel,Debit,Aguilar-Turner,East Stacyside,Credit Card
+1055,5/1/2025,2665.33,rent,Debit,"Thompson, Berry and Collins",Port Jodi,Debit Card
+1055,6/3/2025,368.21,travel,Debit,Jenkins-Holden,North Loriton,ACH
+1056,6/14/2025,1661.56,utilities,Debit,Hicks-Williams,Carsonside,Debit Card
+1056,6/15/2025,483.98,salary,Credit,Morris Inc,Port Kevinview,Debit Card
+1056,3/24/2025,502.6,groceries,Debit,Leblanc Inc,Port Brittanytown,Credit Card
+1056,5/30/2025,2337.08,groceries,Debit,Wilson LLC,Teresaland,Credit Card
+1056,5/17/2025,909.29,groceries,Debit,Allen-Salas,Elizabethport,ACH
+1056,6/8/2025,-304.6,rent,Debit,Whitaker Ltd,New Melissaburgh,ACH
+1056,4/6/2025,578.47,entertainment,Debit,Howard-Smith,Gonzalezstad,Credit Card
+1056,3/29/2025,1659.03,salary,Credit,Holland Ltd,Lake Kaylabury,Debit Card
+1056,3/24/2025,-314.8,travel,Debit,Walker LLC,Grantburgh,ACH
+1056,4/17/2025,1327.75,salary,Credit,Sawyer and Sons,Johnbury,Debit Card
+1056,6/9/2025,1117.7,utilities,Debit,Mcdonald PLC,Johnton,ACH
+1056,3/26/2025,1335.31,rent,Debit,Gross-Carroll,East Holly,Credit Card
+1056,4/19/2025,1169.67,rent,Debit,Manning Ltd,Allenburgh,ACH
+1056,3/21/2025,948.43,travel,Debit,"Castillo, Hall and Chase",Samuelmouth,ACH
+1056,6/6/2025,796.05,entertainment,Debit,Reed-Wheeler,South Aaronchester,Credit Card
+1056,5/22/2025,934.95,rent,Debit,Larson-Preston,Andersonville,Debit Card
+1056,4/17/2025,2608.73,utilities,Debit,"Morgan, Walters and Soto",South Benjamin,Credit Card
+1056,6/1/2025,-93.38,entertainment,Debit,Michael LLC,North Alicia,Debit Card
+1056,4/16/2025,266.81,utilities,Debit,"Cobb, Stewart and Miller",East Richard,Debit Card
+1056,4/17/2025,2721.86,entertainment,Debit,"King, Simpson and Gibson",Williamston,Debit Card
+1057,3/28/2025,2411.9,rent,Debit,"Johnson, Obrien and Hampton",Cunninghamside,ACH
+1057,4/16/2025,1356.31,rent,Debit,Estes LLC,Port Kyle,ACH
+1057,5/19/2025,664.95,utilities,Debit,Martin Group,Jacquelineport,Credit Card
+1057,5/2/2025,1773.61,utilities,Debit,Cochran-Jones,North Amanda,ACH
+1057,3/30/2025,-54.91,salary,Credit,Perkins and Sons,Johnsonview,ACH
+1057,5/26/2025,773.66,groceries,Debit,Rodriguez-Small,Nixonport,ACH
+1057,5/1/2025,727.09,groceries,Debit,Colon Inc,North Antonioberg,ACH
+1057,6/9/2025,1799.08,salary,Credit,"Thompson, Sanchez and Sanchez",Feliciastad,ACH
+1057,4/14/2025,1618.76,rent,Debit,"Walters, Flynn and Torres",Beanborough,Credit Card
+1057,5/1/2025,1068.77,salary,Credit,Lloyd-Young,Lake Christopherborough,Credit Card
+1057,4/23/2025,333.64,groceries,Debit,"Holmes, Cordova and Brown",East Dawnville,Credit Card
+1057,4/11/2025,285.85,utilities,Debit,Compton-Turner,Kimburgh,Debit Card
+1057,5/14/2025,1324.46,rent,Debit,"Fuller, Flores and Jones",New Aliciamouth,ACH
+1057,5/15/2025,100.41,travel,Debit,"Lewis, Boone and Young",Kathleenberg,Debit Card
+1057,3/21/2025,745.27,salary,Credit,"Morgan, Gonzales and Wyatt",Stacymouth,Credit Card
+1057,5/8/2025,916.66,entertainment,Debit,"Boyd, Lee and Brown",Patelberg,Debit Card
+1057,6/14/2025,2195.38,salary,Credit,"Robinson, Cunningham and Chapman",West Karenbury,Credit Card
+1057,4/3/2025,318.51,entertainment,Debit,Mills Inc,Madisonburgh,Credit Card
+1057,4/10/2025,117.39,rent,Debit,Hicks Ltd,East Richardport,Credit Card
+1057,5/8/2025,1851.41,salary,Credit,Brown PLC,South Laura,Debit Card
+1058,5/23/2025,2996.73,rent,Debit,Barnes-Torres,Morrisonshire,Credit Card
+1058,5/7/2025,1490.82,entertainment,Debit,Leach-Walker,Hectorborough,ACH
+1058,5/18/2025,1994.28,travel,Debit,Powell Ltd,Mccartytown,ACH
+1058,4/3/2025,2626.01,travel,Debit,Potter-Smith,Crystalchester,ACH
+1058,3/24/2025,1271.07,entertainment,Debit,Johnston-Smith,Mirandafurt,Credit Card
+1058,5/4/2025,410.78,rent,Debit,Arias-Ruiz,North Christophermouth,ACH
+1058,3/30/2025,214.8,salary,Credit,Richardson-Nunez,Thomasmouth,ACH
+1058,5/2/2025,-190.66,salary,Credit,"Luna, Miller and Mcmahon",Lovemouth,Debit Card
+1058,4/14/2025,2675.12,travel,Debit,Haney-Simon,Piercemouth,Credit Card
+1058,5/7/2025,2766.2,utilities,Debit,Mccormick LLC,Devinville,Debit Card
+1058,5/3/2025,1508.67,utilities,Debit,Bell-Schneider,Conradchester,Credit Card
+1058,3/23/2025,639.56,travel,Debit,"Morris, Hall and Downs",New Lauraport,Credit Card
+1058,4/19/2025,2455.05,salary,Credit,Richardson LLC,West Bryanport,Debit Card
+1058,4/22/2025,1118.9,groceries,Debit,Dominguez PLC,South Saraview,ACH
+1058,4/14/2025,2345.19,groceries,Debit,"Ford, Richmond and Garcia",Williamberg,Credit Card
+1058,4/10/2025,2305.3,utilities,Debit,Boyd and Sons,East Scottberg,Credit Card
+1058,5/21/2025,2376.51,rent,Debit,Page LLC,New Joshuaborough,Debit Card
+1058,5/4/2025,2807.96,travel,Debit,Keller-Spencer,Michaelton,ACH
+1058,4/2/2025,1810.65,rent,Debit,Perez PLC,West Moniqueside,ACH
+1058,4/27/2025,1680.8,travel,Debit,West LLC,Joshuaport,ACH
+1059,6/16/2025,2129.6,salary,Credit,Watson and Sons,South Charles,Credit Card
+1059,5/21/2025,1233.79,travel,Debit,Lewis-Goodman,East Joseph,Debit Card
+1059,5/8/2025,-101.75,rent,Debit,Carrillo-Cruz,Darrellport,Debit Card
+1059,6/1/2025,2560.23,travel,Debit,Allen PLC,Kariburgh,Debit Card
+1059,4/9/2025,1624.51,groceries,Debit,Davis PLC,Port Diane,ACH
+1059,3/21/2025,253.26,salary,Credit,Hansen-Berry,Hurleyville,Credit Card
+1059,5/2/2025,577.75,salary,Credit,"Mckay, Hall and Young",Ericstad,Credit Card
+1059,3/31/2025,1368.02,entertainment,Debit,"Lam, Lewis and Hunter",Campbellfurt,ACH
+1059,5/14/2025,791.2,salary,Credit,Duran Group,Royview,Credit Card
+1059,3/26/2025,1794.86,travel,Debit,Washington-Farley,Lake Johnview,ACH
+1059,3/25/2025,-412.95,entertainment,Debit,Garza PLC,South Jennifer,Credit Card
+1059,5/8/2025,519.99,rent,Debit,"Black, Bishop and Vega",Port Territown,ACH
+1059,4/2/2025,-145.71,travel,Debit,Powell and Sons,Wilsonborough,Debit Card
+1059,5/31/2025,2644.21,entertainment,Debit,"Bender, Jones and Hart",New Sarahhaven,Debit Card
+1059,4/17/2025,2836.58,utilities,Debit,"Rojas, Davis and Aguilar",Port Justinton,Credit Card
+1059,6/14/2025,1955.41,rent,Debit,"Lin, Vargas and Brown",East Michelleborough,Debit Card
+1059,5/2/2025,-227.59,groceries,Debit,Moore LLC,Lisastad,Credit Card
+1059,6/15/2025,471.42,rent,Debit,"Mcdonald, Anderson and Gordon",West Jonathanview,Debit Card
+1059,4/12/2025,-59.83,utilities,Debit,Evans-Peterson,East Karinaside,Credit Card
+1059,6/3/2025,1119.93,rent,Debit,"Rosales, Crane and Wallace",South Julieburgh,Credit Card
+1060,4/12/2025,1707.46,groceries,Debit,Edwards-Cooper,Port James,Debit Card
+1060,4/7/2025,1076.64,salary,Credit,Stanley Ltd,South Zachary,ACH
+1060,3/27/2025,1421.02,groceries,Debit,Mcdonald Ltd,West Robert,Debit Card
+1060,3/26/2025,825.39,utilities,Debit,"King, Miller and Peck",South Anthony,ACH
+1060,3/31/2025,2623.86,rent,Debit,"Harding, Vasquez and Brown",South Mark,ACH
+1060,4/4/2025,-375.5,rent,Debit,Wilson and Sons,South Emily,ACH
+1060,4/17/2025,2287.28,entertainment,Debit,Harrison-Jensen,North Jo,Credit Card
+1060,5/22/2025,603.98,groceries,Debit,Price-Lopez,Justinfurt,Credit Card
+1060,6/4/2025,2219.36,rent,Debit,Campbell LLC,Rebeccafurt,Credit Card
+1060,5/11/2025,291.87,salary,Credit,"Ford, Krueger and Maldonado",Franklinside,ACH
+1060,6/16/2025,2845.47,groceries,Debit,Pena-Horn,New Nicoleside,Credit Card
+1060,6/12/2025,2289.61,entertainment,Debit,Williams-Jacobson,Annchester,Debit Card
+1060,4/22/2025,-400.47,groceries,Debit,"Harrison, Miller and Jones",Odonnellton,ACH
+1060,5/12/2025,2404.41,entertainment,Debit,Brown Ltd,Port Cindy,ACH
+1060,5/20/2025,1734.7,entertainment,Debit,"Gonzalez, Gonzales and Valencia",New Timothy,Credit Card
+1060,4/20/2025,663.94,rent,Debit,Miller LLC,Meganstad,Debit Card
+1060,5/27/2025,2117.19,salary,Credit,Adams PLC,West Jamesland,Debit Card
+1060,4/2/2025,2380.61,rent,Debit,Jones-Franklin,Millermouth,Debit Card
+1060,5/10/2025,2847.58,salary,Credit,Perez Inc,Shannonfort,Credit Card
+1060,6/6/2025,1260.71,rent,Debit,Buck Ltd,Paulstad,Credit Card
+1061,4/27/2025,1104.19,groceries,Debit,"Garcia, Fernandez and Dixon",Rodriguezview,ACH
+1061,3/25/2025,2836.45,utilities,Debit,"Burns, Miller and Anderson",East Oliviashire,ACH
+1061,5/7/2025,1981.8,travel,Debit,Salazar-Miller,West Allison,Credit Card
+1061,3/29/2025,2727.86,travel,Debit,"Murphy, Smith and Rodriguez",North Joyce,ACH
+1061,4/9/2025,647.4,entertainment,Debit,Nielsen PLC,Carolland,Credit Card
+1061,5/25/2025,1137.53,utilities,Debit,Nelson LLC,Suttonview,Debit Card
+1061,4/6/2025,314.43,travel,Debit,"Elliott, Snyder and Frey",Shawnview,Credit Card
+1061,6/10/2025,755.54,entertainment,Debit,Joseph and Sons,Daryltown,Credit Card
+1061,5/8/2025,1011.82,entertainment,Debit,Hubbard Inc,Fernandeztown,Debit Card
+1061,5/26/2025,208.26,salary,Credit,"Swanson, Davis and Miller",Port Justin,Credit Card
+1061,5/20/2025,-235.14,salary,Credit,"Fitzgerald, Mcbride and King",Cristianhaven,Credit Card
+1061,5/26/2025,79.37,entertainment,Debit,"Macdonald, Taylor and Lowe",New Patricialand,ACH
+1061,4/9/2025,496.23,salary,Credit,Hill-Garcia,Lake Robertstad,ACH
+1061,5/12/2025,525.39,rent,Debit,Perkins Ltd,New Michael,Debit Card
+1061,4/25/2025,2664.08,rent,Debit,Keller LLC,Jeffview,Credit Card
+1061,4/3/2025,2027.01,travel,Debit,Moss LLC,Lake Tracey,Credit Card
+1061,5/30/2025,842.97,travel,Debit,Carr-Martinez,West Roy,Debit Card
+1061,5/19/2025,-64.08,salary,Credit,Schmidt-Nelson,Conleybury,ACH
+1061,4/10/2025,2953.25,utilities,Debit,House-Robinson,South Michelle,Credit Card
+1061,5/14/2025,829.68,travel,Debit,Stanton Group,Lindseyside,Credit Card
+1062,5/24/2025,1271.53,groceries,Debit,Schaefer-Johnson,New Shelby,ACH
+1062,5/26/2025,524.42,groceries,Debit,Jordan-Kennedy,Barronberg,Credit Card
+1062,6/16/2025,1516.99,groceries,Debit,"Hernandez, Summers and Powell",Paulmouth,Credit Card
+1062,6/3/2025,22.13,entertainment,Debit,Richmond-Kelley,Davidfurt,ACH
+1062,4/9/2025,1581.64,entertainment,Debit,Lindsey Ltd,South Mary,Debit Card
+1062,4/5/2025,1482.8,rent,Debit,"Gill, Ramirez and Barr",Perezhaven,Debit Card
+1062,5/4/2025,2935.09,groceries,Debit,Casey Group,Brooksfurt,Debit Card
+1062,4/23/2025,1564.94,rent,Debit,Lewis PLC,Brianview,Credit Card
+1062,5/31/2025,2815.7,rent,Debit,Roberts-Pacheco,New Robin,Debit Card
+1062,6/1/2025,721.62,travel,Debit,"Santiago, Carlson and Russell",East Hollyfort,ACH
+1062,6/11/2025,1492.82,utilities,Debit,Johnson-Hayes,East Janiceburgh,Debit Card
+1062,5/8/2025,570.39,utilities,Debit,"Page, Wolfe and Doyle",Lake Andrew,ACH
+1062,4/6/2025,1489.52,groceries,Debit,Wilson-Braun,Floresstad,ACH
+1062,5/14/2025,174.63,utilities,Debit,"Robinson, Nash and Madden",West Josestad,ACH
+1062,5/8/2025,290.5,travel,Debit,Drake-Williamson,West Robertchester,Debit Card
+1062,5/3/2025,235.73,groceries,Debit,Hill-Acevedo,North Connormouth,Credit Card
+1062,6/11/2025,476.96,groceries,Debit,"Hall, Liu and Bowen",Dayshire,Credit Card
+1062,4/11/2025,2165.46,rent,Debit,"Sanders, Haney and Torres",Whiteview,ACH
+1062,3/29/2025,2353.97,salary,Credit,"Williams, Weaver and King",Greentown,Credit Card
+1062,3/29/2025,2143.99,salary,Credit,Wallace PLC,South Johnberg,Credit Card
+1063,6/3/2025,1756.79,entertainment,Debit,Parker-Ellis,Beltranport,ACH
+1063,5/9/2025,2089.12,groceries,Debit,Hall-Huber,Lake Amberview,ACH
+1063,4/26/2025,1901.28,utilities,Debit,Cox LLC,North Reginaberg,ACH
+1063,4/29/2025,2594.15,utilities,Debit,"Osborne, Hodge and Watts",Gonzalezshire,Debit Card
+1063,6/4/2025,914.64,travel,Debit,Drake Group,Carterbury,Debit Card
+1063,6/6/2025,-342.51,salary,Credit,Lee-Wells,West April,ACH
+1063,3/30/2025,978.29,travel,Debit,"Lewis, Bryant and Love",Peterhaven,Debit Card
+1063,6/14/2025,2493.35,entertainment,Debit,"Gallagher, Stewart and Villegas",East Sarah,ACH
+1063,5/14/2025,1206.03,salary,Credit,Alexander Ltd,Laurabury,ACH
+1063,4/15/2025,2775.1,salary,Credit,Tran-Cruz,Andrewmouth,Debit Card
+1063,4/19/2025,737.81,groceries,Debit,Rivera LLC,East Christinehaven,ACH
+1063,5/30/2025,2170.83,utilities,Debit,Howard-Briggs,Lake Kimberlyside,Debit Card
+1063,6/17/2025,2580.08,rent,Debit,"Best, Smith and House",Jasonmouth,Debit Card
+1063,6/13/2025,1482.16,salary,Credit,Beck-Mitchell,North Debraside,Credit Card
+1063,6/9/2025,60.72,groceries,Debit,Reyes-Perez,West Michaelfurt,Debit Card
+1063,4/5/2025,293.26,salary,Credit,"Clements, Flores and Stanley",Port Nathan,Credit Card
+1063,6/5/2025,1436.46,rent,Debit,Newman and Sons,West James,Debit Card
+1063,5/30/2025,-310.92,utilities,Debit,Carter-Short,Port Stevenmouth,ACH
+1063,5/27/2025,2928.64,rent,Debit,Klein-Meyer,Kevinchester,ACH
+1063,4/18/2025,2988.55,travel,Debit,Lopez Group,New Jasontown,Debit Card
+1064,5/27/2025,988.66,salary,Credit,Guerrero Ltd,Justinfort,Debit Card
+1064,5/13/2025,766.4,travel,Debit,Livingston-Barnes,North Brendahaven,ACH
+1064,5/26/2025,-167.59,travel,Debit,"Clark, Allen and Clements",Jonathanland,ACH
+1064,5/29/2025,1513.02,travel,Debit,Smith LLC,Ashleystad,Debit Card
+1064,4/2/2025,695.45,entertainment,Debit,Joyce-Mccall,Herreramouth,Debit Card
+1064,6/14/2025,690.31,rent,Debit,"Decker, Moran and David",West Thomasborough,Credit Card
+1064,5/24/2025,2263.7,entertainment,Debit,"Long, Allen and Moyer",South Colleenfort,Credit Card
+1064,6/2/2025,2875.44,utilities,Debit,Brown LLC,East Lisachester,Debit Card
+1064,4/6/2025,2293.9,rent,Debit,Savage-Becker,Lopezfurt,Credit Card
+1064,5/24/2025,-342.77,groceries,Debit,"Wood, Christensen and Warren",Youngside,Debit Card
+1064,6/6/2025,712.04,entertainment,Debit,"Lane, Sims and Alexander",Connorfurt,Debit Card
+1064,4/9/2025,1989.97,utilities,Debit,"Mccoy, Schroeder and Lawson",Kevinhaven,Credit Card
+1064,3/26/2025,1971.05,utilities,Debit,Dennis-Austin,Smithport,Credit Card
+1064,4/17/2025,-137.18,groceries,Debit,Galloway-Richards,Cookview,Debit Card
+1064,3/28/2025,2536.82,entertainment,Debit,"Jacobs, Smith and Pacheco",North Sarah,Debit Card
+1064,4/12/2025,379,travel,Debit,Scott Inc,Port Amanda,Debit Card
+1064,5/7/2025,752.75,rent,Debit,King-Bryan,West Aprilview,Debit Card
+1064,4/14/2025,1174.1,travel,Debit,"Barton, Fox and Thompson",West Heatherburgh,ACH
+1064,5/27/2025,1277.83,groceries,Debit,"Mcpherson, Cline and Myers",Mcclurehaven,Debit Card
+1064,3/29/2025,325.31,salary,Credit,"Hampton, Brown and Humphrey",West Davidfurt,Debit Card
+1065,6/13/2025,1547.28,salary,Credit,Melendez-Woodward,New Staceymouth,Credit Card
+1065,5/25/2025,667.52,entertainment,Debit,"Torres, Dudley and Fox",North Crystalfort,Credit Card
+1065,5/26/2025,85.44,salary,Credit,"Martinez, Riddle and Cannon",Alexandrafort,ACH
+1065,5/26/2025,1339.68,utilities,Debit,Carrillo-Reynolds,Lake Heathermouth,ACH
+1065,3/23/2025,1353.52,rent,Debit,Hill PLC,New Tony,Credit Card
+1065,3/22/2025,1126.64,entertainment,Debit,"White, Curry and Townsend",Donnatown,ACH
+1065,6/15/2025,331.02,entertainment,Debit,Heath-Morales,Lake Nicoleshire,Debit Card
+1065,5/13/2025,2811.7,rent,Debit,"Lee, Russo and Hall",East Sandra,Credit Card
+1065,5/28/2025,2423.05,entertainment,Debit,Smith-Rice,Nicolehaven,ACH
+1065,3/23/2025,2129.13,utilities,Debit,Tanner-Miller,South Andrea,Credit Card
+1065,3/31/2025,328.43,rent,Debit,Hall Ltd,New Micheal,Debit Card
+1065,4/1/2025,-185.12,rent,Debit,Vargas Ltd,New Ashley,Credit Card
+1065,4/13/2025,2374.43,entertainment,Debit,Martin Ltd,West Brett,ACH
+1065,5/21/2025,1591.95,groceries,Debit,Williams-Lopez,New Adrianland,Debit Card
+1065,4/10/2025,38.89,rent,Debit,"Deleon, Reed and Diaz",Feliciashire,ACH
+1065,5/12/2025,606.49,salary,Credit,Morton-James,Rebeccatown,Credit Card
+1065,3/29/2025,682.67,travel,Debit,Morgan-Williams,North Melaniehaven,Credit Card
+1065,4/13/2025,-152.57,utilities,Debit,Green PLC,Jamesborough,ACH
+1065,5/18/2025,527.27,travel,Debit,"Mason, Miller and Estes",Joyceberg,Debit Card
+1065,6/11/2025,2029.15,entertainment,Debit,Smith and Sons,Port Jacquelinechester,Credit Card
+1066,4/13/2025,46.19,travel,Debit,"Schwartz, Harris and Zavala",New Monica,ACH
+1066,3/31/2025,2735.32,entertainment,Debit,Gutierrez Inc,South Alexandra,Debit Card
+1066,4/29/2025,-320.45,groceries,Debit,Alvarez-Chung,Lake Hunterport,ACH
+1066,5/6/2025,2472.16,utilities,Debit,Sims Ltd,Hernandeztown,ACH
+1066,4/9/2025,547.22,entertainment,Debit,Moses Group,Katrinaport,ACH
+1066,6/1/2025,1908.62,rent,Debit,Smith-Nelson,North Benjamin,Debit Card
+1066,4/2/2025,-293.03,entertainment,Debit,"Hensley, Newman and Martin",New Michellehaven,Credit Card
+1066,4/23/2025,-272.6,groceries,Debit,"Ellis, Frank and Miller",Gallowayfurt,Debit Card
+1066,4/13/2025,2809.32,travel,Debit,Molina-White,South Lisa,ACH
+1066,3/31/2025,2837.34,utilities,Debit,Harris and Sons,Moorebury,Credit Card
+1066,4/2/2025,2569.68,utilities,Debit,Love-Wood,Brookeside,ACH
+1066,4/30/2025,2334.62,rent,Debit,Wilcox Ltd,Dillonmouth,ACH
+1066,5/23/2025,2230.91,entertainment,Debit,"Jensen, Perez and Watkins",Parkerton,ACH
+1066,5/16/2025,1059.05,groceries,Debit,"Solis, Wheeler and Ray",South Nicole,ACH
+1066,4/18/2025,844.41,groceries,Debit,Hunter LLC,Millerborough,ACH
+1066,6/13/2025,1451.41,entertainment,Debit,Johnson-Parker,New Sharontown,Credit Card
+1066,4/13/2025,2135.37,groceries,Debit,Hunt Ltd,Mccallbury,Credit Card
+1066,5/27/2025,2372.43,entertainment,Debit,Garcia-Wilson,Aaronhaven,ACH
+1066,5/12/2025,33.87,groceries,Debit,Gordon Group,Kellyton,Credit Card
+1066,6/18/2025,2510.85,rent,Debit,"Black, Callahan and Brown",Samuelborough,ACH
+1067,5/12/2025,3.11,groceries,Debit,"Mayer, Smith and Heath",New Bridget,Debit Card
+1067,5/5/2025,2390.47,groceries,Debit,Stout and Sons,New Maureenstad,Debit Card
+1067,3/31/2025,2004.01,travel,Debit,"Crawford, Wheeler and Holt",North Caitlin,ACH
+1067,4/2/2025,1976.85,rent,Debit,Johnson-Howard,Sextonfort,ACH
+1067,4/29/2025,188.33,entertainment,Debit,Foster LLC,Rubenmouth,ACH
+1067,6/2/2025,330.63,groceries,Debit,Morgan-Carney,Derektown,Credit Card
+1067,3/21/2025,724.78,salary,Credit,Walsh Group,Port Christian,ACH
+1067,4/20/2025,1088.75,entertainment,Debit,Blair-Solis,Lake Leslie,Credit Card
+1067,4/25/2025,643.68,rent,Debit,Hansen-Dunn,Smithside,ACH
+1067,4/3/2025,17.26,rent,Debit,Atkins-Ramirez,Joshuaburgh,Debit Card
+1067,3/25/2025,2372.49,entertainment,Debit,Fox Inc,Pamelachester,Debit Card
+1067,5/24/2025,1004.05,utilities,Debit,Jimenez and Sons,Michellefort,Credit Card
+1067,4/14/2025,659.1,travel,Debit,Hale Group,New Christinefort,ACH
+1067,6/12/2025,449.04,salary,Credit,"Parker, Rodriguez and Norman",South Heather,Debit Card
+1067,4/16/2025,1593.12,entertainment,Debit,"Norris, Ford and Tran",South Tinaville,Debit Card
+1067,6/15/2025,1886.12,entertainment,Debit,Nelson-Miller,Smithborough,Credit Card
+1067,3/21/2025,2505.39,travel,Debit,Bishop-Stewart,New Robert,ACH
+1067,5/1/2025,1901.49,travel,Debit,Mills-Jones,Nancychester,Debit Card
+1067,4/8/2025,300.56,groceries,Debit,Jackson-Reynolds,West Melanie,ACH
+1067,4/28/2025,1096.41,entertainment,Debit,Michael-Beasley,Port Kyle,Debit Card
+1068,5/30/2025,-95.51,salary,Credit,"Thomas, Smith and Morris",Port Richard,Credit Card
+1068,4/19/2025,2074.08,salary,Credit,Elliott-Wise,Ericborough,Debit Card
+1068,3/31/2025,288.34,entertainment,Debit,"Kelley, Mcdonald and Ramirez",Garzastad,Debit Card
+1068,5/25/2025,2018.39,salary,Credit,"Molina, Singh and Lee",Jessicafurt,Credit Card
+1068,6/16/2025,2469.04,groceries,Debit,"Orozco, Chandler and Taylor",Shawnview,ACH
+1068,4/26/2025,2924.36,entertainment,Debit,Hodge PLC,Webbshire,Credit Card
+1068,4/9/2025,879.11,rent,Debit,Baker-Brown,Petershire,Debit Card
+1068,4/15/2025,-154.75,utilities,Debit,"Jones, Ford and Turner",East Martin,ACH
+1068,4/7/2025,2657.78,travel,Debit,Clark-Adams,Mcintoshmouth,Credit Card
+1068,4/3/2025,-389.08,utilities,Debit,"Hill, Hicks and Bennett",North Candace,ACH
+1068,5/23/2025,118.7,travel,Debit,Wood LLC,Ashleyfurt,Credit Card
+1068,4/7/2025,2707.63,utilities,Debit,Wheeler PLC,East Brandonbury,Debit Card
+1068,6/1/2025,2629.64,travel,Debit,"Barber, Glass and Frederick",West Michaeltown,Debit Card
+1068,6/15/2025,584.6,travel,Debit,Jones and Sons,Brianberg,ACH
+1068,4/29/2025,901.1,rent,Debit,Gutierrez Group,Katherineland,Credit Card
+1068,5/21/2025,-393.87,salary,Credit,Navarro and Sons,North Ryanshire,ACH
+1068,4/16/2025,94.76,utilities,Debit,"Jefferson, Collins and Patrick",Lake Jordan,Credit Card
+1068,6/7/2025,-148.54,travel,Debit,Smith-Saunders,South Charlesland,Debit Card
+1068,4/26/2025,141.63,groceries,Debit,Hale-Bond,Carpenterville,Debit Card
+1068,6/10/2025,14.8,travel,Debit,"Barber, Hawkins and Moore",Rebeccamouth,ACH
+1069,5/5/2025,-185.77,salary,Credit,Fowler-Hays,Port Zoeville,ACH
+1069,5/16/2025,1035.77,rent,Debit,Houston-Huynh,Barbaraland,Credit Card
+1069,6/3/2025,-225.72,salary,Credit,Lloyd and Sons,Williamchester,Debit Card
+1069,5/29/2025,1018.58,utilities,Debit,"Smith, Le and Jones",Hodgesshire,ACH
+1069,3/25/2025,1548.04,rent,Debit,"Navarro, Macdonald and Barry",South Josehaven,ACH
+1069,6/4/2025,-413.86,groceries,Debit,"Jones, Terry and Lang",New Melissabury,Credit Card
+1069,4/26/2025,667.05,rent,Debit,Fowler Ltd,Tammychester,Debit Card
+1069,6/1/2025,2805.39,entertainment,Debit,Torres Group,North Samuel,ACH
+1069,5/23/2025,2319.64,groceries,Debit,Gibson Inc,Bishopburgh,Debit Card
+1069,5/12/2025,1983.34,groceries,Debit,"Wells, Gonzalez and Price",Brookemouth,Debit Card
+1069,3/29/2025,171.87,groceries,Debit,"Park, Brown and Johnson",South Samantha,ACH
+1069,5/13/2025,764.1,travel,Debit,Bryant-Jackson,East Peterhaven,Debit Card
+1069,4/2/2025,39.95,rent,Debit,Turner Ltd,New Paulberg,ACH
+1069,4/15/2025,2887.51,salary,Credit,"Patton, Holt and Larsen",Lake Sarah,Debit Card
+1069,3/28/2025,-91.87,travel,Debit,"Anderson, Duncan and Baird",West Michael,ACH
+1069,4/29/2025,714,groceries,Debit,"Moody, Butler and Crawford",Matthewstad,Credit Card
+1069,5/7/2025,1676.78,salary,Credit,"Cochran, Green and Gonzales",Newmanburgh,Debit Card
+1069,4/13/2025,319.67,groceries,Debit,"Little, Solis and Chan",Joshuaburgh,Credit Card
+1069,3/22/2025,2763.55,salary,Credit,Potter LLC,Markberg,ACH
+1069,5/5/2025,316.84,salary,Credit,"Ponce, Allen and Burke",Greeneport,Debit Card
+1070,5/17/2025,644.58,entertainment,Debit,Hensley and Sons,East Amyfort,ACH
+1070,6/2/2025,2286.3,utilities,Debit,Ruiz-Mitchell,Johnsonfort,Debit Card
+1070,4/27/2025,-40.55,rent,Debit,Cobb-Lewis,Nguyenland,Credit Card
+1070,3/29/2025,1619.19,salary,Credit,Cooke and Sons,Lake David,ACH
+1070,5/22/2025,2126.9,entertainment,Debit,"Ramirez, Cook and Carter",Lake Nicholas,ACH
+1070,4/3/2025,2499.24,groceries,Debit,"Young, Phillips and Valdez",Port Daniel,Credit Card
+1070,6/14/2025,-35.41,groceries,Debit,"Smith, Brown and Smith",Dawsonmouth,ACH
+1070,5/19/2025,2758.53,travel,Debit,"Jackson, Mitchell and Adams",Allenville,Debit Card
+1070,5/9/2025,2937.39,rent,Debit,"Lewis, Neal and Kelley",Coreybury,Credit Card
+1070,5/28/2025,2721.16,rent,Debit,"Murphy, Miller and Bright",North Juliemouth,Debit Card
+1070,4/28/2025,404.83,utilities,Debit,Garcia-Gomez,Hortonland,Credit Card
+1070,4/12/2025,1982.27,entertainment,Debit,Lynch Inc,Riverafort,Debit Card
+1070,6/5/2025,-381.38,salary,Credit,"Hanna, Perez and Mccann",New Matthewport,Credit Card
+1070,5/19/2025,1896.04,rent,Debit,Gonzalez Group,Garciatown,ACH
+1070,3/21/2025,2043.4,travel,Debit,Miller-Lewis,South Matthewstad,Debit Card
+1070,6/13/2025,2590.83,groceries,Debit,Gonzalez and Sons,Jeffreyberg,Debit Card
+1070,6/11/2025,719.6,groceries,Debit,Jordan-Morris,Crystalborough,ACH
+1070,4/14/2025,80.46,salary,Credit,"Daniels, Gutierrez and Foley",Rodriguezhaven,Credit Card
+1070,4/23/2025,596.81,entertainment,Debit,David-Young,East Feliciabury,Credit Card
+1070,5/21/2025,91.44,utilities,Debit,Carroll and Sons,Georgeside,Credit Card
+1071,5/4/2025,192.82,entertainment,Debit,Cabrera and Sons,Paigemouth,ACH
+1071,5/3/2025,2781.29,rent,Debit,Ramirez Group,New Michelestad,ACH
+1071,6/3/2025,-423.21,rent,Debit,"Sheppard, Wilson and Wheeler",New Isaac,Credit Card
+1071,4/9/2025,995.09,salary,Credit,"Middleton, Davis and Morales",New Cherylshire,Credit Card
+1071,4/21/2025,1333.66,groceries,Debit,Kirby-Rodriguez,East Morganton,Debit Card
+1071,3/24/2025,1757.04,travel,Debit,Arnold-Rice,Peterston,Debit Card
+1071,6/13/2025,431.74,salary,Credit,Mathis and Sons,South Wesley,Credit Card
+1071,3/26/2025,755.86,travel,Debit,Willis-Bell,West Cassandra,Debit Card
+1071,5/10/2025,2786.2,rent,Debit,Davis and Sons,Lake Andrewchester,ACH
+1071,5/22/2025,301.62,utilities,Debit,"Ramirez, Gordon and Daniels",East Rebeccachester,ACH
+1071,5/27/2025,946.1,salary,Credit,Lynn-Hanna,New Courtney,ACH
+1071,4/16/2025,1416.48,rent,Debit,"Scott, Monroe and Kelly",New Jeffrey,ACH
+1071,6/4/2025,112.8,groceries,Debit,"Rasmussen, Mendoza and Ellis",Dwaynestad,Debit Card
+1071,5/22/2025,1368.56,salary,Credit,"Harmon, Carson and Robinson",Coltonport,Credit Card
+1071,4/24/2025,1919.57,travel,Debit,"Stone, Palmer and Gallegos",Melindaside,ACH
+1071,4/14/2025,2377.4,salary,Credit,"Burch, Lyons and Bell",Sydneyfort,Credit Card
+1071,5/12/2025,2921.64,salary,Credit,"Myers, Weaver and Everett",South Georgemouth,Debit Card
+1071,3/28/2025,1145.84,rent,Debit,"Curtis, Larsen and Blair",West Raymondchester,Credit Card
+1071,5/20/2025,1398.21,travel,Debit,Pratt and Sons,South Peterborough,Debit Card
+1071,6/8/2025,2665.37,groceries,Debit,Hall-French,Johnsonland,Debit Card
+1072,5/7/2025,1071.35,entertainment,Debit,"Mason, Garcia and Brown",North Amy,Credit Card
+1072,4/7/2025,511.58,travel,Debit,Thompson Inc,East Kimberly,ACH
+1072,4/29/2025,1275.57,salary,Credit,"Salazar, Scott and Poole",Port Josephton,ACH
+1072,5/25/2025,1739.57,groceries,Debit,Phillips-Garcia,North Daniellemouth,Debit Card
+1072,5/31/2025,904.93,salary,Credit,"Fuller, Thomas and Reyes",North Matthew,ACH
+1072,5/4/2025,1204.86,groceries,Debit,"Cain, Saunders and Campos",East Stevenhaven,Credit Card
+1072,4/25/2025,-295.84,rent,Debit,Oconnell Ltd,Lake Nicole,ACH
+1072,4/15/2025,774.62,groceries,Debit,"Sims, Rivera and Anderson",Guerreroburgh,Credit Card
+1072,5/9/2025,120.59,rent,Debit,"Morse, Carey and Kidd",East Renee,Debit Card
+1072,5/13/2025,1383.12,travel,Debit,Klein Ltd,East Patrickshire,Credit Card
+1072,5/4/2025,2663.42,rent,Debit,"Green, Thomas and Hamilton",West Tammyland,Credit Card
+1072,3/31/2025,1678.15,travel,Debit,Howell-Williams,Moraleston,Debit Card
+1072,4/1/2025,1379.42,salary,Credit,"Young, Martin and Newton",Port Thomasstad,ACH
+1072,6/15/2025,693.42,groceries,Debit,Ortega-Mullins,Johnburgh,Credit Card
+1072,4/24/2025,1220.26,utilities,Debit,"Reed, Smith and Bird",Port Thomasland,Credit Card
+1072,4/25/2025,144.25,entertainment,Debit,"Greer, Garcia and Cohen",Greenestad,Debit Card
+1072,3/23/2025,1706.14,salary,Credit,Morris PLC,East Aaron,ACH
+1072,6/8/2025,1503.96,travel,Debit,Taylor-Hawkins,New Rhondafort,ACH
+1072,4/12/2025,-78.47,groceries,Debit,Castillo and Sons,Beasleybury,Debit Card
+1072,4/6/2025,-300.77,utilities,Debit,Smith-Richards,Cynthiachester,ACH
+1073,6/13/2025,2702.4,travel,Debit,Fowler and Sons,Melissaport,ACH
+1073,5/10/2025,1986.79,rent,Debit,Martin Group,New Shane,Credit Card
+1073,6/17/2025,1001.19,rent,Debit,Wilson and Sons,Christopherborough,Debit Card
+1073,3/30/2025,924.8,salary,Credit,"Brown, Moore and Hughes",Port Cheyenne,Debit Card
+1073,5/31/2025,2890.09,groceries,Debit,Garcia Inc,West Gregoryton,Credit Card
+1073,5/16/2025,2870.32,rent,Debit,"Jackson, Barry and Williams",Port Davidview,Credit Card
+1073,4/24/2025,2374.62,salary,Credit,Wyatt Group,New Aprilview,Debit Card
+1073,5/2/2025,-258.64,entertainment,Debit,Brown LLC,South Nancychester,ACH
+1073,4/6/2025,1806.96,entertainment,Debit,"Lee, Smith and Oconnor",East Brookeland,Debit Card
+1073,4/12/2025,-150.03,utilities,Debit,Wilcox-Bryant,Port Christopherland,Debit Card
+1073,6/2/2025,2623.83,utilities,Debit,"Ballard, Thompson and Larson",Tammyhaven,Credit Card
+1073,4/28/2025,2900.99,rent,Debit,Smith PLC,West Ronald,ACH
+1073,6/6/2025,2515.97,salary,Credit,Sherman Inc,Comptonland,Debit Card
+1073,6/17/2025,2688.51,travel,Debit,"Bradley, Martinez and Salazar",East Annamouth,ACH
+1073,5/15/2025,598.02,rent,Debit,Morrison PLC,Port Jenniferland,Credit Card
+1073,6/13/2025,-376.32,salary,Credit,Smith Ltd,New Hannah,Debit Card
+1073,6/8/2025,2114.69,rent,Debit,Mcdonald-Wright,West Brandyborough,Debit Card
+1073,5/31/2025,1385.03,utilities,Debit,"Gray, Reynolds and Poole",Thompsonburgh,Debit Card
+1073,4/28/2025,2415.81,travel,Debit,"Gilmore, Cook and Thompson",Morenochester,ACH
+1073,6/11/2025,115.24,travel,Debit,Newman LLC,Powellhaven,Debit Card
+1074,5/1/2025,1309.17,travel,Debit,Powell Ltd,Kimberlystad,Credit Card
+1074,4/4/2025,1931.49,travel,Debit,Long LLC,North Michael,Credit Card
+1074,3/27/2025,2849.5,travel,Debit,Chang-Smith,East Williamfort,ACH
+1074,5/20/2025,2981.19,rent,Debit,"Frey, Lawrence and Jimenez",Fernandotown,ACH
+1074,6/10/2025,2336.79,rent,Debit,Williams-Williams,New Carlosborough,ACH
+1074,6/8/2025,207.52,groceries,Debit,Holt-Jones,South Virginia,Credit Card
+1074,3/25/2025,1352.05,utilities,Debit,Horton and Sons,Port Laurie,Debit Card
+1074,4/20/2025,921.62,groceries,Debit,Soto-Ramirez,Perryland,Credit Card
+1074,3/24/2025,277.41,entertainment,Debit,"Stephens, Young and Johnson",Paynefort,ACH
+1074,4/12/2025,628.78,travel,Debit,Carroll-Martinez,East Robinview,Debit Card
+1074,4/21/2025,2742.56,salary,Credit,Wilson Inc,South Angelica,Debit Card
+1074,3/29/2025,2793.3,travel,Debit,Nelson Inc,Lake Joshuaport,Credit Card
+1074,6/1/2025,-442.39,rent,Debit,Campbell-Baldwin,North Shannonport,Debit Card
+1074,4/9/2025,1895.79,groceries,Debit,Gomez-Oliver,West Scottmouth,ACH
+1074,4/8/2025,2036.64,entertainment,Debit,Harris Ltd,South Jenniferland,Credit Card
+1074,5/31/2025,1928.4,groceries,Debit,"Atkins, Gardner and Ho",Scottfurt,Credit Card
+1074,4/28/2025,383.94,groceries,Debit,Moore Group,Gibsonshire,Credit Card
+1074,6/7/2025,2428.46,utilities,Debit,Fuller Inc,Josephton,ACH
+1074,4/2/2025,1744.8,salary,Credit,"Weaver, Ross and Williamson",West Jennifer,Debit Card
+1074,4/22/2025,23.55,entertainment,Debit,Vaughn-Rios,West Jim,Debit Card
+1075,4/29/2025,814.79,groceries,Debit,Browning-Mitchell,Nelsonville,ACH
+1075,4/24/2025,1181.2,salary,Credit,Reyes PLC,South Jacobville,Credit Card
+1075,4/18/2025,169.69,travel,Debit,Roman Ltd,New Stephanieburgh,ACH
+1075,4/18/2025,1900.4,rent,Debit,Foster Group,Cooktown,ACH
+1075,4/23/2025,1920.33,entertainment,Debit,"Avery, Mendez and Wallace",Watsonburgh,Credit Card
+1075,5/10/2025,2897.6,utilities,Debit,Peterson-Walter,Garymouth,Credit Card
+1075,6/1/2025,1627.95,groceries,Debit,Rivera PLC,Kimburgh,ACH
+1075,4/27/2025,753.8,utilities,Debit,"Thompson, Fernandez and Larson",Colemouth,Credit Card
+1075,4/27/2025,2723.67,rent,Debit,Roach and Sons,New Wanda,Credit Card
+1075,5/17/2025,2717.19,groceries,Debit,"Williams, Johnson and Thomas",Morrisshire,ACH
+1075,5/26/2025,2568.07,salary,Credit,Schmidt-Chang,Lake Amy,ACH
+1075,5/13/2025,2797.16,groceries,Debit,Gomez Group,Jennifershire,Credit Card
+1075,4/14/2025,2786.14,entertainment,Debit,Miller-Anthony,Kathleenburgh,Credit Card
+1075,5/9/2025,1494.26,rent,Debit,"Sanchez, Mora and Chang",Lake Amyborough,ACH
+1075,6/2/2025,52.39,groceries,Debit,Phillips Ltd,Davismouth,Credit Card
+1075,5/28/2025,2303.35,entertainment,Debit,Moore Ltd,Whiteside,ACH
+1075,5/11/2025,313.79,entertainment,Debit,Moyer-Richardson,Joystad,Debit Card
+1075,3/26/2025,2691.92,groceries,Debit,"Wilson, Hartman and Stokes",Brewerville,Credit Card
+1075,5/14/2025,2129.52,rent,Debit,Salinas and Sons,New Jennifer,Credit Card
+1075,5/12/2025,154.55,utilities,Debit,Gibson PLC,Kyliefort,ACH
+1076,3/27/2025,1871.7,rent,Debit,Garcia-Flores,New Donnahaven,Debit Card
+1076,5/22/2025,2007.36,travel,Debit,Krause Inc,Lake Benjaminville,ACH
+1076,6/9/2025,734.44,groceries,Debit,Williams Ltd,Huffborough,Debit Card
+1076,6/17/2025,-405.11,salary,Credit,Paul-Hughes,Woodhaven,Debit Card
+1076,4/25/2025,41.4,rent,Debit,Price-Martin,North Laurashire,Credit Card
+1076,4/20/2025,2033.79,salary,Credit,Butler Group,Heatherville,Credit Card
+1076,4/25/2025,-31.91,utilities,Debit,Fletcher Inc,Garciamouth,Debit Card
+1076,4/8/2025,1549.82,groceries,Debit,"Garcia, Johnson and Wolf",Josephtown,ACH
+1076,6/4/2025,1692.19,utilities,Debit,"Townsend, Williams and Jackson",Sethshire,ACH
+1076,5/6/2025,2295.58,travel,Debit,Lambert-Dean,Lake Lawrence,ACH
+1076,3/25/2025,-356.82,travel,Debit,Rice-Wilson,New Peterfurt,Debit Card
+1076,6/17/2025,2967.62,groceries,Debit,Bailey-Jackson,East Richard,ACH
+1076,4/4/2025,2007.37,utilities,Debit,Bell-Bender,Johnfort,Credit Card
+1076,5/2/2025,649.68,rent,Debit,Douglas-Munoz,Vincenttown,ACH
+1076,3/31/2025,2490.32,entertainment,Debit,Kelly Ltd,Benjaminberg,Credit Card
+1076,6/17/2025,722.11,utilities,Debit,Waters-Finley,Jonathanborough,ACH
+1076,6/18/2025,1202.58,travel,Debit,Davenport LLC,New Anthony,ACH
+1076,6/12/2025,1979.23,utilities,Debit,Holmes-Brown,Stevenmouth,ACH
+1076,4/21/2025,971.04,travel,Debit,Rose-White,Johnsonview,Credit Card
+1076,5/10/2025,1499.25,travel,Debit,"Cox, Daniels and Castillo",Port Biancahaven,Credit Card
+1077,4/5/2025,737.26,entertainment,Debit,Bowman Ltd,Lake Kathleenport,Debit Card
+1077,6/4/2025,2880.56,groceries,Debit,"Smith, Smith and Prince",East Beckyhaven,Credit Card
+1077,4/5/2025,-93.82,travel,Debit,"Andersen, Martin and Thornton",North Kellytown,ACH
+1077,6/14/2025,2473.17,travel,Debit,Shaw Ltd,North Raymondhaven,Debit Card
+1077,4/3/2025,859.04,salary,Credit,"Dougherty, Schneider and Livingston",Solomonville,Debit Card
+1077,4/21/2025,2865.8,utilities,Debit,"Davis, Henderson and Wong",Smithview,Debit Card
+1077,4/25/2025,2667.28,utilities,Debit,Delgado-Stephenson,Prattborough,Debit Card
+1077,4/9/2025,-388.83,entertainment,Debit,"Meza, Rivera and Nunez",Port Davidside,Debit Card
+1077,6/15/2025,2084.2,salary,Credit,Delacruz Group,South Benjaminburgh,Debit Card
+1077,5/12/2025,2758.16,entertainment,Debit,Gutierrez Ltd,East Joseph,Credit Card
+1077,6/8/2025,2223.87,entertainment,Debit,"Herman, Arellano and Gibson",Port Diamond,ACH
+1077,5/9/2025,2388.81,entertainment,Debit,Roman-Jackson,Mcbridemouth,Credit Card
+1077,5/26/2025,1166.61,travel,Debit,Ruiz-Martin,Nixonhaven,ACH
+1077,4/15/2025,2585.08,salary,Credit,Jones and Sons,South Jenniferberg,Credit Card
+1077,6/12/2025,900.48,salary,Credit,Berry-Johnson,Braunchester,ACH
+1077,5/12/2025,790.02,travel,Debit,Roberts PLC,East Glenda,ACH
+1077,4/25/2025,198.38,utilities,Debit,Cruz PLC,Woodside,Debit Card
+1077,4/11/2025,1434.87,entertainment,Debit,Gonzales Inc,West Jonathanview,Credit Card
+1077,4/26/2025,184.32,entertainment,Debit,Smith-Paul,North Davidburgh,Debit Card
+1077,4/7/2025,1136.81,salary,Credit,"Vaughn, Wallace and Pearson",West Benjaminland,ACH
+1078,4/16/2025,1735.81,travel,Debit,"Craig, Vincent and Cross",Laurenfort,Credit Card
+1078,5/20/2025,2019.04,salary,Credit,Lopez-Newman,West Jamesland,Debit Card
+1078,6/12/2025,2859.95,travel,Debit,"Moore, Barnes and Robertson",East Christopherstad,Credit Card
+1078,5/9/2025,1114.03,salary,Credit,"Gardner, Atkinson and Martin",Garciaview,ACH
+1078,3/25/2025,2697.87,travel,Debit,Miles-Wade,South Claudia,Debit Card
+1078,4/26/2025,856.34,utilities,Debit,Anderson Group,Lake Chelsea,Debit Card
+1078,4/2/2025,1200.61,utilities,Debit,Boyd Inc,Lake Marvin,Debit Card
+1078,4/22/2025,-424.79,utilities,Debit,Mckee-Davis,Burkemouth,Credit Card
+1078,5/27/2025,1735.21,groceries,Debit,Perez-Peters,Lake Shelia,ACH
+1078,4/30/2025,191.68,salary,Credit,"Ross, Norris and Everett",Johnnystad,ACH
+1078,6/10/2025,98.8,entertainment,Debit,Wilson-Mccarthy,Cherylmouth,Credit Card
+1078,4/28/2025,1210.05,travel,Debit,"Dean, Brown and Simmons",East Daniel,Debit Card
+1078,6/10/2025,1873.23,entertainment,Debit,"Wright, Douglas and Thomas",North Matthew,Debit Card
+1078,4/10/2025,2511.83,groceries,Debit,Clark-Collins,New Jamesbury,ACH
+1078,4/14/2025,-8.27,travel,Debit,Sharp-Martinez,Alexanderfort,Credit Card
+1078,6/7/2025,2182.76,groceries,Debit,Adams Group,Port Lindsayshire,Debit Card
+1078,5/10/2025,2026.57,entertainment,Debit,"Hoffman, Stephens and Hinton",South Lisa,Credit Card
+1078,4/16/2025,1897.27,rent,Debit,Nicholson-Martin,Castilloberg,Debit Card
+1078,5/26/2025,847.02,groceries,Debit,"Glass, Parker and Salazar",Michaelland,ACH
+1078,5/28/2025,-117.21,rent,Debit,"Lopez, Jenkins and Farmer",Huntberg,Credit Card
+1079,5/18/2025,2939.05,salary,Credit,"Santiago, Cruz and Gray",Jacobsview,Debit Card
+1079,4/26/2025,2362.77,entertainment,Debit,"Neal, Rogers and Cunningham",Harrisonstad,ACH
+1079,5/21/2025,2217.35,groceries,Debit,Washington LLC,Simmonsshire,Debit Card
+1079,4/5/2025,-78.8,salary,Credit,"Daniels, Pratt and Mcclure",Port Markburgh,Credit Card
+1079,4/4/2025,2013.82,travel,Debit,Miller-Ross,Jefferyton,Credit Card
+1079,4/20/2025,2051.05,rent,Debit,Jenkins-Thomas,Watsonmouth,Credit Card
+1079,5/10/2025,-460.56,salary,Credit,Cohen Ltd,Carolinechester,Debit Card
+1079,5/3/2025,832.71,salary,Credit,Coleman-Schultz,North Jeremy,Debit Card
+1079,4/6/2025,-492.99,groceries,Debit,Conrad PLC,South Jacqueline,ACH
+1079,4/16/2025,-466.66,rent,Debit,West-Summers,Sarahmouth,Debit Card
+1079,4/27/2025,718.57,entertainment,Debit,"Gardner, Mullins and Barber",West Jamiefurt,ACH
+1079,4/26/2025,2383,travel,Debit,Wilkinson Group,Thomasfurt,Debit Card
+1079,4/27/2025,2401.77,groceries,Debit,Lewis Inc,Lopezborough,ACH
+1079,5/18/2025,1642.88,travel,Debit,Leonard Ltd,Smithfort,Debit Card
+1079,4/19/2025,-289.29,entertainment,Debit,Ramsey Ltd,New Glenda,Credit Card
+1079,5/23/2025,1301.58,travel,Debit,Walker-Cannon,Copelandport,Credit Card
+1079,4/16/2025,2527.31,rent,Debit,"Frazier, Hendrix and Torres",Lake Yesenia,Debit Card
+1079,6/18/2025,1103.81,utilities,Debit,"Ramos, Miller and Cole",Lake Jennifer,Credit Card
+1079,4/12/2025,1338.35,salary,Credit,"Hoffman, Nichols and Pitts",Johnsonshire,Credit Card
+1079,3/30/2025,965.93,salary,Credit,Cantu PLC,West Kimberly,Debit Card
+1080,5/24/2025,2337.75,entertainment,Debit,Gonzalez and Sons,Barrtown,ACH
+1080,5/14/2025,153.02,salary,Credit,Anderson-Ray,Angelaborough,Credit Card
+1080,6/5/2025,2144.97,rent,Debit,"Clark, White and Henry",West Laura,Debit Card
+1080,4/25/2025,838.58,utilities,Debit,Heath-Hooper,Liuland,Credit Card
+1080,4/28/2025,866.69,rent,Debit,Martin-May,New Catherineview,Credit Card
+1080,4/29/2025,2853.16,entertainment,Debit,Roberts-Hardin,West Dustin,Debit Card
+1080,6/12/2025,1926.21,rent,Debit,Reese PLC,North Walterhaven,Credit Card
+1080,3/29/2025,1028.63,entertainment,Debit,Brown LLC,Port Ericchester,Credit Card
+1080,5/19/2025,2164.64,groceries,Debit,Richardson LLC,West Justinmouth,ACH
+1080,5/18/2025,2237.96,groceries,Debit,Sanchez-Griffith,East Margaretchester,Credit Card
+1080,5/11/2025,2379.08,utilities,Debit,Carey Inc,Janicebury,Debit Card
+1080,4/18/2025,2459.52,groceries,Debit,Russell-Sanchez,South Michael,Credit Card
+1080,5/7/2025,1869.67,rent,Debit,Adams-Johnson,South Kathryn,Debit Card
+1080,5/27/2025,1589.59,groceries,Debit,Riley-Thomas,Cunninghammouth,ACH
+1080,4/25/2025,1139.26,salary,Credit,Obrien-Sosa,Lutzbury,Debit Card
+1080,4/26/2025,1946.48,entertainment,Debit,Russell Inc,Weisstown,Debit Card
+1080,6/15/2025,1602.68,salary,Credit,"Shepard, Tate and Riley",West Meganview,ACH
+1080,6/13/2025,-183.39,entertainment,Debit,Berry-Hernandez,South Kendraland,Debit Card
+1080,5/19/2025,1743.75,entertainment,Debit,"Mcbride, Compton and Sullivan",New Johnview,Credit Card
+1080,4/29/2025,330.58,salary,Credit,Howard-Thompson,Robertsville,ACH
+1081,3/27/2025,-213.79,salary,Credit,"Walters, Perry and Mcdonald",Lake Kevin,Debit Card
+1081,4/21/2025,568.37,rent,Debit,Brennan PLC,Port Joshua,Credit Card
+1081,4/27/2025,747.33,utilities,Debit,Ward PLC,North Nancybury,Credit Card
+1081,4/4/2025,1729.2,groceries,Debit,Carson-English,Port Andrea,Debit Card
+1081,5/19/2025,-292.75,utilities,Debit,"Gibson, Miller and Smith",Leebury,Debit Card
+1081,5/20/2025,-278.5,groceries,Debit,Collier Ltd,Thompsonville,ACH
+1081,4/4/2025,2348.73,utilities,Debit,"Villa, Pope and Smith",Lake Robin,Credit Card
+1081,3/27/2025,-342.45,rent,Debit,"Morgan, Hunter and Shaw",Russellberg,Debit Card
+1081,5/7/2025,2214.61,travel,Debit,"Manning, Pena and Brown",New Jose,Debit Card
+1081,6/7/2025,1321.03,salary,Credit,Coleman Group,North Mariah,Debit Card
+1081,6/11/2025,2261.11,rent,Debit,"Thompson, Hughes and Palmer",North Johnnymouth,ACH
+1081,6/12/2025,1338.31,entertainment,Debit,"Davis, Duncan and Rios",Millsborough,Credit Card
+1081,5/8/2025,1707.34,entertainment,Debit,Tran Ltd,Kimberlymouth,Credit Card
+1081,5/20/2025,993.98,rent,Debit,Bryant-Herring,Lauraberg,Credit Card
+1081,5/22/2025,-126.37,rent,Debit,"Chavez, Long and Duncan",Port William,Debit Card
+1081,6/9/2025,1613.21,travel,Debit,"Mosley, Jackson and Hamilton",New Amyport,ACH
+1081,5/26/2025,-145.09,groceries,Debit,Jones-Smith,Prestonburgh,Debit Card
+1081,6/3/2025,595.57,salary,Credit,"Young, Baker and Jennings",Gomezville,Credit Card
+1081,6/16/2025,1302.3,utilities,Debit,"Gray, Smith and Carlson",Colleenbury,Credit Card
+1081,5/21/2025,344.04,rent,Debit,Patrick-Sanchez,Markstad,ACH
+1082,4/19/2025,949.25,rent,Debit,Kline-Harmon,Swansonbury,ACH
+1082,6/9/2025,2151.11,salary,Credit,"Tyler, Santiago and Morrison",Huffmanhaven,ACH
+1082,3/27/2025,226.36,salary,Credit,Perkins Ltd,East Chelseachester,Credit Card
+1082,3/27/2025,-93.1,rent,Debit,Contreras-Hill,Currystad,Debit Card
+1082,5/19/2025,1000.83,utilities,Debit,"Johnson, Garner and Case",West Samuelshire,Debit Card
+1082,6/4/2025,2477.21,utilities,Debit,"King, Bright and West",Websterburgh,Debit Card
+1082,5/18/2025,1221.82,groceries,Debit,Martin-Lopez,South Matthewview,Credit Card
+1082,5/25/2025,1530.43,entertainment,Debit,Stewart-Wilson,Michaelville,Credit Card
+1082,5/10/2025,935.6,rent,Debit,"Miller, Neal and Park",Cherylstad,Debit Card
+1082,4/24/2025,2931.48,salary,Credit,"Carter, Garcia and Allen",New Jonathanland,Credit Card
+1082,6/12/2025,-273.17,groceries,Debit,"Salazar, Thomas and Stein",Rachelhaven,Debit Card
+1082,5/28/2025,2722.24,rent,Debit,Gibson LLC,Choifurt,Credit Card
+1082,5/4/2025,2334.45,salary,Credit,Pitts Inc,Courtneyfort,Debit Card
+1082,4/8/2025,1185.87,salary,Credit,Romero-Martinez,Port Angel,ACH
+1082,5/19/2025,376.94,groceries,Debit,Brown-Garcia,East Alexandrashire,ACH
+1082,3/27/2025,2731.79,travel,Debit,Sims-Johnson,East Jaclyn,Debit Card
+1082,3/28/2025,1919.96,salary,Credit,"Byrd, Roberts and Smith",New Paulmouth,Debit Card
+1082,6/15/2025,544.8,groceries,Debit,Palmer-Jackson,Port Nancy,ACH
+1082,5/31/2025,175.65,utilities,Debit,"Moses, Best and Lowery",South Nathan,Debit Card
+1082,4/23/2025,-238.29,travel,Debit,Randolph and Sons,Wilsonburgh,ACH
+1083,6/15/2025,-103.41,rent,Debit,Romero Group,South William,Debit Card
+1083,3/31/2025,1864.62,groceries,Debit,Mitchell Inc,Henrymouth,ACH
+1083,4/13/2025,1402.65,groceries,Debit,"Rogers, Benitez and Adkins",Arnoldside,Debit Card
+1083,6/1/2025,2725.82,utilities,Debit,Rogers LLC,Brendaside,ACH
+1083,4/22/2025,-69.12,salary,Credit,Pollard-Thornton,Ashleyville,Credit Card
+1083,4/24/2025,2208.98,salary,Credit,"Franklin, Ward and Lozano",New Jeffrey,ACH
+1083,5/12/2025,2477.87,travel,Debit,Jackson Group,South Randyshire,Credit Card
+1083,5/14/2025,2874.92,travel,Debit,"Moore, Morton and Ferguson",North Williamport,Debit Card
+1083,4/3/2025,310.5,travel,Debit,Castro-Anderson,South Amberside,ACH
+1083,4/4/2025,914.99,utilities,Debit,Jones-Lambert,Birdtown,ACH
+1083,4/4/2025,2983.94,entertainment,Debit,Smith-Martinez,Lindseyton,ACH
+1083,5/22/2025,1452.81,entertainment,Debit,Washington-Davis,West Christopher,ACH
+1083,6/3/2025,2434.13,utilities,Debit,Ellis Group,North Jasonfurt,Debit Card
+1083,6/7/2025,2874.69,travel,Debit,Thompson LLC,West Stanleyburgh,Debit Card
+1083,6/6/2025,623.36,salary,Credit,Stephens PLC,Port Nicholasville,ACH
+1083,6/7/2025,2102.65,travel,Debit,Mullins and Sons,Stuarttown,ACH
+1083,6/17/2025,543.25,utilities,Debit,"Smith, Bates and Mcdowell",Thomasfort,Debit Card
+1083,4/20/2025,2420.99,groceries,Debit,French and Sons,New Henry,ACH
+1083,4/9/2025,35.2,travel,Debit,Lopez Ltd,Reedmouth,Debit Card
+1083,5/17/2025,1227.66,utilities,Debit,Nguyen Inc,West Juan,ACH
+1084,5/14/2025,973.58,rent,Debit,"Thompson, Shah and Cooper",Matthewland,Debit Card
+1084,5/15/2025,112.76,travel,Debit,"Skinner, Johnson and Santiago",Morenohaven,ACH
+1084,6/8/2025,-365.73,utilities,Debit,Jimenez and Sons,Jonathanburgh,Credit Card
+1084,6/4/2025,-53.84,entertainment,Debit,"Fuller, Carson and Burgess",Port Alexis,ACH
+1084,6/7/2025,1739.89,travel,Debit,Wood-Brown,Greenland,Credit Card
+1084,5/25/2025,1416.67,salary,Credit,"Wood, Rodriguez and Walsh",Trevorburgh,Credit Card
+1084,4/1/2025,2473.99,salary,Credit,"Hughes, Armstrong and Gonzalez",East Theresastad,Debit Card
+1084,4/4/2025,652.12,groceries,Debit,"Garner, Meadows and Parker",Stephanieberg,ACH
+1084,4/24/2025,1698.7,salary,Credit,Davenport PLC,Jennyland,ACH
+1084,3/31/2025,1073.17,salary,Credit,Mcintyre Group,North Chad,Debit Card
+1084,5/13/2025,-478.16,utilities,Debit,"Nguyen, Campbell and Lopez",West Rachelburgh,Debit Card
+1084,3/27/2025,1700.18,groceries,Debit,Hopkins-Smith,Lake Karen,Credit Card
+1084,4/23/2025,-3.31,groceries,Debit,"Morgan, Diaz and Martinez",West Frank,Debit Card
+1084,5/10/2025,1014.05,rent,Debit,Hamilton-Perry,Port Sharon,Credit Card
+1084,4/24/2025,623.47,entertainment,Debit,Woods PLC,Campbellshire,Debit Card
+1084,4/26/2025,2568.27,entertainment,Debit,Williams-Patel,East Veronica,Debit Card
+1084,4/22/2025,-246.67,salary,Credit,Gutierrez-Christensen,Molinaville,Credit Card
+1084,5/24/2025,2162.25,utilities,Debit,French and Sons,West Allenburgh,Credit Card
+1084,5/15/2025,2856.29,rent,Debit,Scott-Phillips,New Bonnie,Credit Card
+1084,3/24/2025,1048.29,travel,Debit,Crawford-Brown,West Kevinville,ACH
+1085,5/14/2025,609.22,rent,Debit,"Fleming, Davis and Williams",Silvastad,Credit Card
+1085,6/16/2025,798.2,entertainment,Debit,"Bauer, Howard and Moore",Port Steventown,ACH
+1085,4/1/2025,2701.09,groceries,Debit,"Stone, Clark and Maldonado",Lake Amber,Debit Card
+1085,4/21/2025,1304.2,utilities,Debit,Hernandez LLC,Brockville,ACH
+1085,6/18/2025,2376.31,rent,Debit,Campos Inc,West Terri,Debit Card
+1085,5/6/2025,1733.15,entertainment,Debit,Robbins-Smith,East Markburgh,Credit Card
+1085,5/31/2025,2579.22,travel,Debit,"Hernandez, Jones and Madden",Tracyview,ACH
+1085,5/16/2025,2842.98,salary,Credit,Evans-Walker,Wilkinsonfort,Debit Card
+1085,5/12/2025,1674.33,groceries,Debit,Campbell-Stewart,Lake Pamelaport,Credit Card
+1085,4/18/2025,2386.66,utilities,Debit,Barron-Shaw,Lisaville,Debit Card
+1085,4/29/2025,2704.12,entertainment,Debit,Johnson Group,Grantfurt,Debit Card
+1085,5/25/2025,2785.05,utilities,Debit,Moran Inc,Colemanport,ACH
+1085,5/24/2025,250.38,entertainment,Debit,Fleming-Johnson,West Randyville,ACH
+1085,6/2/2025,674.78,groceries,Debit,Rowland PLC,Morrismouth,Debit Card
+1085,3/27/2025,-160.23,travel,Debit,"Sanchez, Gardner and Brown",East Robert,Credit Card
+1085,6/2/2025,1056.64,rent,Debit,Lee-Miller,East Frank,ACH
+1085,5/28/2025,970.45,entertainment,Debit,Floyd Inc,East Roy,Debit Card
+1085,4/10/2025,1220.27,rent,Debit,"Lee, Rollins and Diaz",Schwartzborough,Debit Card
+1085,5/9/2025,826.51,travel,Debit,"York, Weaver and Spencer",South Jasmin,Debit Card
+1085,4/19/2025,2801.85,travel,Debit,Carlson-Perkins,Port Brittany,Credit Card
+1086,5/8/2025,641.04,utilities,Debit,Smith Inc,North Laurieville,Credit Card
+1086,4/10/2025,967.41,rent,Debit,"Wolf, Aguilar and Chan",East Shannonfort,Debit Card
+1086,3/29/2025,725.94,travel,Debit,"Maldonado, Walters and Wright",Rodriguezshire,ACH
+1086,4/23/2025,708.78,utilities,Debit,"Malone, Butler and Garcia",West Williammouth,Credit Card
+1086,5/23/2025,-226.93,utilities,Debit,Whitehead Group,Huertaport,Credit Card
+1086,4/15/2025,2646.81,groceries,Debit,Cain-Owens,East Danielchester,ACH
+1086,5/25/2025,1001.84,entertainment,Debit,Clements LLC,Danielborough,ACH
+1086,4/2/2025,2701.54,entertainment,Debit,Mendoza PLC,Ryanchester,Credit Card
+1086,4/29/2025,2667.25,salary,Credit,Smith-Rowe,Kimberlychester,Debit Card
+1086,6/4/2025,200.31,travel,Debit,Carey-Ballard,Torrestown,Credit Card
+1086,5/19/2025,2243.01,salary,Credit,"Hill, Carter and Smith",Davidstad,ACH
+1086,5/4/2025,2221.04,rent,Debit,"Jenkins, Abbott and Lynch",Schneiderville,ACH
+1086,5/9/2025,1571.52,utilities,Debit,Jones PLC,Sheltonhaven,Credit Card
+1086,4/17/2025,1102.86,entertainment,Debit,Branch Inc,Ayalashire,Credit Card
+1086,4/26/2025,335.79,salary,Credit,Pierce Group,Lindseyfurt,ACH
+1086,6/9/2025,-159.37,salary,Credit,"Callahan, Molina and Hicks",North Holly,ACH
+1086,6/6/2025,1214,entertainment,Debit,"Castro, Brown and Gray",Andrewburgh,ACH
+1086,4/29/2025,477.97,groceries,Debit,Garner and Sons,Lake Judy,Credit Card
+1086,4/25/2025,-236.52,utilities,Debit,"Mueller, Flowers and Wallace",Charlesside,Debit Card
+1086,4/29/2025,1976.42,groceries,Debit,Conrad Ltd,Lake Scotthaven,Debit Card
+1087,4/27/2025,2273.66,rent,Debit,"White, Mckinney and Jackson",Jacquelineburgh,ACH
+1087,3/30/2025,2688.07,entertainment,Debit,"Harris, Pollard and Bennett",Port Sara,Debit Card
+1087,4/10/2025,2959.38,utilities,Debit,Patel-Jones,West Ashley,Debit Card
+1087,4/22/2025,322.94,groceries,Debit,Johnson Inc,New Scottville,Debit Card
+1087,5/1/2025,-211.79,rent,Debit,Clark Ltd,Robinsonview,Debit Card
+1087,4/18/2025,901.9,rent,Debit,Phelps-Moore,West Linda,Debit Card
+1087,6/10/2025,1921.63,entertainment,Debit,Wang-Hall,South Vanessaborough,Credit Card
+1087,5/31/2025,-139.5,rent,Debit,"Atkinson, Mccarthy and Flowers",Alexandratown,Debit Card
+1087,3/24/2025,1598.99,utilities,Debit,Simmons-Beard,New Cody,Credit Card
+1087,4/30/2025,899.89,travel,Debit,"Simpson, Trevino and Hughes",East Jose,Credit Card
+1087,5/31/2025,2110.33,salary,Credit,Kent-Bailey,Merrittland,Credit Card
+1087,4/13/2025,894.53,salary,Credit,"Morris, Lopez and Hayes",New Jesse,Debit Card
+1087,5/12/2025,2023.1,utilities,Debit,"Dawson, Russell and Burns",Murillomouth,Credit Card
+1087,5/21/2025,-165.17,utilities,Debit,"Moss, Johnson and Torres",Cooperville,Credit Card
+1087,6/9/2025,-87.28,utilities,Debit,Wood-Harper,Gordonmouth,Credit Card
+1087,4/25/2025,1093.69,utilities,Debit,Coleman-Cabrera,Ashleybury,Debit Card
+1087,6/2/2025,-316.34,salary,Credit,Hanson Ltd,New Hannah,Credit Card
+1087,5/4/2025,-291.67,groceries,Debit,Sanchez-Jacobs,North Ethan,Credit Card
+1087,4/16/2025,1044.42,travel,Debit,"Bennett, Romero and Young",Kristinaborough,Debit Card
+1087,4/28/2025,486.81,salary,Credit,Hicks Group,Riveraville,Debit Card
+1088,6/17/2025,2466.26,utilities,Debit,Silva-Mueller,Virginiaburgh,Credit Card
+1088,5/5/2025,-191.55,rent,Debit,Green LLC,Port Maryborough,ACH
+1088,6/10/2025,2693.91,utilities,Debit,Grimes-Skinner,Yvonnemouth,ACH
+1088,5/9/2025,1194.47,entertainment,Debit,"Thompson, Price and Chambers",New Kevinland,Debit Card
+1088,5/24/2025,2905.26,rent,Debit,"Mcguire, Schultz and Rodgers",Scottfort,ACH
+1088,4/6/2025,866.54,travel,Debit,Hernandez-Jones,East Tracystad,Debit Card
+1088,4/14/2025,2656.1,entertainment,Debit,Sherman Ltd,Maryport,Credit Card
+1088,4/9/2025,651.95,entertainment,Debit,Harmon-Wallace,Parsonsberg,Debit Card
+1088,4/4/2025,125.93,travel,Debit,Wright-Olson,Millermouth,Debit Card
+1088,4/14/2025,2913.64,groceries,Debit,Roth and Sons,Davismouth,ACH
+1088,4/30/2025,496.83,entertainment,Debit,Ramos Inc,New Pamelafurt,ACH
+1088,4/5/2025,2407.2,groceries,Debit,Brooks-Andrade,New Kylemouth,ACH
+1088,4/8/2025,1314.93,entertainment,Debit,"Weaver, Johnson and Harris",South Theodore,Credit Card
+1088,6/6/2025,672.07,travel,Debit,Johnson LLC,Watsonville,Credit Card
+1088,4/17/2025,1824.09,groceries,Debit,"Smith, Delgado and Lopez",Rodriguezfurt,Debit Card
+1088,5/11/2025,1400.42,utilities,Debit,Aguirre Inc,Port Cassidy,Debit Card
+1088,5/9/2025,1575.83,salary,Credit,"Franklin, Ho and Hill",Carloston,Debit Card
+1088,3/30/2025,943.79,salary,Credit,Bryant-Valentine,South Courtney,Credit Card
+1088,6/5/2025,-71.94,salary,Credit,Martinez-Harris,Arnoldview,ACH
+1088,4/15/2025,1301.56,salary,Credit,"Le, Allen and Mullins",Rebeccamouth,Debit Card
+1089,4/26/2025,2871.08,entertainment,Debit,Frye Group,Weberchester,Debit Card
+1089,5/9/2025,719.23,salary,Credit,West Group,Amandaport,Debit Card
+1089,6/3/2025,-212.7,salary,Credit,Davis-Davis,Joneshaven,Credit Card
+1089,6/16/2025,1805.95,utilities,Debit,Barnes-Carpenter,Hunterton,ACH
+1089,5/27/2025,2391.9,rent,Debit,"Hardy, Medina and Summers",South Andrestad,Debit Card
+1089,4/11/2025,865.8,entertainment,Debit,Love PLC,Lake Michael,ACH
+1089,6/8/2025,1557.05,travel,Debit,Coleman-Murray,Michaelhaven,Debit Card
+1089,5/17/2025,1524.71,rent,Debit,Joseph-Henderson,Vincentside,Debit Card
+1089,5/24/2025,2119.96,salary,Credit,Lopez Group,Danielton,ACH
+1089,4/13/2025,457.38,entertainment,Debit,Arnold-Weaver,West Richard,Debit Card
+1089,5/1/2025,1982,salary,Credit,"Bullock, Ward and Nicholson",Port Kathryn,ACH
+1089,6/8/2025,-71.27,entertainment,Debit,Chen-Hill,New Christopher,Debit Card
+1089,5/6/2025,2179.01,utilities,Debit,Davis-Rodriguez,Laurabury,Credit Card
+1089,5/21/2025,1026.65,rent,Debit,Wheeler LLC,East Elizabeth,Credit Card
+1089,5/9/2025,1722.4,entertainment,Debit,"Villegas, Burns and Perkins",New Amandamouth,Debit Card
+1089,6/9/2025,2720.38,travel,Debit,Paul-Luna,Annaberg,Credit Card
+1089,4/30/2025,649.51,rent,Debit,Aguirre Inc,Roymouth,ACH
+1089,5/3/2025,1449.96,salary,Credit,Collins-Peters,New Antonioport,Credit Card
+1089,5/4/2025,2561,travel,Debit,Freeman-Huff,South Jeremyview,Credit Card
+1089,4/11/2025,674.27,utilities,Debit,"Stein, Perez and Mills",East Anna,ACH
+1090,3/25/2025,2341.78,groceries,Debit,"Cameron, Jones and Barker",Thomasport,Credit Card
+1090,3/25/2025,2589.11,travel,Debit,Henderson Inc,East Matthewshire,Debit Card
+1090,5/15/2025,1812.26,travel,Debit,"Garcia, Crane and Peterson",Cookstad,ACH
+1090,5/25/2025,1102.16,rent,Debit,Buckley-Hays,Jameston,Credit Card
+1090,5/28/2025,2289.01,salary,Credit,"Carr, Henderson and Wilson",Wallacefort,Credit Card
+1090,5/16/2025,2590.14,travel,Debit,Dunn PLC,Port Johnburgh,Debit Card
+1090,3/24/2025,473.74,rent,Debit,Stewart Ltd,Port Morganshire,ACH
+1090,4/17/2025,2149.37,utilities,Debit,"Day, Webb and Larson",Lake Jeremyville,ACH
+1090,5/3/2025,26.1,entertainment,Debit,"Mclean, Roberts and Cummings",Milesburgh,Debit Card
+1090,5/11/2025,2869.96,groceries,Debit,Hanson and Sons,West Loriburgh,Credit Card
+1090,6/1/2025,1713.47,rent,Debit,Harrell Ltd,Janiceville,ACH
+1090,5/25/2025,-244.63,salary,Credit,Garcia and Sons,Lake Douglas,Credit Card
+1090,5/11/2025,1949.72,groceries,Debit,Clay and Sons,North Jacqueline,Debit Card
+1090,5/24/2025,259.87,utilities,Debit,"Brooks, Riley and Evans",Andersonside,Debit Card
+1090,6/7/2025,1831.09,rent,Debit,Reyes and Sons,South Monicaview,ACH
+1090,4/23/2025,2448.51,rent,Debit,Clarke and Sons,Brianburgh,ACH
+1090,6/6/2025,1118.31,salary,Credit,Arias LLC,New John,Debit Card
+1090,3/28/2025,939.61,salary,Credit,Gardner-York,North Debraton,ACH
+1090,5/13/2025,2420.64,entertainment,Debit,"Thomas, Fletcher and Young",North Jonathanton,ACH
+1090,3/24/2025,2729.24,salary,Credit,Davis-Nichols,Michaelton,Debit Card
+1091,5/14/2025,1298.11,entertainment,Debit,"Young, West and Cooper",South Benjamin,Credit Card
+1091,5/31/2025,2988.24,entertainment,Debit,Cole-Perkins,Lake Benjamin,ACH
+1091,4/20/2025,2895.46,salary,Credit,Griffith-Cannon,New Joanneberg,Credit Card
+1091,4/17/2025,1501.54,entertainment,Debit,Castro Ltd,Paulberg,Debit Card
+1091,5/28/2025,2861.02,entertainment,Debit,"Miller, Lane and White",New Sarah,Credit Card
+1091,4/27/2025,-348.63,entertainment,Debit,Moon LLC,Jacksonchester,Credit Card
+1091,4/17/2025,2572.18,utilities,Debit,Johnson-Jenkins,Port Angela,Credit Card
+1091,6/15/2025,2927.74,rent,Debit,Dean-Mclean,New Frank,ACH
+1091,3/31/2025,1646.87,entertainment,Debit,"Alvarado, Lindsey and Alexander",East Crystalville,Debit Card
+1091,6/15/2025,2963.23,utilities,Debit,Jones Group,Bartonberg,ACH
+1091,5/23/2025,-460.05,groceries,Debit,"Perez, Fisher and Gaines",Bradleyborough,ACH
+1091,5/1/2025,416.6,groceries,Debit,"Barnes, Robles and Jordan",Schwartzchester,Debit Card
+1091,6/18/2025,1402.44,entertainment,Debit,Vasquez-Reynolds,Jonestown,Debit Card
+1091,4/3/2025,246.92,entertainment,Debit,"Mclaughlin, Burns and Cook",East Davidmouth,Debit Card
+1091,3/29/2025,1656.78,entertainment,Debit,"Rhodes, Miller and Simmons",Port Rebeccaview,Credit Card
+1091,4/6/2025,-458.78,groceries,Debit,Levine-Coleman,Alexanderchester,Debit Card
+1091,5/24/2025,2310.28,utilities,Debit,Boyer-Stewart,Lake Justinfurt,ACH
+1091,4/10/2025,2341.99,rent,Debit,Webb Group,Normanfort,ACH
+1091,5/31/2025,1570.39,rent,Debit,"Schwartz, Robinson and Hubbard",East Stephenborough,ACH
+1091,6/10/2025,2409.68,travel,Debit,"Sanchez, Stephens and Carson",West Troy,ACH
+1092,3/28/2025,308.3,rent,Debit,Robinson-Wilson,New Dawnmouth,Debit Card
+1092,4/29/2025,-433.12,rent,Debit,Davis-Pierce,Carrollton,Debit Card
+1092,3/21/2025,1558.27,rent,Debit,Ramirez and Sons,Michaelhaven,Debit Card
+1092,6/2/2025,-80.76,utilities,Debit,"Doyle, Proctor and Vargas",Makaylamouth,Credit Card
+1092,4/27/2025,50.95,salary,Credit,Mcgrath-Cordova,West Thomas,Debit Card
+1092,5/1/2025,757.47,rent,Debit,Gonzalez-Davis,South Nicholastown,Debit Card
+1092,4/23/2025,773.07,rent,Debit,"Freeman, May and White",South Jeffreyton,Debit Card
+1092,4/17/2025,296.42,travel,Debit,Ellis LLC,Port Kaylashire,Debit Card
+1092,4/21/2025,1185.34,groceries,Debit,Fisher Ltd,East Trevor,Debit Card
+1092,6/18/2025,2480.93,entertainment,Debit,Scott LLC,South Jesusberg,ACH
+1092,5/14/2025,532,rent,Debit,Crosby-Davis,East Lisa,ACH
+1092,4/30/2025,333.7,rent,Debit,"Huynh, Lucas and Ware",New Oscarville,ACH
+1092,4/15/2025,1943.97,salary,Credit,Johnson and Sons,Lake Michaelburgh,Credit Card
+1092,6/7/2025,-360.39,utilities,Debit,"Elliott, Garza and Clark",New Elizabethburgh,ACH
+1092,6/18/2025,318.49,rent,Debit,Thomas-Sanford,North Angela,ACH
+1092,4/19/2025,-284.68,entertainment,Debit,Mcpherson-Norman,Turnershire,Credit Card
+1092,3/24/2025,2751.92,salary,Credit,Lopez PLC,Bartonton,ACH
+1092,5/18/2025,2323.94,travel,Debit,White-Moore,East Troyside,Debit Card
+1092,4/10/2025,-19.29,groceries,Debit,Irwin-Frazier,Brianport,Credit Card
+1092,3/27/2025,219.78,groceries,Debit,"Rivera, Kim and Gonzalez",Brianside,ACH
+1093,4/2/2025,741.67,rent,Debit,Rogers Inc,East Brianmouth,Credit Card
+1093,5/10/2025,1482.02,groceries,Debit,Allen Ltd,Sarahshire,Debit Card
+1093,6/1/2025,1870.11,salary,Credit,Austin Inc,Nelsonmouth,Credit Card
+1093,4/14/2025,2752.81,entertainment,Debit,Chavez-Gonzalez,Amandahaven,Credit Card
+1093,4/4/2025,330.39,utilities,Debit,Cruz LLC,West David,ACH
+1093,4/18/2025,2941.53,entertainment,Debit,Blankenship Inc,New Angela,Debit Card
+1093,6/9/2025,1578.7,groceries,Debit,Moreno Ltd,Adamsville,Debit Card
+1093,5/23/2025,-373.17,entertainment,Debit,Mathis-Peters,Brittneyshire,ACH
+1093,5/30/2025,2828.25,rent,Debit,Soto-Phillips,Stevenview,Credit Card
+1093,5/23/2025,42.86,salary,Credit,"Castro, Torres and Jones",Bauerport,Debit Card
+1093,4/24/2025,331.46,groceries,Debit,"Perkins, Ramos and Petty",East Anthonyville,ACH
+1093,5/1/2025,1603,salary,Credit,Wiggins Group,Hunterburgh,ACH
+1093,5/10/2025,2295.47,utilities,Debit,Williams-Flores,Phelpsside,Debit Card
+1093,4/7/2025,764.75,travel,Debit,"White, Howard and Gomez",Grahammouth,ACH
+1093,6/9/2025,1455.4,entertainment,Debit,Hardin Ltd,Michelleshire,Credit Card
+1093,5/15/2025,-193.6,entertainment,Debit,Hubbard-Reynolds,Lake Seth,ACH
+1093,6/14/2025,1536.18,salary,Credit,"Flores, Wilson and Evans",Thomasland,Debit Card
+1093,6/12/2025,287.21,rent,Debit,Gregory-Wheeler,Brownfurt,Debit Card
+1093,4/11/2025,1106.37,rent,Debit,Alexander Ltd,West Raymond,ACH
+1093,5/20/2025,1957.9,utilities,Debit,Bolton PLC,Matthewsshire,Credit Card
+1094,4/7/2025,1514.06,travel,Debit,Morris PLC,Lake Jamesland,Credit Card
+1094,5/2/2025,-445.52,utilities,Debit,"Long, Lambert and Hoover",Taraside,ACH
+1094,4/16/2025,-343.29,rent,Debit,Love LLC,North Jeffrey,Credit Card
+1094,6/13/2025,1717.46,groceries,Debit,Lee-Patton,Coxbury,ACH
+1094,4/13/2025,566.13,utilities,Debit,Byrd Group,Lake Chad,ACH
+1094,5/28/2025,129.04,groceries,Debit,"Vincent, Turner and Greene",Lopezborough,ACH
+1094,6/12/2025,671.51,travel,Debit,"Moore, Butler and Mcdonald",Jasminefurt,Credit Card
+1094,4/1/2025,-43.17,groceries,Debit,Burch-Valenzuela,Aaronton,Debit Card
+1094,4/13/2025,63.07,salary,Credit,Wright-Smith,New Robert,Credit Card
+1094,4/5/2025,2940.36,rent,Debit,Phillips PLC,Michaelside,Credit Card
+1094,3/29/2025,383.75,utilities,Debit,Mcdonald and Sons,New Jessicatown,ACH
+1094,3/31/2025,-334.23,utilities,Debit,Wilcox LLC,West Jennifermouth,Credit Card
+1094,6/3/2025,1692.84,travel,Debit,"Garcia, Collins and Bradshaw",Lake Rachelstad,Debit Card
+1094,5/9/2025,1544.96,groceries,Debit,Sparks Inc,Clarenceburgh,Credit Card
+1094,3/21/2025,1125.68,rent,Debit,Bennett and Sons,New Jennyburgh,ACH
+1094,4/5/2025,1150.58,entertainment,Debit,Butler Group,Robbinsville,Debit Card
+1094,5/12/2025,2090.52,groceries,Debit,Stewart-Ingram,South Scottland,ACH
+1094,4/3/2025,1279.32,rent,Debit,Jenkins-Nelson,Wendyberg,ACH
+1094,4/15/2025,1175.91,travel,Debit,"Chavez, Garcia and Bradley",East William,Debit Card
+1094,5/31/2025,61.12,utilities,Debit,"Mcdonald, Morales and Graham",Gibbsmouth,Credit Card
+1095,5/19/2025,1997.07,utilities,Debit,"Mcintyre, Norris and Yang",South Lauraport,Credit Card
+1095,5/24/2025,1788.86,salary,Credit,"Watts, Jones and Conner",Abigailbury,ACH
+1095,3/29/2025,2949.64,utilities,Debit,Anderson-Horton,Raymouth,ACH
+1095,6/14/2025,549.59,salary,Credit,Hill Group,Port Tiffanyberg,Credit Card
+1095,4/2/2025,728.01,rent,Debit,Sanchez and Sons,Michaelshire,ACH
+1095,6/8/2025,2552.81,utilities,Debit,Griffith Inc,Alisonshire,Debit Card
+1095,4/14/2025,364.66,entertainment,Debit,Parrish-Neal,Thompsonmouth,Debit Card
+1095,5/19/2025,2569.95,travel,Debit,Goodwin-Coleman,North Courtneymouth,Debit Card
+1095,4/22/2025,2483.38,rent,Debit,"George, Saunders and White",South Kristen,Debit Card
+1095,4/29/2025,-428.4,groceries,Debit,Hart Ltd,Timothyborough,ACH
+1095,4/16/2025,2919.84,utilities,Debit,"King, Wilson and Brown",Mccannmouth,Debit Card
+1095,4/13/2025,1783.61,groceries,Debit,Brooks Ltd,East John,Debit Card
+1095,6/6/2025,2597.92,rent,Debit,Torres Inc,South Brittany,Debit Card
+1095,5/17/2025,1344.78,travel,Debit,Harrison-Brennan,Lewishaven,Debit Card
+1095,5/20/2025,1558.26,travel,Debit,Cole LLC,South Natalie,Debit Card
+1095,3/25/2025,338.67,rent,Debit,Duncan Inc,Brandtport,ACH
+1095,4/8/2025,2956.25,entertainment,Debit,Gomez Inc,Port Christy,ACH
+1095,6/2/2025,18.95,groceries,Debit,Ferguson Group,Sosaside,Debit Card
+1095,4/29/2025,1999.31,utilities,Debit,Thomas-Mason,Kristinetown,Debit Card
+1095,5/27/2025,2964.02,groceries,Debit,Holder-Rodriguez,Lisaberg,ACH
+1096,4/24/2025,1555.44,utilities,Debit,Garner PLC,Vincentmouth,Credit Card
+1096,4/24/2025,2212.7,salary,Credit,Perez LLC,East Whitneyborough,Debit Card
+1096,6/5/2025,2032.65,utilities,Debit,"Dennis, Turner and Jenkins",Lake Jacobshire,Credit Card
+1096,3/31/2025,1616.92,utilities,Debit,"Leon, Dudley and Johnson",Lake Carolland,Debit Card
+1096,4/3/2025,2455.42,groceries,Debit,Ray PLC,Jonville,ACH
+1096,5/19/2025,1769.63,rent,Debit,Allen LLC,East Jamesfurt,Credit Card
+1096,4/30/2025,110.91,salary,Credit,Long-Thompson,Munozmouth,ACH
+1096,5/28/2025,-82,groceries,Debit,Wall and Sons,Port Lawrence,ACH
+1096,5/9/2025,276.99,rent,Debit,Hudson-Curry,Josephfort,Credit Card
+1096,6/7/2025,-278.51,salary,Credit,Clark-White,Abigailburgh,Credit Card
+1096,3/23/2025,1807.27,groceries,Debit,Williams-Horne,West Erinburgh,Debit Card
+1096,6/8/2025,1672.53,groceries,Debit,Taylor Ltd,Lisaland,Debit Card
+1096,4/4/2025,2664.95,entertainment,Debit,Hayden LLC,Reneeton,Debit Card
+1096,4/27/2025,116.33,entertainment,Debit,"Oconnell, Durham and Becker",Angelaside,Credit Card
+1096,4/8/2025,2414.33,entertainment,Debit,Drake-Meadows,East Gary,Debit Card
+1096,3/28/2025,602.58,utilities,Debit,Flowers-Valentine,New Adamton,Debit Card
+1096,3/28/2025,961.07,salary,Credit,Foster Group,Lake Jeremy,Debit Card
+1096,5/17/2025,2117.21,salary,Credit,"Bright, Martin and Thomas",Lisaport,Debit Card
+1096,5/22/2025,2315,rent,Debit,Schwartz LLC,North Erica,ACH
+1096,4/8/2025,1121.84,utilities,Debit,Brown LLC,East Karatown,ACH
+1097,3/28/2025,1768.76,utilities,Debit,Ball Ltd,Port Kristafort,Debit Card
+1097,6/10/2025,-285.42,salary,Credit,"Jackson, Gardner and Pena",West Michaelchester,Debit Card
+1097,5/4/2025,-401.52,salary,Credit,"Barnett, Mills and Sheppard",East Patricia,Credit Card
+1097,3/25/2025,2356,entertainment,Debit,Fischer Inc,New Matthewview,Credit Card
+1097,4/12/2025,-152.29,travel,Debit,Guerra Ltd,East Steventon,Debit Card
+1097,5/16/2025,421.82,travel,Debit,Ponce Group,Port Joel,Debit Card
+1097,4/4/2025,2662.05,utilities,Debit,"Morales, Wilson and Reed",Cobbmouth,Debit Card
+1097,6/14/2025,631.38,utilities,Debit,"Dalton, Johnston and Sanders",Fitzgeraldchester,Credit Card
+1097,5/2/2025,2115.2,rent,Debit,Ross Ltd,Lake Trevor,Credit Card
+1097,4/22/2025,1761.67,groceries,Debit,"Michael, Mendez and Brady",Garciashire,ACH
+1097,4/12/2025,2295.13,travel,Debit,Conway-Schneider,Eugenehaven,Debit Card
+1097,4/4/2025,239.03,groceries,Debit,Drake and Sons,New Megan,Credit Card
+1097,5/17/2025,1763.09,entertainment,Debit,Kennedy-Miles,New Laura,Debit Card
+1097,4/27/2025,2610.97,groceries,Debit,Bernard Group,Baxterstad,Credit Card
+1097,5/19/2025,2093.28,travel,Debit,"Sanders, Miller and Mason",South Chelseaburgh,Credit Card
+1097,5/21/2025,-81.19,travel,Debit,"Chavez, Williams and Gay",East Jeffrey,Credit Card
+1097,4/6/2025,-150.87,groceries,Debit,Sparks-Gonzalez,Samanthaberg,Debit Card
+1097,5/16/2025,2918.07,groceries,Debit,"Cooper, Rosales and English",East Robert,Debit Card
+1097,6/15/2025,2741.01,utilities,Debit,Singh-Shaffer,West Bridget,Credit Card
+1097,6/6/2025,2234.35,groceries,Debit,"Fuller, Burke and Casey",Wigginstown,ACH
+1098,3/25/2025,2080.19,utilities,Debit,Robinson PLC,Robertsonstad,Debit Card
+1098,6/18/2025,-324.97,salary,Credit,Davis-Franco,Ericberg,Debit Card
+1098,4/27/2025,-341.22,travel,Debit,"Dunlap, Campbell and Miller",East Patrickmouth,Credit Card
+1098,4/8/2025,728.54,groceries,Debit,Rodriguez-Romero,Westchester,Credit Card
+1098,4/6/2025,2968.95,salary,Credit,Rodriguez PLC,Port Williammouth,ACH
+1098,4/15/2025,1498.15,rent,Debit,Booth Inc,Mendezhaven,Debit Card
+1098,5/18/2025,1972.5,utilities,Debit,"Armstrong, Williams and Bruce",Lauraview,Debit Card
+1098,4/4/2025,2114.28,rent,Debit,"Schmidt, Marsh and Ryan",South Joseph,Debit Card
+1098,6/13/2025,602.42,utilities,Debit,Williams PLC,Ashleyborough,Credit Card
+1098,4/27/2025,211.56,utilities,Debit,Bartlett Group,Davisland,Credit Card
+1098,6/8/2025,2040.91,groceries,Debit,Gregory Group,Lake Brenda,ACH
+1098,4/30/2025,1387.67,entertainment,Debit,Deleon-Alexander,Mackfurt,Credit Card
+1098,4/15/2025,-58.99,entertainment,Debit,Moore-Hicks,Molinachester,ACH
+1098,5/25/2025,2909.15,groceries,Debit,"Sullivan, Dixon and Blackwell",West Erikaville,Debit Card
+1098,5/15/2025,306.74,rent,Debit,"Shaw, Vaughn and Garrett",North Jennifer,ACH
+1098,5/15/2025,869.41,travel,Debit,Adams-Gonzales,Greenchester,Debit Card
+1098,5/4/2025,2759.44,groceries,Debit,"Moore, Robinson and Mendoza",Smithstad,Debit Card
+1098,4/12/2025,2129.81,entertainment,Debit,"Hill, Moreno and White",Dawnfurt,ACH
+1098,6/9/2025,2837.05,utilities,Debit,Casey Ltd,Fletchershire,Debit Card
+1098,4/3/2025,1382.98,travel,Debit,"Carson, Young and Contreras",East Sheila,Debit Card
+1099,4/24/2025,1907.71,rent,Debit,Dean Inc,East Arthurport,Credit Card
+1099,5/2/2025,2580.24,rent,Debit,Perez Inc,Lake Dianemouth,Credit Card
+1099,3/26/2025,-364.6,utilities,Debit,Kelly-Kelley,Victoriabury,ACH
+1099,4/2/2025,942.2,entertainment,Debit,Johnson LLC,South Gabrielle,ACH
+1099,6/10/2025,2003.15,groceries,Debit,"Hill, Davis and Deleon",Port Timothyport,ACH
+1099,5/25/2025,78.18,salary,Credit,"Weeks, Hammond and Banks",Port Samanthaland,Debit Card
+1099,5/30/2025,432.61,utilities,Debit,"Brown, Tran and Crawford",North Luisbury,Debit Card
+1099,5/8/2025,1789.18,entertainment,Debit,"Bennett, Wise and Sandoval",Perezbury,Debit Card
+1099,5/21/2025,800.13,salary,Credit,Willis Inc,West Adam,Credit Card
+1099,4/22/2025,178.77,utilities,Debit,Johnson-Carpenter,Lake Vickie,Debit Card
+1099,5/5/2025,2028.34,utilities,Debit,Henry-Thompson,Zunigabury,Debit Card
+1099,5/20/2025,311.62,rent,Debit,Knight-Williams,Morganshire,ACH
+1099,4/15/2025,737.96,groceries,Debit,Baird Group,Andersontown,Debit Card
+1099,3/30/2025,2716.89,travel,Debit,Proctor Group,New Derrickmouth,Credit Card
+1099,5/19/2025,2647.47,groceries,Debit,Fisher-Todd,North Reginatown,ACH
+1099,6/7/2025,1612.13,entertainment,Debit,Chavez Group,West Andrewhaven,Credit Card
+1099,5/20/2025,1219.61,travel,Debit,Lee LLC,Lake Jennifer,Debit Card
+1099,4/30/2025,111.66,rent,Debit,Hamilton Group,New Debbie,Credit Card
+1099,4/11/2025,1965.45,salary,Credit,"Schmitt, Jones and Anderson",Josephland,ACH
+1099,6/2/2025,2169.94,groceries,Debit,Williams-Callahan,Garrettfurt,Credit Card
+1100,6/5/2025,488.62,rent,Debit,"Jackson, Lawrence and Long",Andrewmouth,Debit Card
+1100,6/2/2025,747.95,utilities,Debit,George-Mack,New David,ACH
+1100,4/20/2025,1339.39,salary,Credit,Acosta-Walker,Lake Joannehaven,ACH
+1100,6/16/2025,-369.99,utilities,Debit,Crane-Allen,Heidiville,Credit Card
+1100,6/6/2025,506.58,travel,Debit,"Perez, Escobar and Alexander",New Haley,Debit Card
+1100,4/2/2025,2411.03,rent,Debit,Johnson-Rivera,Jeremybury,Credit Card
+1100,6/18/2025,-434.36,entertainment,Debit,Thompson-Vaughn,Amandaland,ACH
+1100,4/28/2025,1471.04,utilities,Debit,"Garcia, Yang and Reed",Tristanhaven,ACH
+1100,4/25/2025,2011.73,groceries,Debit,"Adams, Burke and Allen",Davidmouth,Credit Card
+1100,5/5/2025,2458.72,groceries,Debit,"May, Moore and Taylor",Pinedaland,ACH
+1100,4/16/2025,70.79,groceries,Debit,"Franco, Washington and Jackson",Laurabury,Credit Card
+1100,4/2/2025,144.24,utilities,Debit,Burke-Lynn,South Amy,Credit Card
+1100,4/21/2025,815.84,salary,Credit,"Diaz, Santana and Zavala",Lake Shawn,Debit Card
+1100,4/12/2025,1704.12,groceries,Debit,Martin PLC,Barnettchester,Credit Card
+1100,3/22/2025,1605.65,salary,Credit,"Johnson, Zimmerman and Harrington",North Deborah,Debit Card
+1100,4/6/2025,2951.04,entertainment,Debit,Rodgers and Sons,Fisherhaven,Debit Card
+1100,5/14/2025,554.66,groceries,Debit,Burton Inc,Gibsonmouth,ACH
+1100,4/8/2025,-487.95,utilities,Debit,Price Ltd,West Aprilchester,Debit Card
+1100,4/7/2025,457.6,travel,Debit,Mitchell-Johnson,North Denise,Credit Card
+1100,4/17/2025,846.88,travel,Debit,"Miller, Clark and Brown",Teresaburgh,Credit Card
