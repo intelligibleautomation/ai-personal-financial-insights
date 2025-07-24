@@ -213,8 +213,8 @@ def retrieve_transaction_statistics(
             final_params = query_params
 
             query = f"""
-            SELECT COALESCE(SUM(CASE WHEN type = 'Income' THEN amount ELSE 0 END), 0) AS total_income,
-            COALESCE(SUM(CASE WHEN type = 'Expense' THEN amount ELSE 0 END), 0) AS total_expenses 
+            SELECT COALESCE(SUM(CASE WHEN LOWER(type) in ('income','credit') THEN amount ELSE 0 END), 0) AS total_income,
+            COALESCE(SUM(CASE WHEN LOWER(type) in ( 'expense', 'debit' THEN amount ELSE 0 END), 0) AS total_expenses 
             FROM user_transactions WHERE user_id = %s{date_filter}
             """
 
