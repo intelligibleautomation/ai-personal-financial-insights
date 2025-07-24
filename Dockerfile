@@ -15,4 +15,4 @@ COPY . .
 EXPOSE 5000
 
 # Command to run the Flask app
-CMD ["python", "conversational_assitent.py"]
+CMD ["python", "app.py"]
