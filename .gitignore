@@ -1,0 +1,23 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.egg
+*.egg-info/
+*.dist-info/
+*.coverage
+
+*.bin
+*.zip
+
+# IDE
+.vscode/
+.idea/
+
+# venv
+venv/
+.env.local

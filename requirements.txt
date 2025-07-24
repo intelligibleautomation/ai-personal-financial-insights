@@ -1,6 +1,10 @@
 pandas
 google-generativeai
-psycopg2
+python-dotenv
+rich
+google-genai
+mem0ai
+psycopg2-binary
 dotenv
 rich
 Pillow
@@ -14,3 +18,4 @@ fuzzywuzzy
 gunicorn
 waitress
 uvicorn
+flask
