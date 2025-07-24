@@ -3,3 +3,4 @@ google-generativeai
 psycopg2
 dotenv
 rich
+flask
