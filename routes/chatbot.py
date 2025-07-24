@@ -6,6 +6,7 @@ from flask import Blueprint, request, jsonify
 import logging
 from fuzzywuzzy import fuzz
 from routes.decorators import retry_with_exponential_backoff
+from dotenv import load_dotenv
 import google.generativeai as genai
 
 bp = Blueprint("chatbot", __name__, url_prefix="/chatbot")
@@ -13,6 +14,7 @@ log = logging.getLogger("Chatbot")
 logging.basicConfig(level=logging.INFO)
 
 # --- Gemini API Configuration ---
+load_dotenv()
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 
 if not GEMINI_API_KEY:

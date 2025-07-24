@@ -1,5 +1,6 @@
 from flask import Blueprint, request, jsonify
 import logging
+import re # Regular expression Library Import
 
 bp = Blueprint("alerts", __name__, url_prefix="/alerts")
 logging.basicConfig(level=logging.INFO)

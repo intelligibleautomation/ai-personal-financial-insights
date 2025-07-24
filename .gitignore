@@ -21,3 +21,4 @@ __pycache__/
 # venv
 venv/
 .env.local
+routes/__pycache__/*.pyc
