@@ -1,6 +1,6 @@
 pandas
 google-generativeai
-psycopg2
+psycopg2-binary
 dotenv
 rich
 flask
