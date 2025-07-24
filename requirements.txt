@@ -19,3 +19,4 @@ gunicorn
 waitress
 uvicorn
 flask
+python-Levenshtein
