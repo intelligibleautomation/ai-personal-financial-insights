@@ -3,6 +3,9 @@ from flask_cors import CORS
 from asgiref.wsgi import WsgiToAsgi
 from routes import chatbot, transactions, health, financial_score, alerts, statistics
 from routes.chatbot import bp as chatbot_bp
+from routes.daily_spend import bp as daily_spend_bp
+from routes.spending_by_category import bp as spending_by_category_bp
+
 
 # Initialize Flask app
 app = Flask(__name__)
@@ -15,6 +18,8 @@ app.register_blueprint(health.bp)
 app.register_blueprint(financial_score.bp)
 app.register_blueprint(statistics.bp)
 app.register_blueprint(alerts.bp)
+app.register_blueprint(daily_spend_bp)
+app.register_blueprint(spending_by_category_bp)
 
 # ASGI wrapper for Uvicorn
 asgi_app = WsgiToAsgi(app)

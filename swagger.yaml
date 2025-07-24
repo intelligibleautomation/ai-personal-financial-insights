@@ -1,0 +1,170 @@
+openapi: 3.0.0
+info:
+  title: Financial Assistant API
+  description: API documentation for the Financial Assistant project.
+  version: 1.0.0
+servers:
+  - url: http://localhost:5000
+paths:
+  /chatbot/chatbot-interact:
+    post:
+      summary: Interact with the chatbot.
+      description: Handles user interactions with the chatbot and provides responses based on the intent.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                utterance:
+                  type: string
+                  description: The user's input or query.
+      responses:
+        200:
+          description: Successful response from the chatbot.
+          content:
+            application/json:
+              schema:
+                type: object
+        400:
+          description: Bad request (e.g., missing utterance).
+        500:
+          description: Internal server error.
+
+  /daily-spend/trends:
+    get:
+      summary: Get daily spending trends.
+      description: Provides daily spending trends, including the last 30 days' spending pattern.
+      responses:
+        200:
+          description: Successful response with spending trends.
+          content:
+            application/json:
+              schema:
+                type: object
+        500:
+          description: Internal server error.
+
+  /spending-by-category/breakdown:
+    get:
+      summary: Get spending breakdown by category or subcategory.
+      description: Provides a detailed breakdown of spending by category or subcategory for the last 10 transactions.
+      responses:
+        200:
+          description: Successful response with spending breakdown.
+          content:
+            application/json:
+              schema:
+                type: object
+        500:
+          description: Internal server error.
+
+  /transactions/add_transaction:
+    post:
+      summary: Add a new transaction.
+      description: Adds a new transaction to the database.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                user_id:
+                  type: string
+                  description: User ID associated with the transaction.
+                date:
+                  type: string
+                  format: date
+                  description: Transaction date in ISO 8601 or DD-MM-YYYY format.
+                amount:
+                  type: number
+                  format: float
+                  description: Transaction amount.
+                type:
+                  type: string
+                  description: Type of transaction (Income/Expense).
+                category:
+                  type: string
+                  description: Transaction category.
+                subcategory:
+                  type: string
+                  description: Transaction subcategory (optional).
+                description:
+                  type: string
+                  description: Transaction description.
+                merchant:
+                  type: string
+                  description: Merchant associated with the transaction.
+                location:
+                  type: string
+                  description: Location of the transaction.
+                payment_method:
+                  type: string
+                  description: Payment method used.
+      responses:
+        201:
+          description: Transaction added successfully.
+        400:
+          description: Bad request (e.g., missing required fields).
+        500:
+          description: Internal server error.
+
+  /financial_score/calculate:
+    post:
+      summary: Calculate financial health score.
+      description: Calculates the financial health score for a user based on income, expenses, savings, and other parameters.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                income:
+                  type: number
+                  format: float
+                  description: User's income.
+                expense:
+                  type: number
+                  format: float
+                  description: User's expenses.
+                savings:
+                  type: number
+                  format: float
+                  description: User's savings.
+                discretionary_ratio:
+                  type: number
+                  format: float
+                  description: User's discretionary spending ratio.
+                ai_risk_score:
+                  type: number
+                  format: float
+                  description: AI risk score (optional, default is 5).
+                weights:
+                  type: object
+                  description: Weights for different scoring components (optional).
+      responses:
+        200:
+          description: Successful response with financial health score.
+          content:
+            application/json:
+              schema:
+                type: object
+        400:
+          description: Bad request (e.g., missing required fields).
+        500:
+          description: Internal server error.
+
+  /health/:
+    get:
+      summary: Health check.
+      description: Checks the health of the server.
+      responses:
+        200:
+          description: Server is running.
+          content:
+            application/json:
+              schema:
+                type: object

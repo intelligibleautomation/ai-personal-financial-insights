@@ -20,3 +20,4 @@ waitress
 uvicorn
 flask
 flask-cors
+python-Levenshtein
