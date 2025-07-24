@@ -3,3 +3,14 @@ google-generativeai
 psycopg2
 dotenv
 rich
+Pillow
+pytesseract
+pdf2image
+vertexai
+flask
+flask_cors
+Flask[async]
+fuzzywuzzy
+gunicorn
+waitress
+uvicorn
