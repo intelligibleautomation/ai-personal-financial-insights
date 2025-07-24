@@ -1,7 +1,14 @@
 pandas
 google-generativeai
+<<<<<<< HEAD
 psycopg2
 python-dotenv
 rich
 google-genai
 mem0ai
+=======
+psycopg2-binary
+dotenv
+rich
+flask
+>>>>>>> f81fb0a543fc80c7347b18ac7a8f178652e166e8
