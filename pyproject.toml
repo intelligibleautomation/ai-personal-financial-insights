@@ -1,0 +1,16 @@
+[project]
+name = "ai-personal-financial-insights"
+version = "0.1.0"
+description = "AI Agent for Personal Financial Insights"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "flask>=3.1.1",
+    "google-genai>=1.27.0",
+    "google-generativeai>=0.8.5",
+    "mem0ai>=0.1.114",
+    "pandas>=2.3.1",
+    "psycopg2>=2.9.10",
+    "python-dotenv>=1.1.1",
+    "rich>=14.0.0",
+]

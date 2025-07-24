@@ -1,5 +1,7 @@
 pandas
 google-generativeai
 psycopg2
-dotenv
+python-dotenv
 rich
+google-genai
+mem0ai
