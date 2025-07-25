@@ -2,6 +2,8 @@ from flask import Blueprint, jsonify
 import pandas as pd
 from database import get_db_connection
 from datetime import datetime, timedelta
+from flask import Blueprint, request, jsonify
+
 
 bp = Blueprint("daily_spend", __name__, url_prefix="/daily-spend")
 
@@ -11,19 +13,26 @@ def get_daily_spending_trends():
     try:
         # Connect to the database
         conn = get_db_connection()
+        user_id = request.args.get("user_id")
+
+        # Validate that user_id is provided
+        if not user_id:
+            return jsonify({"error": "user_id query parameter is required."}), 400
         # SQL query to fetch transaction data
         query = """
-        SELECT
-            date,
-            amount
-        FROM
-            user_transactions
-        ORDER BY
-            date;
-        """
+               SELECT
+                   date,
+                   amount
+               FROM
+                   user_transactions
+               WHERE
+                   user_id = 1
+               ORDER BY
+                   date;
+               """
 
         # Load data into a pandas DataFrame
-        df = pd.read_sql_query(query, conn)
+        df = pd.read_sql_query(query.format(user_id), conn)
 
         # Ensure the 'date' column is in datetime format
         df['date'] = pd.to_datetime(df['date'], errors='coerce')
