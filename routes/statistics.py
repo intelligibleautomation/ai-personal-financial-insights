@@ -210,15 +210,49 @@ def retrieve_transaction_statistics(
                 date_filter = " AND date <= %s"
                 query_params.append(end_date)
 
-            final_params = query_params
-
+            # Updated query to include monthly averages as requested by the user
             query = f"""
-            SELECT COALESCE(SUM(CASE WHEN LOWER(type) in ('income','credit') THEN amount ELSE 0 END), 0) AS total_income,
-            COALESCE(SUM(CASE WHEN LOWER(type) in ('expense', 'debit') THEN amount ELSE 0 END), 0) AS total_expenses
-            FROM user_transactions WHERE user_id = %s{date_filter}
+            WITH monthly_summary AS (
+                SELECT
+                    DATE_TRUNC('month', date) AS month,
+                    SUM(CASE WHEN LOWER(type) IN ('income', 'credit') THEN amount ELSE 0 END) AS income_per_month,
+                    SUM(CASE WHEN LOWER(type) IN ('expense', 'debit') THEN amount ELSE 0 END) AS expense_per_month
+                FROM user_transactions
+                WHERE user_id = %s {date_filter}
+                GROUP BY DATE_TRUNC('month', date)
+            ),
+            total_summary AS (
+                SELECT
+                    SUM(CASE WHEN LOWER(type) IN ('income', 'credit') THEN amount ELSE 0 END) AS total_income,
+                    SUM(CASE WHEN LOWER(type) IN ('expense', 'debit') THEN amount ELSE 0 END) AS total_expense
+                FROM user_transactions
+                WHERE user_id = %s {date_filter}
+            ),
+            average_summary AS (
+                SELECT
+                    ROUND(AVG(income_per_month), 2) AS avg_monthly_income,
+                    ROUND(AVG(expense_per_month), 2) AS avg_monthly_expense
+                FROM monthly_summary
+            )
+            SELECT
+                t.total_income,
+                t.total_expense,
+                a.avg_monthly_income,
+                a.avg_monthly_expense
+            FROM total_summary t, average_summary a;
             """
+            # The user's query passed only 1 user_id parameter, but the CTEs require 2.
+            # We'll duplicate the user_id for the second CTE, and then add date_filter params.
+            final_params = [user_id, user_id]
+            if start_date and end_date:
+                final_params.extend([start_date, end_date, start_date, end_date])
+            elif start_date:
+                final_params.extend([start_date, start_date])
+            elif end_date:
+                final_params.extend([end_date, end_date])
 
-            log.info(f"🔍 Executing query with params: user_id={user_id}")
+
+            log.info(f"🔍 Executing query for retrieve_transaction_statistics with params: {final_params}")
             log.debug(f"📝 SQL Query: {query}")
             log.debug(f"📝 Parameters: {final_params}")
 
@@ -226,26 +260,40 @@ def retrieve_transaction_statistics(
             result = cursor.fetchone()
 
             if result:
-                total_income, total_expenses = result
+                # Unpack the four expected results from the new query
+                total_income, total_expenses, avg_monthly_income, avg_monthly_expense = result
 
-                total_income = total_income or 0
-                total_expenses = total_expenses or 0
+                total_income = total_income or 0.0
+                total_expenses = total_expenses or 0.0
                 balance = total_income - total_expenses
+                avg_monthly_income = avg_monthly_income or 0.0
+                avg_monthly_expense = avg_monthly_expense or 0.0
+
                 log.info(
-                    f"✅ Retrieved statistics: Total Income={total_income}, Total Expenses={total_expenses}, Balance={balance}"
+                    f"✅ Retrieved statistics: Total Income={total_income}, Total Expenses={total_expenses}, Balance={balance}, Avg Monthly Income={avg_monthly_income}, Avg Monthly Expense={avg_monthly_expense}"
                 )
                 stats = {
                     "total_income": float(total_income),
                     "total_expenses": float(total_expenses),
                     "balance": float(balance),
+                    "avg_monthly_income": float(avg_monthly_income),
+                    "avg_monthly_expense": float(avg_monthly_expense),
                     "date_range": {"start_date": start_date, "end_date": end_date},
                 }
 
                 log.info(f"✅ Successfully calculated statistics: {stats}")
                 return stats
             else:
-                log.warning("⚠️ No transactions found for this user")
-                return {"error": "No transactions found for this user."}
+                log.warning("⚠️ No transactions found for this user, returning default zeros.")
+                # Return default zero values if no transactions are found
+                return {
+                    "total_income": 0.0,
+                    "total_expenses": 0.0,
+                    "balance": 0.0,
+                    "avg_monthly_income": 0.0,
+                    "avg_monthly_expense": 0.0,
+                    "date_range": {"start_date": start_date, "end_date": end_date},
+                }
 
     except psycopg2.Error as e:
         error_msg = f"Database error occurred: {str(e)}"
@@ -772,4 +820,3 @@ def get_financial_summary():
     finally:
         if conn:
             conn.close()
-
