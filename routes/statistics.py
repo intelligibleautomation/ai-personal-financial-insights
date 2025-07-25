@@ -5,7 +5,7 @@ import psycopg2
 from dateutil.parser import isoparse
 from flask import Blueprint, request, jsonify
 import logging
-from database import get_db_connection, execute_query
+from database import get_db_connection, execute_query  # Assuming 'database' module is correctly set up
 
 log = logging.getLogger("Statistics")
 bp = Blueprint("statistics", __name__, url_prefix="/statistics")
@@ -172,7 +172,7 @@ def get_monthly_trends():
 
 
 def retrieve_transaction_statistics(
-    user_id: str, start_date: Optional[str] = None, end_date: Optional[str] = None
+        user_id: str, start_date: Optional[str] = None, end_date: Optional[str] = None
 ) -> dict:
     """
     Retrieve transaction statistics for a given user from the PostgreSQL database.
@@ -214,7 +214,7 @@ def retrieve_transaction_statistics(
 
             query = f"""
             SELECT COALESCE(SUM(CASE WHEN LOWER(type) in ('income','credit') THEN amount ELSE 0 END), 0) AS total_income,
-            COALESCE(SUM(CASE WHEN LOWER(type) in ( 'expense', 'debit' THEN amount ELSE 0 END), 0) AS total_expenses 
+            COALESCE(SUM(CASE WHEN LOWER(type) in ('expense', 'debit') THEN amount ELSE 0 END), 0) AS total_expenses
             FROM user_transactions WHERE user_id = %s{date_filter}
             """
 
@@ -262,7 +262,7 @@ def retrieve_transaction_statistics(
 
 
 def get_category_breakdown_from_db(
-    user_id: str, start_date: Optional[str] = None, end_date: Optional[str] = None
+        user_id: str, start_date: Optional[str] = None, end_date: Optional[str] = None
 ) -> dict:
     """
     Retrieve spending breakdown by category for a given user from the PostgreSQL database.
@@ -295,11 +295,11 @@ def get_category_breakdown_from_db(
                 query_params.append(end_date)
 
             query = f"""
-            SELECT category, 
+            SELECT category,
                    SUM(CASE WHEN type = 'Expense' THEN amount ELSE 0 END) as total_expenses,
                    SUM(CASE WHEN type = 'Income' THEN amount ELSE 0 END) as total_income,
                    COUNT(*) as transaction_count
-            FROM user_transactions 
+            FROM user_transactions
             WHERE user_id = %s{date_filter}
             GROUP BY category
             ORDER BY total_expenses DESC
@@ -373,13 +373,13 @@ def get_monthly_trends_from_db(user_id: str, months: int = 6) -> dict:
 
         with conn.cursor() as cursor:
             query = """
-            SELECT 
+            SELECT
                 DATE_TRUNC('month', date) as month,
                 SUM(CASE WHEN type = 'Income' THEN amount ELSE 0 END) as total_income,
                 SUM(CASE WHEN type = 'Expense' THEN amount ELSE 0 END) as total_expenses,
                 COUNT(*) as transaction_count
-            FROM user_transactions 
-            WHERE user_id = %s 
+            FROM user_transactions
+            WHERE user_id = %s
                 AND date >= CURRENT_DATE - INTERVAL '%s months'
             GROUP BY DATE_TRUNC('month', date)
             ORDER BY month DESC
@@ -456,11 +456,11 @@ def get_daily_spending():
 
         # Get daily spending for the last N days
         query = """
-            SELECT 
+            SELECT
                 DATE(date) as spending_date,
                 SUM(CASE WHEN type = 'Expense' THEN amount ELSE 0 END) as daily_spending
-            FROM user_transactions 
-            WHERE user_id = %s 
+            FROM user_transactions
+            WHERE user_id = %s
                 AND date >= CURRENT_DATE - INTERVAL %s
                 AND type = 'Expense'
             GROUP BY DATE(date)
@@ -544,14 +544,14 @@ def get_weekly_spending_pattern():
 
         # Get spending by day of week for the last N weeks
         query = """
-            SELECT 
+            SELECT
                 EXTRACT(DOW FROM date) as day_of_week,
                 TO_CHAR(date, 'Dy') as day_name,
                 AVG(CASE WHEN type = 'Expense' THEN amount ELSE 0 END) as avg_spending,
                 SUM(CASE WHEN type = 'Expense' THEN amount ELSE 0 END) as total_spending,
                 COUNT(CASE WHEN type = 'Expense' THEN 1 END) as transaction_count
-            FROM user_transactions 
-            WHERE user_id = %s 
+            FROM user_transactions
+            WHERE user_id = %s
                 AND date >= CURRENT_DATE - INTERVAL %s
                 AND type = 'Expense'
             GROUP BY EXTRACT(DOW FROM date), TO_CHAR(date, 'Dy')
@@ -668,15 +668,15 @@ def get_financial_summary():
 
         # Get comprehensive financial data - Use proper interval format
         query = """
-            SELECT 
+            SELECT
                 SUM(CASE WHEN type = 'Income' THEN amount ELSE 0 END) as total_income,
                 SUM(CASE WHEN type = 'Expense' THEN amount ELSE 0 END) as total_expenses,
                 COUNT(CASE WHEN type = 'Income' THEN 1 END) as income_transactions,
                 COUNT(CASE WHEN type = 'Expense' THEN 1 END) as expense_transactions,
                 AVG(CASE WHEN type = 'Income' THEN amount END) as avg_income_per_transaction,
                 AVG(CASE WHEN type = 'Expense' THEN amount END) as avg_expense_per_transaction
-            FROM user_transactions 
-            WHERE user_id = %s 
+            FROM user_transactions
+            WHERE user_id = %s
                 AND date >= CURRENT_DATE - INTERVAL '%s months';
         """
 
@@ -772,3 +772,4 @@ def get_financial_summary():
     finally:
         if conn:
             conn.close()
+
